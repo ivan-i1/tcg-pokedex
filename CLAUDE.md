@@ -27,4 +27,6 @@ The gates only reach pure logic. Rendering must be verified in a browser, simula
 - **Strings:** every user-visible string goes through `t()`, with keys in all six locale files. `__tests__/locales.test.ts` enforces parity. Plurals need `_one` and `_other`; es, fr, it and pt also take `_many`.
 - **Native folders are generated.** Never edit `/android` or `/ios`; change `app.json` or a plugin and run `npm run prebuild`.
 - **Never commit** `credentials/`, keystores or `.env.local`. The repo is public.
+- **Server** (`server/`) runs on Node 24 type stripping: import sibling and shared files **with** the `.ts` extension (`tsconfig` allows it), use only erasable TypeScript (no enums or namespaces), and import nothing from `src/` except the import-free `src/core/coverage/coverage.ts`. The Dockerfile copies exactly that file.
+- **Deploying the API** changes the shared home server: `git pull && docker compose -f server/compose.yml up -d --build` in `~/services/tcg-pokedex`. Reload Caddy with `caddy reload`, never `restart`, which drops Zitadel/Kuma/Beszel too.
 - **PWA:** the web build uses `public/index.html` (manifest link, apple-touch-icon). Keep `app.json` → `web.output` as `single`, or that template stops applying.
