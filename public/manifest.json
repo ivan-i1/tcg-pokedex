@@ -1,0 +1,14 @@
+{
+  "name": "TCG Pokédex",
+  "short_name": "TCG Dex",
+  "description": "Which Pokémon TCG sets, newest first, complete a card for every Pokémon.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F7F7FA",
+  "theme_color": "#2B2F86",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

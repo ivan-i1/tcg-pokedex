@@ -1,0 +1,32 @@
+{
+  "common": {
+    "back": "Back",
+    "close": "Close",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "retry": "Retry",
+    "loading": "Loading…",
+    "reset": "Reset to defaults"
+  },
+  "home": {
+    "title": "TCG Pokédex",
+    "subtitle": "Which sets, newest first, complete a card for every Pokémon?",
+    "settings": "Settings",
+    "about": "About"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languageSystem": "Device language",
+    "theme": "Theme",
+    "themeSystem": "Device",
+    "themeLight": "Light",
+    "themeDark": "Dark"
+  },
+  "about": {
+    "title": "About",
+    "version": "Version {{version}}",
+    "platform": "Platform: {{platform}}",
+    "body": "Collect one card of every Pokémon. TCG Pokédex walks the sets from newest to oldest and tells you which ones you need."
+  }
+}

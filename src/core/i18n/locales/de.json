@@ -1,0 +1,32 @@
+{
+  "common": {
+    "back": "Zurück",
+    "close": "Schließen",
+    "cancel": "Abbrechen",
+    "ok": "OK",
+    "retry": "Erneut versuchen",
+    "loading": "Wird geladen…",
+    "reset": "Auf Standard zurücksetzen"
+  },
+  "home": {
+    "title": "TCG Pokédex",
+    "subtitle": "Welche Erweiterungen, von der neuesten zur ältesten, decken eine Karte für jedes Pokémon ab?",
+    "settings": "Einstellungen",
+    "about": "Info"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "language": "Sprache",
+    "languageSystem": "Gerätesprache",
+    "theme": "Design",
+    "themeSystem": "Gerät",
+    "themeLight": "Hell",
+    "themeDark": "Dunkel"
+  },
+  "about": {
+    "title": "Info",
+    "version": "Version {{version}}",
+    "platform": "Plattform: {{platform}}",
+    "body": "Sammle eine Karte von jedem Pokémon. TCG Pokédex geht die Erweiterungen von der neuesten zur ältesten durch und zeigt dir, welche du brauchst."
+  }
+}

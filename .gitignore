@@ -1,0 +1,57 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+dist-native/
+web-build/
+expo-env.d.ts
+
+# Generated native projects (Continuous Native Generation — app.json + plugins are the source of truth)
+/ios
+/android
+
+# Generated at install time by scripts/build-phaser-html.mjs
+src/engines/phaser/generated/
+
+# Signing secrets — NEVER commit
+credentials/
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.pem
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+
+# Native build outputs
+.kotlin/
+*.orig.*
+*.apk
+*.aab
+*.ipa
+
+# Metro
+.metro-health-check*
+
+# logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+
+# local env files
+.env
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+# local agent state
+claude/
+.claude/worktrees/

@@ -1,0 +1,32 @@
+{
+  "common": {
+    "back": "Indietro",
+    "close": "Chiudi",
+    "cancel": "Annulla",
+    "ok": "OK",
+    "retry": "Riprova",
+    "loading": "Caricamento…",
+    "reset": "Ripristina predefiniti"
+  },
+  "home": {
+    "title": "TCG Pokédex",
+    "subtitle": "Quali espansioni, dalla più recente alla più vecchia, coprono una carta per ogni Pokémon?",
+    "settings": "Impostazioni",
+    "about": "Informazioni"
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "language": "Lingua",
+    "languageSystem": "Lingua del dispositivo",
+    "theme": "Tema",
+    "themeSystem": "Dispositivo",
+    "themeLight": "Chiaro",
+    "themeDark": "Scuro"
+  },
+  "about": {
+    "title": "Informazioni",
+    "version": "Versione {{version}}",
+    "platform": "Piattaforma: {{platform}}",
+    "body": "Colleziona una carta di ogni Pokémon. TCG Pokédex scorre le espansioni dalla più recente alla più vecchia e ti dice quali ti servono."
+  }
+}
