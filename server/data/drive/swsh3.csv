@@ -1,0 +1,199 @@
+dexNumber,name,setName,setNumber,rarity,type
+12,Butterfree,Darkness Ablaze,001,Ultra-Rare Rare,Grass
+12,Butterfree,Darkness Ablaze,002,Rare VMAX,Grass
+46,Paras,Darkness Ablaze,003,Common,Grass
+47,Parasect,Darkness Ablaze,004,Uncommon,Grass
+455,Carnivine,Darkness Ablaze,005,Uncommon,Grass
+511,Pansage,Darkness Ablaze,006,Common,Grass
+512,Simisage,Darkness Ablaze,007,Uncommon,Grass
+588,Karrablast,Darkness Ablaze,008,Common,Grass
+616,Shelmet,Darkness Ablaze,009,Common,Grass
+617,Accelgor,Darkness Ablaze,010,Rare,Grass
+722,Rowlet,Darkness Ablaze,011,Common,Grass
+723,Dartrix,Darkness Ablaze,012,Uncommon,Grass
+724,Decidueye,Darkness Ablaze,013,Rare Holo,Grass
+761,Bounsweet,Darkness Ablaze,014,Common,Grass
+762,Steenee,Darkness Ablaze,015,Uncommon,Grass
+763,Tsareena,Darkness Ablaze,016,Rare,Grass
+767,Wimpod,Darkness Ablaze,017,Common,Grass
+768,Golisopod,Darkness Ablaze,018,Rare Holo,Grass
+6,Charizard,Darkness Ablaze,019,Ultra-Rare Rare,Fire
+6,Charizard,Darkness Ablaze,020,Rare VMAX,Fire
+229,Houndoom,Darkness Ablaze,021,Ultra-Rare Rare,Fire
+255,Torchic,Darkness Ablaze,022,Common,Fire
+256,Combusken,Darkness Ablaze,023,Uncommon,Fire
+257,Blaziken,Darkness Ablaze,024,Rare Holo,Fire
+485,Heatran,Darkness Ablaze,025,Rare Holo,Fire
+513,Pansear,Darkness Ablaze,026,Common,Fire
+514,Simisear,Darkness Ablaze,027,Uncommon,Fire
+555,Galarian Darmanitan,Darkness Ablaze,028,Rare,Fire
+636,Larvesta,Darkness Ablaze,029,Common,Fire
+637,Volcarona,Darkness Ablaze,030,Rare,Fire
+662,Fletchinder,Darkness Ablaze,031,Uncommon,Fire
+663,Talonflame,Darkness Ablaze,032,Rare,Fire
+851,Centiskorch,Darkness Ablaze,033,Ultra-Rare Rare,Fire
+851,Centiskorch,Darkness Ablaze,034,Rare VMAX,Fire
+122,Galarian Mr. Mime,Darkness Ablaze,035,Common,Water
+866,Galarian Mr. Rime,Darkness Ablaze,036,Rare,Water
+245,Suicune,Darkness Ablaze,037,Rare Holo,Water
+349,Feebas,Darkness Ablaze,038,Common,Water
+350,Milotic,Darkness Ablaze,039,Rare Holo,Water
+369,Relicanth,Darkness Ablaze,040,Uncommon,Water
+515,Panpour,Darkness Ablaze,041,Common,Water
+516,Simipour,Darkness Ablaze,042,Uncommon,Water
+554,Galarian Darumaka,Darkness Ablaze,043,Common,Water
+555,Galarian Darmanitan,Darkness Ablaze,044,Rare,Water
+582,Vanillite,Darkness Ablaze,045,Common,Water
+583,Vanillish,Darkness Ablaze,046,Uncommon,Water
+584,Vanilluxe,Darkness Ablaze,047,Rare,Water
+613,Cubchoo,Darkness Ablaze,048,Common,Water
+614,Beartic,Darkness Ablaze,049,Rare,Water
+746,Wishiwashi,Darkness Ablaze,050,Common,Water
+747,Mareanie,Darkness Ablaze,051,Common,Water
+748,Toxapex,Darkness Ablaze,052,Uncommon,Water
+882,Dracovish,Darkness Ablaze,053,Rare Holo,Water
+883,Arctovish,Darkness Ablaze,054,Rare,Water
+179,Mareep,Darkness Ablaze,055,Common,Lightning
+180,Flaaffy,Darkness Ablaze,056,Uncommon,Lightning
+181,Ampharos,Darkness Ablaze,057,Rare,Lightning
+309,Electrike,Darkness Ablaze,058,Common,Lightning
+310,Manectric,Darkness Ablaze,059,Rare,Lightning
+738,Vikavolt,Darkness Ablaze,060,Ultra-Rare Rare,Lightning
+785,Tapu Koko,Darkness Ablaze,061,Rare Holo,Lightning
+848,Toxel,Darkness Ablaze,062,Common,Lightning
+849,Toxtricity,Darkness Ablaze,063,Rare Holo,Lightning
+871,Pincurchin,Darkness Ablaze,064,Rare Holo,Lightning
+880,Dracozolt,Darkness Ablaze,065,Rare,Lightning
+881,Arctozolt,Darkness Ablaze,066,Rare Holo,Lightning
+39,Jigglypuff,Darkness Ablaze,067,Common,Psychic
+40,Wigglytuff,Darkness Ablaze,068,Rare,Psychic
+151,Mew,Darkness Ablaze,069,Ultra-Rare Rare,Psychic
+209,Snubbull,Darkness Ablaze,070,Common,Psychic
+210,Granbull,Darkness Ablaze,071,Rare,Psychic
+337,Lunatone,Darkness Ablaze,072,Uncommon,Psychic
+574,Gothita,Darkness Ablaze,073,Common,Psychic
+575,Gothorita,Darkness Ablaze,074,Uncommon,Psychic
+576,Gothitelle,Darkness Ablaze,075,Rare,Psychic
+622,Golett,Darkness Ablaze,076,Common,Psychic
+623,Golurk,Darkness Ablaze,077,Rare,Psychic
+702,Dedenne,Darkness Ablaze,078,Uncommon,Psychic
+755,Morelull,Darkness Ablaze,079,Common,Psychic
+756,Shiinotic,Darkness Ablaze,080,Uncommon,Psychic
+778,Mimikyu,Darkness Ablaze,081,Rare,Psychic
+854,Sinistea,Darkness Ablaze,082,Common,Psychic
+855,Polteageist,Darkness Ablaze,083,Uncommon,Psychic
+50,Diglett,Darkness Ablaze,084,Common,Fighting
+51,Dugtrio,Darkness Ablaze,085,Uncommon,Fighting
+246,Larvitar,Darkness Ablaze,086,Common,Fighting
+247,Pupitar,Darkness Ablaze,087,Uncommon,Fighting
+248,Tyranitar,Darkness Ablaze,088,Rare Holo,Fighting
+328,Trapinch,Darkness Ablaze,089,Common,Fighting
+329,Vibrava,Darkness Ablaze,090,Uncommon,Fighting
+330,Flygon,Darkness Ablaze,091,Rare,Fighting
+338,Solrock,Darkness Ablaze,092,Uncommon,Fighting
+449,Hippopotas,Darkness Ablaze,093,Common,Fighting
+450,Hippowdon,Darkness Ablaze,094,Rare,Fighting
+464,Rhyperior,Darkness Ablaze,095,Ultra-Rare Rare,Fighting
+660,Diggersby,Darkness Ablaze,096,Rare,Fighting
+766,Passimian,Darkness Ablaze,097,Common,Fighting
+865,Galarian Sirfetch'd,Darkness Ablaze,098,Rare,Fighting
+80,Galarian Slowbro,Darkness Ablaze,099,Ultra-Rare Rare,Darkness
+88,Grimer,Darkness Ablaze,100,Common,Darkness
+89,Muk,Darkness Ablaze,101,Rare,Darkness
+167,Spinarak,Darkness Ablaze,102,Common,Darkness
+168,Ariados,Darkness Ablaze,103,Uncommon,Darkness
+169,Crobat,Darkness Ablaze,104,Ultra-Rare Rare,Darkness
+491,Darkrai,Darkness Ablaze,105,Rare Holo,Darkness
+509,Purrloin,Darkness Ablaze,106,Common,Darkness
+510,Liepard,Darkness Ablaze,107,Rare,Darkness
+633,Deino,Darkness Ablaze,108,Common,Darkness
+634,Zweilous,Darkness Ablaze,109,Uncommon,Darkness
+635,Hydreigon,Darkness Ablaze,110,Rare,Darkness
+720,Hoopa,Darkness Ablaze,111,Rare Holo,Darkness
+827,Nickit,Darkness Ablaze,112,Common,Darkness
+828,Thievul,Darkness Ablaze,113,Rare,Darkness
+861,Grimmsnarl,Darkness Ablaze,114,Ultra-Rare Rare,Darkness
+861,Grimmsnarl,Darkness Ablaze,115,Rare VMAX,Darkness
+890,Eternatus,Darkness Ablaze,116,Ultra-Rare Rare,Darkness
+890,Eternatus,Darkness Ablaze,117,Rare VMAX,Darkness
+212,Scizor,Darkness Ablaze,118,Ultra-Rare Rare,Metal
+212,Scizor,Darkness Ablaze,119,Rare VMAX,Metal
+227,Skarmory,Darkness Ablaze,120,Common,Metal
+304,Aron,Darkness Ablaze,121,Common,Metal
+305,Lairon,Darkness Ablaze,122,Uncommon,Metal
+306,Aggron,Darkness Ablaze,123,Rare Holo,Metal
+589,Escavalier,Darkness Ablaze,124,Rare,Metal
+599,Klink,Darkness Ablaze,125,Common,Metal
+600,Klang,Darkness Ablaze,126,Uncommon,Metal
+601,Klinklang,Darkness Ablaze,127,Rare,Metal
+618,Galarian Stunfisk,Darkness Ablaze,128,Ultra-Rare Rare,Metal
+808,Meltan,Darkness Ablaze,129,Common,Metal
+809,Melmetal,Darkness Ablaze,130,Rare,Metal
+878,Cufant,Darkness Ablaze,131,Common,Metal
+879,Copperajah,Darkness Ablaze,132,Rare Holo,Metal
+115,Kangaskhan,Darkness Ablaze,133,Rare Holo,Colorless
+128,Tauros,Darkness Ablaze,134,Common,Colorless
+161,Sentret,Darkness Ablaze,135,Common,Colorless
+162,Furret,Darkness Ablaze,136,Uncommon,Colorless
+206,Dunsparce,Darkness Ablaze,137,Common,Colorless
+216,Teddiursa,Darkness Ablaze,138,Common,Colorless
+217,Ursaring,Darkness Ablaze,139,Uncommon,Colorless
+249,Lugia,Darkness Ablaze,140,Rare,Colorless
+300,Skitty,Darkness Ablaze,141,Common,Colorless
+301,Delcatty,Darkness Ablaze,142,Rare,Colorless
+373,Salamence,Darkness Ablaze,143,Ultra-Rare Rare,Colorless
+373,Salamence,Darkness Ablaze,144,Rare VMAX,Colorless
+396,Starly,Darkness Ablaze,145,Common,Colorless
+397,Staravia,Darkness Ablaze,146,Uncommon,Colorless
+398,Staraptor,Darkness Ablaze,147,Rare,Colorless
+580,Ducklett,Darkness Ablaze,148,Common,Colorless
+581,Swanna,Darkness Ablaze,149,Rare,Colorless
+659,Bunnelby,Darkness Ablaze,150,Common,Colorless
+661,Fletchling,Darkness Ablaze,151,Common,Colorless
+819,Skwovet,Darkness Ablaze,152,Common,Colorless
+820,Greedent,Darkness Ablaze,153,Rare,Colorless
+821,Rookidee,Darkness Ablaze,154,Common,Colorless
+822,Corvisquire,Darkness Ablaze,155,Uncommon,Colorless
+823,Corviknight,Darkness Ablaze,156,Rare Holo,Colorless
+,Big Parasol,Darkness Ablaze,157,Uncommon,Item
+,Billowing Smoke,Darkness Ablaze,158,Uncommon,Item
+,Bird Keeper,Darkness Ablaze,159,Uncommon,Supporter
+,Cape of Toughness,Darkness Ablaze,160,Uncommon,Item
+,Familiar Bell,Darkness Ablaze,161,Uncommon,Item
+,Glimwood Tangle,Darkness Ablaze,162,Uncommon,Stadium
+,Kabu,Darkness Ablaze,163,Uncommon,Supporter
+,Old PC,Darkness Ablaze,164,Uncommon,Item
+,Piers,Darkness Ablaze,165,Uncommon,Supporter
+,Pokémon Breeder's Nurturing,Darkness Ablaze,166,Uncommon,Supporter
+,Rare Fossil,Darkness Ablaze,167,Uncommon,Item
+,Rose,Darkness Ablaze,168,Uncommon,Supporter
+,Rose Tower,Darkness Ablaze,169,Uncommon,Stadium
+,Spikemuth,Darkness Ablaze,170,Uncommon,Stadium
+,Struggle Gloves,Darkness Ablaze,171,Uncommon,Item
+,Turbo Patch,Darkness Ablaze,172,Uncommon,Item
+,Yell Horn,Darkness Ablaze,173,Uncommon,Item
+12,Butterfree,Darkness Ablaze,177,Rare Ultra,Grass
+229,Houndoom,Darkness Ablaze,178,Rare Ultra,Fire
+851,Centiskorch,Darkness Ablaze,179,Rare Ultra,Fire
+738,Vikavolt,Darkness Ablaze,180,Rare Ultra,Lightning
+464,Rhyperior,Darkness Ablaze,181,Rare Ultra,Fighting
+169,Crobat,Darkness Ablaze,182,Rare Ultra,Darkness
+212,Scizor,Darkness Ablaze,183,Rare Ultra,Metal
+618,Galarian Stunfisk,Darkness Ablaze,184,Rare Ultra,Metal
+373,Salamence,Darkness Ablaze,185,Rare Ultra,Colorless
+,Kabu,Darkness Ablaze,186,Rare Ultra,Supporter
+,Piers,Darkness Ablaze,187,Rare Ultra,Supporter
+,Pokémon Breeder's Nurturing,Darkness Ablaze,188,Rare Ultra,Supporter
+,Rose,Darkness Ablaze,189,Rare Ultra,Supporter
+12,Butterfree,Darkness Ablaze,190,Rare Rainbow,Grass
+851,Centiskorch,Darkness Ablaze,191,Rare Rainbow,Fire
+890,Eternatus,Darkness Ablaze,192,Rare Rainbow,Darkness
+212,Scizor,Darkness Ablaze,193,Rare Rainbow,Metal
+373,Salamence,Darkness Ablaze,194,Rare Rainbow,Colorless
+,Pokémon Breeder's Nurturing,Darkness Ablaze,195,Rare Rainbow,Supporter
+,Rose,Darkness Ablaze,196,Rare Rainbow,Supporter
+812,Rillaboom,Darkness Ablaze,197,Rare Secret,Grass
+839,Coalossal,Darkness Ablaze,198,Rare Secret,Fighting
+,Big Parasol,Darkness Ablaze,199,Rare Secret,Item
+,Turbo Patch,Darkness Ablaze,200,Rare Secret,Item
+,Capture Energy,Darkness Ablaze,201,Rare Secret,Energy

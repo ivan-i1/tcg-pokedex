@@ -1,0 +1,200 @@
+dexNumber,name,setName,setNumber,rarity,type
+13,Weedle,Vivid Voltage,001,Common,Grass
+14,Kakuna,Vivid Voltage,002,Uncommon,Grass
+15,Beedrill,Vivid Voltage,003,Rare,Grass
+102,Exeggcute,Vivid Voltage,004,Common,Grass
+103,Exeggutor,Vivid Voltage,005,Rare,Grass
+193,Yanma,Vivid Voltage,006,Common,Grass
+469,Yanmega,Vivid Voltage,007,Rare,Grass
+204,Pineco,Vivid Voltage,008,Common,Grass
+251,Celebi,Vivid Voltage,009,A,Grass
+273,Seedot,Vivid Voltage,010,Common,Grass
+274,Nuzleaf,Vivid Voltage,011,Uncommon,Grass
+275,Shiftry,Vivid Voltage,012,Rare,Grass
+290,Nincada,Vivid Voltage,013,Common,Grass
+291,Ninjask,Vivid Voltage,014,Rare,Grass
+492,Shaymin,Vivid Voltage,015,Rare Holo,Grass
+649,Genesect,Vivid Voltage,016,Rare Holo,Grass
+672,Skiddo,Vivid Voltage,017,Common,Grass
+673,Gogoat,Vivid Voltage,018,Uncommon,Grass
+781,Dhelmise,Vivid Voltage,019,Uncommon,Grass
+826,Orbeetle,Vivid Voltage,020,Ultra-Rare Rare,Grass
+826,Orbeetle,Vivid Voltage,021,Rare VMAX,Grass
+893,Zarude,Vivid Voltage,022,Ultra-Rare Rare,Grass
+4,Charmander,Vivid Voltage,023,Common,Fire
+5,Charmeleon,Vivid Voltage,024,Uncommon,Fire
+6,Charizard,Vivid Voltage,025,Rare,Fire
+136,Flareon,Vivid Voltage,026,Rare,Fire
+218,Slugma,Vivid Voltage,027,Common,Fire
+219,Magcargo,Vivid Voltage,028,Uncommon,Fire
+663,Talonflame,Vivid Voltage,029,Ultra-Rare Rare,Fire
+134,Vaporeon,Vivid Voltage,030,Rare,Water
+320,Wailmer,Vivid Voltage,031,Common,Water
+321,Wailord,Vivid Voltage,032,Rare Holo,Water
+501,Oshawott,Vivid Voltage,033,Common,Water
+502,Dewott,Vivid Voltage,034,Uncommon,Water
+503,Samurott,Vivid Voltage,035,Rare,Water
+555,Galarian Darmanitan,Vivid Voltage,036,Ultra-Rare Rare,Water
+555,Galarian Darmanitan,Vivid Voltage,037,Rare VMAX,Water
+833,Chewtle,Vivid Voltage,038,Common,Water
+834,Drednaw,Vivid Voltage,039,Rare,Water
+845,Cramorant,Vivid Voltage,040,Uncommon,Water
+846,Arrokuda,Vivid Voltage,041,Common,Water
+847,Barraskewda,Vivid Voltage,042,Rare,Water
+25,Pikachu,Vivid Voltage,043,Ultra-Rare Rare,Lightning
+25,Pikachu,Vivid Voltage,044,Rare VMAX,Lightning
+100,Voltorb,Vivid Voltage,045,Common,Lightning
+101,Electrode,Vivid Voltage,046,Rare Holo,Lightning
+135,Jolteon,Vivid Voltage,047,Rare,Lightning
+145,Zapdos,Vivid Voltage,048,Rare Holo,Lightning
+181,Ampharos,Vivid Voltage,049,Ultra-Rare Rare,Lightning
+243,Raikou,Vivid Voltage,050,A,Lightning
+309,Electrike,Vivid Voltage,051,Common,Lightning
+310,Manectric,Vivid Voltage,052,Rare,Lightning
+522,Blitzle,Vivid Voltage,053,Common,Lightning
+523,Zebstrika,Vivid Voltage,054,Uncommon,Lightning
+595,Joltik,Vivid Voltage,055,Common,Lightning
+596,Galvantula,Vivid Voltage,056,Uncommon,Lightning
+602,Tynamo,Vivid Voltage,057,Common,Lightning
+603,Eelektrik,Vivid Voltage,058,Uncommon,Lightning
+604,Eelektross,Vivid Voltage,059,Rare,Lightning
+644,Zekrom,Vivid Voltage,060,Rare Holo,Lightning
+807,Zeraora,Vivid Voltage,061,Rare Holo,Lightning
+871,Pincurchin,Vivid Voltage,062,Uncommon,Lightning
+35,Clefairy,Vivid Voltage,063,Common,Psychic
+36,Clefable,Vivid Voltage,064,Rare,Psychic
+203,Girafarig,Vivid Voltage,065,Uncommon,Psychic
+292,Shedinja,Vivid Voltage,066,Rare,Psychic
+353,Shuppet,Vivid Voltage,067,Common,Psychic
+354,Banette,Vivid Voltage,068,Rare,Psychic
+355,Duskull,Vivid Voltage,069,Common,Psychic
+356,Dusclops,Vivid Voltage,070,Uncommon,Psychic
+477,Dusknoir,Vivid Voltage,071,Rare Holo,Psychic
+358,Chimecho,Vivid Voltage,072,Common,Psychic
+527,Woobat,Vivid Voltage,073,Common,Psychic
+528,Swoobat,Vivid Voltage,074,Uncommon,Psychic
+546,Cottonee,Vivid Voltage,075,Common,Psychic
+547,Whimsicott,Vivid Voltage,076,Rare,Psychic
+702,Dedenne,Vivid Voltage,077,Common,Psychic
+716,Xerneas,Vivid Voltage,078,Rare Holo,Psychic
+719,Diancie,Vivid Voltage,079,Rare Holo,Psychic
+868,Milcery,Vivid Voltage,080,Common,Psychic
+869,Alcremie,Vivid Voltage,081,Rare,Psychic
+888,Zacian,Vivid Voltage,082,A,Psychic
+194,Wooper,Vivid Voltage,083,Common,Fighting
+195,Quagsire,Vivid Voltage,084,Rare,Fighting
+213,Shuckle,Vivid Voltage,085,Uncommon,Fighting
+231,Phanpy,Vivid Voltage,086,Common,Fighting
+232,Donphan,Vivid Voltage,087,Rare,Fighting
+237,Hitmontop,Vivid Voltage,088,Uncommon,Fighting
+377,Regirock,Vivid Voltage,089,Rare Holo,Fighting
+447,Riolu,Vivid Voltage,090,Common,Fighting
+529,Drilbur,Vivid Voltage,091,Common,Fighting
+639,Terrakion,Vivid Voltage,092,Rare,Fighting
+718,Zygarde,Vivid Voltage,093,Rare Holo,Fighting
+744,Rockruff,Vivid Voltage,094,Common,Fighting
+745,Lycanroc,Vivid Voltage,095,Rare,Fighting
+749,Mudbray,Vivid Voltage,096,Common,Fighting
+750,Mudsdale,Vivid Voltage,097,Rare,Fighting
+839,Coalossal,Vivid Voltage,098,Ultra-Rare Rare,Fighting
+839,Coalossal,Vivid Voltage,099,Rare VMAX,Fighting
+852,Clobbopus,Vivid Voltage,100,Common,Fighting
+853,Grapploct,Vivid Voltage,101,Rare,Fighting
+889,Zamazenta,Vivid Voltage,102,A,Fighting
+261,Poochyena,Vivid Voltage,103,Common,Darkness
+262,Mightyena,Vivid Voltage,104,Uncommon,Darkness
+302,Sableye,Vivid Voltage,105,Uncommon,Darkness
+452,Drapion,Vivid Voltage,106,Ultra-Rare Rare,Darkness
+551,Sandile,Vivid Voltage,107,Common,Darkness
+552,Krokorok,Vivid Voltage,108,Uncommon,Darkness
+553,Krookodile,Vivid Voltage,109,Rare,Darkness
+568,Trubbish,Vivid Voltage,110,Common,Darkness
+569,Garbodor,Vivid Voltage,111,Rare,Darkness
+52,Galarian Meowth,Vivid Voltage,112,Common,Metal
+863,Galarian Perrserker,Vivid Voltage,113,Rare,Metal
+205,Forretress,Vivid Voltage,114,Rare,Metal
+208,Steelix,Vivid Voltage,115,Ultra-Rare Rare,Metal
+374,Beldum,Vivid Voltage,116,Common,Metal
+375,Metang,Vivid Voltage,117,Uncommon,Metal
+376,Metagross,Vivid Voltage,118,Rare,Metal
+385,Jirachi,Vivid Voltage,119,A,Metal
+448,Lucario,Vivid Voltage,120,Rare,Metal
+483,Dialga,Vivid Voltage,121,Rare Holo,Metal
+530,Excadrill,Vivid Voltage,122,Uncommon,Metal
+597,Ferroseed,Vivid Voltage,123,Common,Metal
+598,Ferrothorn,Vivid Voltage,124,Uncommon,Metal
+618,Galarian Stunfisk,Vivid Voltage,125,Uncommon,Metal
+681,Aegislash,Vivid Voltage,126,Ultra-Rare Rare,Metal
+681,Aegislash,Vivid Voltage,127,Rare VMAX,Metal
+801,Magearna,Vivid Voltage,128,Rare Holo,Metal
+884,Duraludon,Vivid Voltage,129,Rare Holo,Metal
+133,Eevee,Vivid Voltage,130,Common,Colorless
+143,Snorlax,Vivid Voltage,131,Rare Holo,Colorless
+249,Lugia,Vivid Voltage,132,Rare Holo,Colorless
+276,Taillow,Vivid Voltage,133,Common,Colorless
+277,Swellow,Vivid Voltage,134,Uncommon,Colorless
+293,Whismur,Vivid Voltage,135,Common,Colorless
+294,Loudred,Vivid Voltage,136,Uncommon,Colorless
+295,Exploud,Vivid Voltage,137,Rare,Colorless
+384,Rayquaza,Vivid Voltage,138,A,Colorless
+441,Chatot,Vivid Voltage,139,Common,Colorless
+468,Togekiss,Vivid Voltage,140,Ultra-Rare Rare,Colorless
+468,Togekiss,Vivid Voltage,141,Rare VMAX,Colorless
+641,Tornadus,Vivid Voltage,142,Rare Holo,Colorless
+731,Pikipek,Vivid Voltage,143,Common,Colorless
+732,Trumbeak,Vivid Voltage,144,Uncommon,Colorless
+733,Toucannon,Vivid Voltage,145,Rare,Colorless
+,Allister,Vivid Voltage,146,Uncommon,Supporter
+,Bea,Vivid Voltage,147,Uncommon,Supporter
+,Beauty,Vivid Voltage,148,Uncommon,Supporter
+,Cara Liss,Vivid Voltage,149,Uncommon,Supporter
+,Circhester Bath,Vivid Voltage,150,Uncommon,Stadium
+479,Drone Rotom,Vivid Voltage,151,Uncommon,Item
+,Hero's Medal,Vivid Voltage,152,Uncommon,Item
+,League Staff,Vivid Voltage,153,Uncommon,Supporter
+,Leon,Vivid Voltage,154,Rare Holo,Supporter
+,Memory Capsule,Vivid Voltage,155,Uncommon,Item
+,Moomoo Cheese,Vivid Voltage,156,Uncommon,Item
+,Nessa,Vivid Voltage,157,Uncommon,Supporter
+,Opal,Vivid Voltage,158,Uncommon,Supporter
+,Rocky Helmet,Vivid Voltage,159,Uncommon,Item
+,Telescopic Sight,Vivid Voltage,160,Uncommon,Item
+,Wyndon Stadium,Vivid Voltage,161,Uncommon,Stadium
+826,Orbeetle,Vivid Voltage,166,Rare Ultra,Grass
+893,Zarude,Vivid Voltage,167,Rare Ultra,Grass
+663,Talonflame,Vivid Voltage,168,Rare Ultra,Fire
+555,Galarian Darmanitan,Vivid Voltage,169,Rare Ultra,Water
+25,Pikachu,Vivid Voltage,170,Rare Ultra,Lightning
+181,Ampharos,Vivid Voltage,171,Rare Ultra,Lightning
+65,Alakazam,Vivid Voltage,172,Rare Ultra,Psychic
+839,Coalossal,Vivid Voltage,173,Rare Ultra,Fighting
+865,Galarian Sirfetch'd,Vivid Voltage,174,Rare Ultra,Fighting
+452,Drapion,Vivid Voltage,175,Rare Ultra,Darkness
+208,Steelix,Vivid Voltage,176,Rare Ultra,Metal
+681,Aegislash,Vivid Voltage,177,Rare Ultra,Metal
+468,Togekiss,Vivid Voltage,178,Rare Ultra,Colorless
+,Allister,Vivid Voltage,179,Rare Ultra,Supporter
+,Bea,Vivid Voltage,180,Rare Ultra,Supporter
+,Beauty,Vivid Voltage,181,Rare Ultra,Supporter
+,Leon,Vivid Voltage,182,Rare Ultra,Supporter
+,Nessa,Vivid Voltage,183,Rare Ultra,Supporter
+,Opal,Vivid Voltage,184,Rare Ultra,Supporter
+,Pokémon Center Lady,Vivid Voltage,185,Rare Ultra,Supporter
+826,Orbeetle,Vivid Voltage,186,Rare Rainbow,Grass
+555,Galarian Darmanitan,Vivid Voltage,187,Rare Rainbow,Water
+25,Pikachu,Vivid Voltage,188,Rare Rainbow,Lightning
+839,Coalossal,Vivid Voltage,189,Rare Rainbow,Fighting
+681,Aegislash,Vivid Voltage,190,Rare Rainbow,Metal
+468,Togekiss,Vivid Voltage,191,Rare Rainbow,Colorless
+,Allister,Vivid Voltage,192,Rare Rainbow,Supporter
+,Bea,Vivid Voltage,193,Rare Rainbow,Supporter
+,Beauty,Vivid Voltage,194,Rare Rainbow,Supporter
+,Leon,Vivid Voltage,195,Rare Rainbow,Supporter
+,Nessa,Vivid Voltage,196,Rare Rainbow,Supporter
+,Opal,Vivid Voltage,197,Rare Rainbow,Supporter
+862,Galarian Obstagoon,Vivid Voltage,198,Rare Secret,Darkness
+765,Oranguru,Vivid Voltage,199,Rare Secret,Colorless
+,Cape of Toughness,Vivid Voltage,200,Rare Secret,Item
+,Hero's Medal,Vivid Voltage,201,Rare Secret,Item
+,Memory Capsule,Vivid Voltage,202,Rare Secret,Item
+,Telescopic Sight,Vivid Voltage,203,Rare Secret,Item

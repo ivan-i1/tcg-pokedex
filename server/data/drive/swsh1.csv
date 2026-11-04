@@ -1,0 +1,217 @@
+dexNumber,name,setName,setNumber,rarity,type
+251,Celebi,Sword & Shield,001,Ultra-Rare Rare,Grass
+315,Roselia,Sword & Shield,002,Common,Grass
+315,Roselia,Sword & Shield,003,Common,Grass
+407,Roserade,Sword & Shield,004,Rare,Grass
+546,Cottonee,Sword & Shield,005,Common,Grass
+547,Whimsicott,Sword & Shield,006,Rare,Grass
+556,Maractus,Sword & Shield,007,Common,Grass
+632,Durant,Sword & Shield,008,Rare,Grass
+781,Dhelmise,Sword & Shield,009,Ultra-Rare Rare,Grass
+810,Grookey,Sword & Shield,010,Common,Grass
+810,Grookey,Sword & Shield,011,Common,Grass
+811,Thwackey,Sword & Shield,012,Uncommon,Grass
+811,Thwackey,Sword & Shield,013,Uncommon,Grass
+812,Rillaboom,Sword & Shield,014,Rare Holo,Grass
+812,Rillaboom,Sword & Shield,015,Rare,Grass
+824,Blipbug,Sword & Shield,016,Common,Grass
+824,Blipbug,Sword & Shield,017,Common,Grass
+825,Dottler,Sword & Shield,018,Uncommon,Grass
+826,Orbeetle,Sword & Shield,019,Rare,Grass
+829,Gossifleur,Sword & Shield,020,Common,Grass
+830,Eldegoss,Sword & Shield,021,Uncommon,Grass
+37,Vulpix,Sword & Shield,022,Common,Fire
+38,Ninetales,Sword & Shield,023,Rare,Fire
+324,Torkoal,Sword & Shield,024,Ultra-Rare Rare,Fire
+494,Victini,Sword & Shield,025,Ultra-Rare Rare,Fire
+631,Heatmor,Sword & Shield,026,Uncommon,Fire
+757,Salandit,Sword & Shield,027,Common,Fire
+758,Salazzle,Sword & Shield,028,Uncommon,Fire
+776,Turtonator,Sword & Shield,029,Rare,Fire
+813,Scorbunny,Sword & Shield,030,Common,Fire
+813,Scorbunny,Sword & Shield,031,Common,Fire
+814,Raboot,Sword & Shield,032,Uncommon,Fire
+814,Raboot,Sword & Shield,033,Uncommon,Fire
+815,Cinderace,Sword & Shield,034,Rare Holo,Fire
+815,Cinderace,Sword & Shield,035,Rare Holo,Fire
+815,Cinderace,Sword & Shield,036,Rare,Fire
+850,Sizzlipede,Sword & Shield,037,Common,Fire
+850,Sizzlipede,Sword & Shield,038,Common,Fire
+851,Centiskorch,Sword & Shield,039,Rare,Fire
+90,Shellder,Sword & Shield,040,Common,Water
+91,Cloyster,Sword & Shield,041,Rare,Water
+98,Krabby,Sword & Shield,042,Common,Water
+98,Krabby,Sword & Shield,043,Common,Water
+99,Kingler,Sword & Shield,044,Uncommon,Water
+118,Goldeen,Sword & Shield,045,Common,Water
+118,Goldeen,Sword & Shield,046,Common,Water
+119,Seaking,Sword & Shield,047,Uncommon,Water
+131,Lapras,Sword & Shield,048,Rare,Water
+131,Lapras,Sword & Shield,049,Ultra-Rare Rare,Water
+131,Lapras,Sword & Shield,050,Rare VMAX,Water
+211,Qwilfish,Sword & Shield,051,Uncommon,Water
+226,Mantine,Sword & Shield,052,Uncommon,Water
+647,Keldeo,Sword & Shield,053,Ultra-Rare Rare,Water
+816,Sobble,Sword & Shield,054,Common,Water
+816,Sobble,Sword & Shield,055,Common,Water
+817,Drizzile,Sword & Shield,056,Uncommon,Water
+817,Drizzile,Sword & Shield,057,Uncommon,Water
+818,Inteleon,Sword & Shield,058,Rare Holo,Water
+818,Inteleon,Sword & Shield,059,Rare,Water
+833,Chewtle,Sword & Shield,060,Common,Water
+834,Drednaw,Sword & Shield,061,Rare,Water
+845,Cramorant,Sword & Shield,062,Rare,Water
+872,Snom,Sword & Shield,063,Common,Water
+873,Frosmoth,Sword & Shield,064,Rare Holo,Water
+25,Pikachu,Sword & Shield,065,Common,Lightning
+26,Raichu,Sword & Shield,066,Rare,Lightning
+170,Chinchou,Sword & Shield,067,Common,Lightning
+170,Chinchou,Sword & Shield,068,Common,Lightning
+171,Lanturn,Sword & Shield,069,Rare,Lightning
+595,Joltik,Sword & Shield,070,Common,Lightning
+596,Galvantula,Sword & Shield,071,Uncommon,Lightning
+785,Tapu Koko,Sword & Shield,072,Ultra-Rare Rare,Lightning
+835,Yamper,Sword & Shield,073,Common,Lightning
+835,Yamper,Sword & Shield,074,Common,Lightning
+836,Boltund,Sword & Shield,075,Rare Holo,Lightning
+836,Boltund,Sword & Shield,076,Rare Holo,Lightning
+871,Pincurchin,Sword & Shield,077,Common,Lightning
+877,Morpeko,Sword & Shield,078,Rare,Lightning
+877,Morpeko,Sword & Shield,079,Ultra-Rare Rare,Lightning
+877,Morpeko,Sword & Shield,080,Rare VMAX,Lightning
+77,Galarian Ponyta,Sword & Shield,081,Common,Psychic
+78,Galarian Rapidash,Sword & Shield,082,Rare,Psychic
+92,Gastly,Sword & Shield,083,Common,Psychic
+93,Haunter,Sword & Shield,084,Uncommon,Psychic
+94,Gengar,Sword & Shield,085,Rare Holo,Psychic
+202,Wobbuffet,Sword & Shield,086,Ultra-Rare Rare,Psychic
+517,Munna,Sword & Shield,087,Common,Psychic
+518,Musharna,Sword & Shield,088,Rare,Psychic
+854,Sinistea,Sword & Shield,089,Common,Psychic
+855,Polteageist,Sword & Shield,090,Rare,Psychic
+876,Indeedee,Sword & Shield,091,Ultra-Rare Rare,Psychic
+50,Diglett,Sword & Shield,092,Common,Fighting
+51,Dugtrio,Sword & Shield,093,Uncommon,Fighting
+106,Hitmonlee,Sword & Shield,094,Uncommon,Fighting
+107,Hitmonchan,Sword & Shield,095,Uncommon,Fighting
+111,Rhyhorn,Sword & Shield,096,Common,Fighting
+111,Rhyhorn,Sword & Shield,097,Common,Fighting
+112,Rhydon,Sword & Shield,098,Uncommon,Fighting
+464,Rhyperior,Sword & Shield,099,Rare Holo,Fighting
+185,Sudowoodo,Sword & Shield,100,Uncommon,Fighting
+343,Baltoy,Sword & Shield,101,Common,Fighting
+343,Baltoy,Sword & Shield,102,Common,Fighting
+344,Claydol,Sword & Shield,103,Rare,Fighting
+377,Regirock,Sword & Shield,104,Ultra-Rare Rare,Fighting
+749,Mudbray,Sword & Shield,105,Common,Fighting
+750,Mudsdale,Sword & Shield,106,Rare,Fighting
+843,Silicobra,Sword & Shield,107,Common,Fighting
+843,Silicobra,Sword & Shield,108,Common,Fighting
+844,Sandaconda,Sword & Shield,109,Rare,Fighting
+844,Sandaconda,Sword & Shield,110,Rare Holo,Fighting
+852,Clobbopus,Sword & Shield,111,Common,Fighting
+852,Clobbopus,Sword & Shield,112,Common,Fighting
+853,Grapploct,Sword & Shield,113,Rare,Fighting
+874,Stonjourner,Sword & Shield,114,Rare,Fighting
+874,Stonjourner,Sword & Shield,115,Ultra-Rare Rare,Fighting
+874,Stonjourner,Sword & Shield,116,Rare VMAX,Fighting
+263,Galarian Zigzagoon,Sword & Shield,117,Common,Darkness
+264,Galarian Linoone,Sword & Shield,118,Uncommon,Darkness
+862,Galarian Obstagoon,Sword & Shield,119,Rare Holo,Darkness
+302,Sableye,Sword & Shield,120,Ultra-Rare Rare,Darkness
+451,Skorupi,Sword & Shield,121,Common,Darkness
+452,Drapion,Sword & Shield,122,Rare,Darkness
+453,Croagunk,Sword & Shield,123,Common,Darkness
+454,Toxicroak,Sword & Shield,124,Rare Holo,Darkness
+827,Nickit,Sword & Shield,125,Common,Darkness
+828,Thievul,Sword & Shield,126,Rare,Darkness
+52,Galarian Meowth,Sword & Shield,127,Common,Metal
+863,Galarian Perrserker,Sword & Shield,128,Rare Holo,Metal
+303,Mawile,Sword & Shield,129,Common,Metal
+597,Ferroseed,Sword & Shield,130,Common,Metal
+598,Ferrothorn,Sword & Shield,131,Uncommon,Metal
+618,Galarian Stunfisk,Sword & Shield,132,Uncommon,Metal
+624,Pawniard,Sword & Shield,133,Common,Metal
+625,Bisharp,Sword & Shield,134,Uncommon,Metal
+823,Corviknight,Sword & Shield,135,Rare,Metal
+878,Cufant,Sword & Shield,136,Common,Metal
+879,Copperajah,Sword & Shield,137,Rare Holo,Metal
+888,Zacian,Sword & Shield,138,Ultra-Rare Rare,Metal
+889,Zamazenta,Sword & Shield,139,Ultra-Rare Rare,Metal
+143,Snorlax,Sword & Shield,140,Rare,Colorless
+143,Snorlax,Sword & Shield,141,Ultra-Rare Rare,Colorless
+143,Snorlax,Sword & Shield,142,Rare VMAX,Colorless
+163,Hoothoot,Sword & Shield,143,Common,Colorless
+164,Noctowl,Sword & Shield,144,Rare,Colorless
+572,Minccino,Sword & Shield,145,Common,Colorless
+572,Minccino,Sword & Shield,146,Common,Colorless
+573,Cinccino,Sword & Shield,147,Rare,Colorless
+765,Oranguru,Sword & Shield,148,Rare Holo,Colorless
+780,Drampa,Sword & Shield,149,Rare,Colorless
+821,Rookidee,Sword & Shield,150,Common,Colorless
+822,Corvisquire,Sword & Shield,151,Uncommon,Colorless
+831,Wooloo,Sword & Shield,152,Common,Colorless
+831,Wooloo,Sword & Shield,153,Common,Colorless
+832,Dubwool,Sword & Shield,154,Uncommon,Colorless
+845,Cramorant,Sword & Shield,155,Ultra-Rare Rare,Colorless
+,Air Balloon,Sword & Shield,156,Uncommon,Item
+,Bede,Sword & Shield,157,Uncommon,Supporter
+,Big Charm,Sword & Shield,158,Uncommon,Item
+,Crushing Hammer,Sword & Shield,159,Uncommon,Item
+,Energy Retrieval,Sword & Shield,160,Uncommon,Item
+,Energy Search,Sword & Shield,161,Uncommon,Item
+,Energy Switch,Sword & Shield,162,Uncommon,Item
+,Evolution Incense,Sword & Shield,163,Uncommon,Item
+,Great Ball,Sword & Shield,164,Uncommon,Item
+,Hop,Sword & Shield,165,Uncommon,Supporter
+,Hyper Potion,Sword & Shield,166,Uncommon,Item
+,Lucky Egg,Sword & Shield,167,Uncommon,Item
+,Lum Berry,Sword & Shield,168,Uncommon,Item
+,Marnie,Sword & Shield,169,Rare Holo,Supporter
+,Metal Saucer,Sword & Shield,170,Uncommon,Item
+,Ordinary Rod,Sword & Shield,171,Uncommon,Item
+,Pal Pad,Sword & Shield,172,Uncommon,Item
+,Poké Kid,Sword & Shield,173,Uncommon,Supporter
+,Pokégear 3.0,Sword & Shield,174,Uncommon,Item
+,Pokémon Catcher,Sword & Shield,175,Uncommon,Item
+,Pokémon Center Lady,Sword & Shield,176,Uncommon,Supporter
+,Potion,Sword & Shield,177,Uncommon,Item
+,Professor's Research,Sword & Shield,178,Rare Holo,Supporter
+,Quick Ball,Sword & Shield,179,Uncommon,Item
+,Rare Candy,Sword & Shield,180,Uncommon,Item
+,Rotom Bike,Sword & Shield,181,Uncommon,Item
+,Sitrus Berry,Sword & Shield,182,Uncommon,Item
+,Switch,Sword & Shield,183,Uncommon,Item
+,Team Yell Grunt,Sword & Shield,184,Uncommon,Supporter
+,Vitality Band,Sword & Shield,185,Uncommon,Item
+,Aurora Energy,Sword & Shield,186,Uncommon,Energy
+781,Dhelmise,Sword & Shield,187,Rare Ultra,Grass
+324,Torkoal,Sword & Shield,188,Rare Ultra,Fire
+131,Lapras,Sword & Shield,189,Rare Ultra,Water
+877,Morpeko,Sword & Shield,190,Rare Ultra,Lightning
+202,Wobbuffet,Sword & Shield,191,Rare Ultra,Psychic
+876,Indeedee,Sword & Shield,192,Rare Ultra,Psychic
+874,Stonjourner,Sword & Shield,193,Rare Ultra,Fighting
+302,Sableye,Sword & Shield,194,Rare Ultra,Darkness
+888,Zacian,Sword & Shield,195,Rare Ultra,Metal
+889,Zamazenta,Sword & Shield,196,Rare Ultra,Metal
+143,Snorlax,Sword & Shield,197,Rare Ultra,Colorless
+845,Cramorant,Sword & Shield,198,Rare Ultra,Colorless
+,Bede,Sword & Shield,199,Rare Ultra,Supporter
+,Marnie,Sword & Shield,200,Rare Ultra,Supporter
+,Professor's Research,Sword & Shield,201,Rare Ultra,Supporter
+,Team Yell Grunt,Sword & Shield,202,Rare Ultra,Supporter
+131,Lapras,Sword & Shield,203,Rare Rainbow,Water
+877,Morpeko,Sword & Shield,204,Rare Rainbow,Lightning
+874,Stonjourner,Sword & Shield,205,Rare Rainbow,Fighting
+143,Snorlax,Sword & Shield,206,Rare Rainbow,Colorless
+,Bede,Sword & Shield,207,Rare Rainbow,Supporter
+,Marnie,Sword & Shield,208,Rare Rainbow,Supporter
+,Professor's Research,Sword & Shield,209,Rare Rainbow,Supporter
+,Team Yell Grunt,Sword & Shield,210,Rare Rainbow,Supporter
+888,Zacian,Sword & Shield,211,Rare Secret,Metal
+889,Zamazenta,Sword & Shield,212,Rare Secret,Metal
+,Air Balloon,Sword & Shield,213,Rare Secret,Item
+,Metal Saucer,Sword & Shield,214,Rare Secret,Item
+,Ordinary Rod,Sword & Shield,215,Rare Secret,Item
+,Quick Ball,Sword & Shield,216,Rare Secret,Item

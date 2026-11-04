@@ -1,0 +1,217 @@
+dexNumber,name,setName,setNumber,rarity,type
+15,Beedrill,Astral Radiance,001,Ultra-Rare Rare,Grass
+100,Hisuian Voltorb,Astral Radiance,002,Common,Grass
+101,Hisuian Electrode,Astral Radiance,003,Uncommon,Grass
+123,Scyther,Astral Radiance,004,Common,Grass
+123,Scyther,Astral Radiance,005,Common,Grass
+193,Yanma,Astral Radiance,006,Common,Grass
+469,Yanmega,Astral Radiance,007,Uncommon,Grass
+214,Heracross,Astral Radiance,008,Common,Grass
+401,Kricketot,Astral Radiance,009,Common,Grass
+402,Kricketune,Astral Radiance,010,Uncommon,Grass
+415,Combee,Astral Radiance,011,Common,Grass
+416,Vespiquen,Astral Radiance,012,Rare,Grass
+470,Leafeon,Astral Radiance,013,Rare,Grass
+492,Shaymin,Astral Radiance,014,Rare,Grass
+548,Petilil,Astral Radiance,015,Common,Grass
+549,Hisuian Lilligant,Astral Radiance,016,Rare Holo,Grass
+549,Hisuian Lilligant,Astral Radiance,017,Ultra-Rare Rare,Grass
+549,Hisuian Lilligant,Astral Radiance,018,Rare VSTAR,Grass
+722,Rowlet,Astral Radiance,019,Common,Grass
+723,Dartrix,Astral Radiance,020,Uncommon,Grass
+77,Ponyta,Astral Radiance,021,Common,Fire
+78,Rapidash,Astral Radiance,022,Rare,Fire
+155,Cyndaquil,Astral Radiance,023,Common,Fire
+156,Quilava,Astral Radiance,024,Uncommon,Fire
+485,Heatran,Astral Radiance,025,Ultra-Rare Rare,Fire
+485,Heatran,Astral Radiance,026,Rare VMAX,Fire
+485,Radiant Heatran,Astral Radiance,027,Rare Radiant,Fire
+54,Psyduck,Astral Radiance,028,Common,Water
+55,Golduck,Astral Radiance,029,Uncommon,Water
+121,Starmie,Astral Radiance,030,Ultra-Rare Rare,Water
+220,Swinub,Astral Radiance,031,Common,Water
+221,Piloswine,Astral Radiance,032,Uncommon,Water
+473,Mamoswine,Astral Radiance,033,Rare,Water
+226,Mantine,Astral Radiance,034,Common,Water
+339,Barboach,Astral Radiance,035,Common,Water
+340,Whiscash,Astral Radiance,036,Uncommon,Water
+378,Regice,Astral Radiance,037,Rare,Water
+471,Glaceon,Astral Radiance,038,Rare,Water
+,Origin Forme Palkia,Astral Radiance,039,Ultra-Rare Rare,Water
+,Origin Forme Palkia,Astral Radiance,040,Rare VSTAR,Water
+501,Oshawott,Astral Radiance,041,Common,Water
+502,Dewott,Astral Radiance,042,Uncommon,Water
+550,Hisuian Basculin,Astral Radiance,043,Common,Water
+902,Hisuian Basculegion,Astral Radiance,044,Rare,Water
+647,Keldeo,Astral Radiance,045,Rare Holo,Water
+658,Radiant Greninja,Astral Radiance,046,Rare Radiant,Water
+712,Bergmite,Astral Radiance,047,Common,Water
+713,Hisuian Avalugg,Astral Radiance,048,Rare,Water
+866,Galarian Mr. Rime,Astral Radiance,049,Ultra-Rare Rare,Water
+405,Luxray,Astral Radiance,050,Ultra-Rare Rare,Lightning
+894,Regieleki,Astral Radiance,051,Rare,Lightning
+157,Hisuian Typhlosion,Astral Radiance,052,Rare Holo,Psychic
+157,Hisuian Typhlosion,Astral Radiance,053,Ultra-Rare Rare,Psychic
+157,Hisuian Typhlosion,Astral Radiance,054,Rare VSTAR,Psychic
+175,Togepi,Astral Radiance,055,Common,Psychic
+176,Togetic,Astral Radiance,056,Uncommon,Psychic
+468,Togekiss,Astral Radiance,057,Rare Holo,Psychic
+200,Misdreavus,Astral Radiance,058,Common,Psychic
+429,Mismagius,Astral Radiance,059,Rare,Psychic
+280,Ralts,Astral Radiance,060,Common,Psychic
+281,Kirlia,Astral Radiance,061,Uncommon,Psychic
+475,Gallade,Astral Radiance,062,Rare Holo,Psychic
+425,Drifloon,Astral Radiance,063,Common,Psychic
+426,Drifblim,Astral Radiance,064,Uncommon,Psychic
+480,Uxie,Astral Radiance,065,Uncommon,Psychic
+481,Mesprit,Astral Radiance,066,Rare Holo,Psychic
+482,Azelf,Astral Radiance,067,Uncommon,Psychic
+719,Diancie,Astral Radiance,068,Rare Holo,Psychic
+899,Wyrdeer,Astral Radiance,069,Rare Holo,Psychic
+58,Hisuian Growlithe,Astral Radiance,070,Common,Fighting
+59,Hisuian Arcanine,Astral Radiance,071,Rare,Fighting
+68,Machamp,Astral Radiance,072,Ultra-Rare Rare,Fighting
+68,Machamp,Astral Radiance,073,Rare VMAX,Fighting
+185,Sudowoodo,Astral Radiance,074,Common,Fighting
+377,Regirock,Astral Radiance,075,Rare,Fighting
+408,Cranidos,Astral Radiance,076,Uncommon,Fighting
+409,Rampardos,Astral Radiance,077,Rare Holo,Fighting
+448,Lucario,Astral Radiance,078,Ultra-Rare Rare,Fighting
+449,Hippopotas,Astral Radiance,079,Common,Fighting
+450,Hippowdon,Astral Radiance,080,Uncommon,Fighting
+701,Radiant Hawlucha,Astral Radiance,081,Rare Radiant,Fighting
+724,Hisuian Decidueye,Astral Radiance,082,Rare Holo,Fighting
+724,Hisuian Decidueye,Astral Radiance,083,Ultra-Rare Rare,Fighting
+724,Hisuian Decidueye,Astral Radiance,084,Rare VSTAR,Fighting
+900,Kleavor,Astral Radiance,085,Rare,Fighting
+900,Kleavor,Astral Radiance,086,Rare Holo,Fighting
+900,Kleavor,Astral Radiance,087,Ultra-Rare Rare,Fighting
+211,Hisuian Qwilfish,Astral Radiance,088,Common,Darkness
+211,Hisuian Qwilfish,Astral Radiance,089,Common,Darkness
+904,Hisuian Overqwil,Astral Radiance,090,Uncommon,Darkness
+904,Hisuian Overqwil,Astral Radiance,091,Rare,Darkness
+215,Hisuian Sneasel,Astral Radiance,092,Common,Darkness
+903,Hisuian Sneasler,Astral Radiance,093,Rare Holo,Darkness
+903,Hisuian Sneasler,Astral Radiance,094,Ultra-Rare Rare,Darkness
+261,Poochyena,Astral Radiance,095,Common,Darkness
+262,Mightyena,Astral Radiance,096,Rare,Darkness
+359,Absol,Astral Radiance,097,Rare Holo,Darkness
+491,Darkrai,Astral Radiance,098,Ultra-Rare Rare,Darkness
+491,Darkrai,Astral Radiance,099,Rare VSTAR,Darkness
+503,Hisuian Samurott,Astral Radiance,100,Rare Holo,Darkness
+503,Hisuian Samurott,Astral Radiance,101,Ultra-Rare Rare,Darkness
+503,Hisuian Samurott,Astral Radiance,102,Rare VSTAR,Darkness
+827,Nickit,Astral Radiance,103,Common,Darkness
+828,Thievul,Astral Radiance,104,Rare,Darkness
+81,Magnemite,Astral Radiance,105,Common,Metal
+82,Magneton,Astral Radiance,106,Uncommon,Metal
+462,Magnezone,Astral Radiance,107,Rare Holo,Metal
+379,Registeel,Astral Radiance,108,Rare,Metal
+410,Shieldon,Astral Radiance,109,Uncommon,Metal
+411,Bastiodon,Astral Radiance,110,Rare Holo,Metal
+436,Bronzor,Astral Radiance,111,Common,Metal
+437,Bronzong,Astral Radiance,112,Uncommon,Metal
+,Origin Forme Dialga,Astral Radiance,113,Ultra-Rare Rare,Metal
+,Origin Forme Dialga,Astral Radiance,114,Rare VSTAR,Metal
+624,Pawniard,Astral Radiance,115,Common,Metal
+625,Bisharp,Astral Radiance,116,Uncommon,Metal
+445,Garchomp,Astral Radiance,117,Ultra-Rare Rare,Dragon
+895,Regidrago,Astral Radiance,118,Rare,Dragon
+133,Eevee,Astral Radiance,119,Common,Colorless
+163,Hoothoot,Astral Radiance,120,Common,Colorless
+164,Noctowl,Astral Radiance,121,Uncommon,Colorless
+216,Teddiursa,Astral Radiance,122,Common,Colorless
+217,Ursaring,Astral Radiance,123,Uncommon,Colorless
+901,Ursaluna,Astral Radiance,124,Rare,Colorless
+234,Stantler,Astral Radiance,125,Common,Colorless
+241,Miltank,Astral Radiance,126,Rare Holo,Colorless
+431,Glameow,Astral Radiance,127,Common,Colorless
+432,Purugly,Astral Radiance,128,Uncommon,Colorless
+441,Chatot,Astral Radiance,129,Common,Colorless
+486,Regigigas,Astral Radiance,130,Rare Holo,Colorless
+627,Rufflet,Astral Radiance,131,Common,Colorless
+628,Hisuian Braviary,Astral Radiance,132,Rare,Colorless
+765,Oranguru,Astral Radiance,133,Ultra-Rare Rare,Colorless
+899,Wyrdeer,Astral Radiance,134,Ultra-Rare Rare,Colorless
+,Adaman,Astral Radiance,135,Rare Holo,Supporter
+,Canceling Cologne,Astral Radiance,136,Uncommon,Item
+,Choy,Astral Radiance,137,Uncommon,Supporter
+,Cyllene,Astral Radiance,138,Uncommon,Supporter
+,Dark Patch,Astral Radiance,139,Uncommon,Item
+,Energy Loto,Astral Radiance,140,Uncommon,Item
+,Feather Ball,Astral Radiance,141,Uncommon,Item
+,Gapejaw Bog,Astral Radiance,142,Uncommon,Stadium
+,Gardenia's Vigor,Astral Radiance,143,Uncommon,Supporter
+,Grant,Astral Radiance,144,Uncommon,Supporter
+,Gutsy Pickaxe,Astral Radiance,145,Uncommon,Item
+,Hisuian Heavy Ball,Astral Radiance,146,Uncommon,Item
+,Irida,Astral Radiance,147,Rare Holo,Supporter
+,Jubilife Village,Astral Radiance,148,Uncommon,Stadium
+,Kamado,Astral Radiance,149,Uncommon,Supporter
+,Roxanne,Astral Radiance,150,Uncommon,Supporter
+,Spicy Seasoned Curry,Astral Radiance,151,Uncommon,Item
+,Supereffective Glasses,Astral Radiance,152,Uncommon,Item
+,Sweet Honey,Astral Radiance,153,Uncommon,Item
+,Switch Cart,Astral Radiance,154,Uncommon,Item
+,Temple of Sinnoh,Astral Radiance,155,Uncommon,Stadium
+,Trekking Shoes,Astral Radiance,156,Uncommon,Item
+,Unidentified Fossil,Astral Radiance,157,Uncommon,Item
+,Wait and See Turbo,Astral Radiance,158,Uncommon,Item
+,Zisu,Astral Radiance,159,Uncommon,Supporter
+15,Beedrill,Astral Radiance,160,Rare Ultra,Grass
+15,Beedrill,Astral Radiance,161,Rare Ultra,Grass
+549,Hisuian Lilligant,Astral Radiance,162,Rare Ultra,Grass
+549,Hisuian Lilligant,Astral Radiance,163,Rare Ultra,Grass
+640,Virizion,Astral Radiance,164,Rare Ultra,Grass
+485,Heatran,Astral Radiance,165,Rare Ultra,Fire
+121,Starmie,Astral Radiance,166,Rare Ultra,Water
+,Origin Forme Palkia,Astral Radiance,167,Rare Ultra,Water
+405,Luxray,Astral Radiance,168,Rare Ultra,Lightning
+157,Hisuian Typhlosion,Astral Radiance,169,Rare Ultra,Psychic
+385,Jirachi,Astral Radiance,170,Rare Ultra,Psychic
+68,Machamp,Astral Radiance,171,Rare Ultra,Fighting
+68,Machamp,Astral Radiance,172,Rare Ultra,Fighting
+724,Hisuian Decidueye,Astral Radiance,173,Rare Ultra,Fighting
+903,Hisuian Sneasler,Astral Radiance,174,Rare Ultra,Darkness
+903,Hisuian Sneasler,Astral Radiance,175,Rare Ultra,Darkness
+503,Hisuian Samurott,Astral Radiance,176,Rare Ultra,Darkness
+,Origin Forme Dialga,Astral Radiance,177,Rare Ultra,Metal
+445,Garchomp,Astral Radiance,178,Rare Ultra,Dragon
+765,Oranguru,Astral Radiance,179,Rare Ultra,Colorless
+899,Wyrdeer,Astral Radiance,180,Rare Ultra,Colorless
+,Adaman,Astral Radiance,181,Rare Ultra,Supporter
+,Choy,Astral Radiance,182,Rare Ultra,Supporter
+,Cyllene,Astral Radiance,183,Rare Ultra,Supporter
+,Gardenia's Vigor,Astral Radiance,184,Rare Ultra,Supporter
+,Grant,Astral Radiance,185,Rare Ultra,Supporter
+,Irida,Astral Radiance,186,Rare Ultra,Supporter
+,Kamado,Astral Radiance,187,Rare Ultra,Supporter
+,Roxanne,Astral Radiance,188,Rare Ultra,Supporter
+,Zisu,Astral Radiance,189,Rare Ultra,Supporter
+549,Hisuian Lilligant,Astral Radiance,190,Rare Rainbow,Grass
+485,Heatran,Astral Radiance,191,Rare Rainbow,Fire
+,Origin Forme Palkia,Astral Radiance,192,Rare Rainbow,Water
+157,Hisuian Typhlosion,Astral Radiance,193,Rare Rainbow,Psychic
+68,Machamp,Astral Radiance,194,Rare Rainbow,Fighting
+724,Hisuian Decidueye,Astral Radiance,195,Rare Rainbow,Fighting
+900,Kleavor,Astral Radiance,196,Rare Rainbow,Fighting
+503,Hisuian Samurott,Astral Radiance,197,Rare Rainbow,Darkness
+,Origin Forme Dialga,Astral Radiance,198,Rare Rainbow,Metal
+,Adaman,Astral Radiance,199,Rare Rainbow,Supporter
+,Choy,Astral Radiance,200,Rare Rainbow,Supporter
+,Cyllene,Astral Radiance,201,Rare Rainbow,Supporter
+,Gardenia's Vigor,Astral Radiance,202,Rare Rainbow,Supporter
+,Grant,Astral Radiance,203,Rare Rainbow,Supporter
+,Irida,Astral Radiance,204,Rare Rainbow,Supporter
+,Kamado,Astral Radiance,205,Rare Rainbow,Supporter
+,Roxanne,Astral Radiance,206,Rare Rainbow,Supporter
+,Zisu,Astral Radiance,207,Rare Rainbow,Supporter
+,Origin Forme Palkia,Astral Radiance,208,Rare Secret,Water
+503,Hisuian Samurott,Astral Radiance,209,Rare Secret,Darkness
+,Origin Forme Dialga,Astral Radiance,210,Rare Secret,Metal
+,Choice Belt,Astral Radiance,211,Rare Secret,Item
+,Jubilife Village,Astral Radiance,212,Rare Secret,Stadium
+,Path to the Peak,Astral Radiance,213,Rare Secret,Stadium
+,Temple of Sinnoh,Astral Radiance,214,Rare Secret,Stadium
+,Trekking Shoes,Astral Radiance,215,Rare Secret,Item
+,Double Turbo Energy,Astral Radiance,216,Rare Secret,Energy

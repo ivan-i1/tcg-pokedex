@@ -1,0 +1,89 @@
+dexNumber,name,setName,setNumber,rarity,type
+1,Bulbasaur,Pokémon GO,001,Common,Grass
+2,Ivysaur,Pokémon GO,002,Uncommon,Grass
+3,Venusaur,Pokémon GO,003,Rare Holo,Grass
+,Radiant Venusaur,Pokémon GO,004,Rare Radiant,Grass
+,Alolan Exeggutor,Pokémon GO,005,Ultra-Rare Rare,Grass
+167,Spinarak,Pokémon GO,006,Common,Grass
+168,Ariados,Pokémon GO,007,Uncommon,Grass
+4,Charmander,Pokémon GO,008,Common,Fire
+5,Charmeleon,Pokémon GO,009,Uncommon,Fire
+6,Charizard,Pokémon GO,010,Rare Holo,Fire
+,Radiant Charizard,Pokémon GO,011,Rare Radiant,Fire
+146,Moltres,Pokémon GO,012,Rare Holo,Fire
+322,Numel,Pokémon GO,013,Common,Fire
+323,Camerupt,Pokémon GO,014,Uncommon,Fire
+7,Squirtle,Pokémon GO,015,Common,Water
+8,Wartortle,Pokémon GO,016,Uncommon,Water
+9,Blastoise,Pokémon GO,017,Rare Holo,Water
+,Radiant Blastoise,Pokémon GO,018,Rare Radiant,Water
+79,Slowpoke,Pokémon GO,019,Common,Water
+80,Slowbro,Pokémon GO,020,Uncommon,Water
+129,Magikarp,Pokémon GO,021,Common,Water
+130,Gyarados,Pokémon GO,022,Rare Holo,Water
+131,Lapras,Pokémon GO,023,Rare Holo,Water
+144,Articuno,Pokémon GO,024,Rare Holo,Water
+767,Wimpod,Pokémon GO,025,Common,Water
+768,Golisopod,Pokémon GO,026,Rare Holo,Water
+25,Pikachu,Pokémon GO,027,Common,Lightning
+25,Pikachu,Pokémon GO,028,Rare Holo,Lightning
+145,Zapdos,Pokémon GO,029,Rare Holo,Lightning
+150,Mewtwo,Pokémon GO,030,Ultra-Rare Rare,Psychic
+150,Mewtwo,Pokémon GO,031,Rare VSTAR,Psychic
+177,Natu,Pokémon GO,032,Common,Psychic
+178,Xatu,Pokémon GO,033,Uncommon,Psychic
+337,Lunatone,Pokémon GO,034,Uncommon,Psychic
+700,Sylveon,Pokémon GO,035,Rare Holo,Psychic
+95,Onix,Pokémon GO,036,Common,Fighting
+246,Larvitar,Pokémon GO,037,Common,Fighting
+247,Pupitar,Pokémon GO,038,Uncommon,Fighting
+338,Solrock,Pokémon GO,039,Uncommon,Fighting
+534,Conkeldurr,Pokémon GO,040,Ultra-Rare Rare,Fighting
+,Alolan Rattata,Pokémon GO,041,Common,Darkness
+,Alolan Raticate,Pokémon GO,042,Common,Darkness
+248,Tyranitar,Pokémon GO,043,Rare Holo,Darkness
+208,Steelix,Pokémon GO,044,Uncommon,Metal
+808,Meltan,Pokémon GO,045,Common,Metal
+809,Melmetal,Pokémon GO,046,Rare Holo,Metal
+809,Melmetal,Pokémon GO,047,Ultra-Rare Rare,Metal
+809,Melmetal,Pokémon GO,048,Rare VMAX,Metal
+149,Dragonite,Pokémon GO,049,Ultra-Rare Rare,Dragon
+149,Dragonite,Pokémon GO,050,Rare VSTAR,Dragon
+113,Chansey,Pokémon GO,051,Common,Colorless
+242,Blissey,Pokémon GO,052,Rare Holo,Colorless
+132,Ditto,Pokémon GO,053,Rare Holo,Colorless
+133,Eevee,Pokémon GO,054,Common,Colorless
+143,Snorlax,Pokémon GO,055,Rare Holo,Colorless
+190,Aipom,Pokémon GO,056,Common,Colorless
+424,Ambipom,Pokémon GO,057,Common,Colorless
+289,Slaking,Pokémon GO,058,Ultra-Rare Rare,Colorless
+399,Bidoof,Pokémon GO,059,Common,Colorless
+400,Bibarel,Pokémon GO,060,Common,Colorless
+519,Pidove,Pokémon GO,061,Common,Colorless
+520,Tranquill,Pokémon GO,062,Common,Colorless
+521,Unfezant,Pokémon GO,063,Uncommon,Colorless
+,Blanche,Pokémon GO,064,Uncommon,Supporter
+,Candela,Pokémon GO,065,Uncommon,Supporter
+,Egg Incubator,Pokémon GO,066,Uncommon,Item
+,Lure Module,Pokémon GO,067,Uncommon,Item
+,PokéStop,Pokémon GO,068,Uncommon,Stadium
+,Rare Candy,Pokémon GO,069,Uncommon,Item
+,Spark,Pokémon GO,070,Uncommon,Supporter
+,Alolan Exeggutor,Pokémon GO,071,Rare Ultra,Grass
+150,Mewtwo,Pokémon GO,072,Rare Ultra,Psychic
+534,Conkeldurr,Pokémon GO,073,Rare Ultra,Fighting
+534,Conkeldurr,Pokémon GO,074,Rare Ultra,Fighting
+809,Melmetal,Pokémon GO,075,Rare Ultra,Metal
+149,Dragonite,Pokémon GO,076,Rare Ultra,Dragon
+289,Slaking,Pokémon GO,077,Rare Ultra,Colorless
+,Professor's Research,Pokémon GO,078,Rare Ultra,Supporter
+150,Mewtwo,Pokémon GO,079,Rare Rainbow,Psychic
+809,Melmetal,Pokémon GO,080,Rare Rainbow,Metal
+149,Dragonite,Pokémon GO,081,Rare Rainbow,Dragon
+,Blanche,Pokémon GO,082,Rare Rainbow,Supporter
+,Candela,Pokémon GO,083,Rare Rainbow,Supporter
+,Professor's Research,Pokémon GO,084,Rare Rainbow,Supporter
+,Spark,Pokémon GO,085,Rare Rainbow,Supporter
+150,Mewtwo,Pokémon GO,086,Rare Secret,Psychic
+,Egg Incubator,Pokémon GO,087,Rare Secret,Item
+,Lure Module,Pokémon GO,088,Rare Secret,Item

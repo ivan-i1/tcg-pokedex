@@ -1,0 +1,184 @@
+dexNumber,name,setName,setNumber,rarity,type
+69,Bellsprout,Battle Styles,001,Common,Grass
+70,Weepinbell,Battle Styles,002,Uncommon,Grass
+71,Victreebel,Battle Styles,003,Rare,Grass
+331,Cacnea,Battle Styles,004,Common,Grass
+332,Cacturne,Battle Styles,005,Uncommon,Grass
+402,Kricketune,Battle Styles,006,Ultra-Rare Rare,Grass
+420,Cherubi,Battle Styles,007,Common,Grass
+421,Cherrim,Battle Styles,008,Rare Holo,Grass
+455,Carnivine,Battle Styles,009,Uncommon,Grass
+632,Durant,Battle Styles,010,Uncommon,Grass
+664,Scatterbug,Battle Styles,011,Common,Grass
+665,Spewpa,Battle Styles,012,Uncommon,Grass
+666,Vivillon,Battle Styles,013,Rare,Grass
+753,Fomantis,Battle Styles,014,Common,Grass
+754,Lurantis,Battle Styles,015,Rare,Grass
+787,Tapu Bulu,Battle Styles,016,Rare Holo,Grass
+824,Blipbug,Battle Styles,017,Common,Grass
+841,Flapple,Battle Styles,018,Ultra-Rare Rare,Grass
+841,Flapple,Battle Styles,019,Rare VMAX,Grass
+244,Entei,Battle Styles,020,Rare Holo,Fire
+494,Victini,Battle Styles,021,Ultra-Rare Rare,Fire
+494,Victini,Battle Styles,022,Rare VMAX,Fire
+498,Tepig,Battle Styles,023,Common,Fire
+499,Pignite,Battle Styles,024,Uncommon,Fire
+500,Emboar,Battle Styles,025,Rare Holo,Fire
+631,Heatmor,Battle Styles,026,Uncommon,Fire
+757,Salandit,Battle Styles,027,Common,Fire
+758,Salazzle,Battle Styles,028,Rare,Fire
+850,Sizzlipede,Battle Styles,029,Common,Fire
+851,Centiskorch,Battle Styles,030,Rare,Fire
+116,Horsea,Battle Styles,031,Common,Water
+117,Seadra,Battle Styles,032,Uncommon,Water
+230,Kingdra,Battle Styles,033,Rare Holo,Water
+122,Galarian Mr. Mime,Battle Styles,034,Common,Water
+866,Galarian Mr. Rime,Battle Styles,035,Rare,Water
+223,Remoraid,Battle Styles,036,Common,Water
+224,Octillery,Battle Styles,037,Rare Holo,Water
+341,Corphish,Battle Styles,038,Common,Water
+342,Crawdaunt,Battle Styles,039,Uncommon,Water
+395,Empoleon,Battle Styles,040,Ultra-Rare Rare,Water
+592,Frillish,Battle Styles,041,Common,Water
+593,Jellicent,Battle Styles,042,Rare,Water
+779,Bruxish,Battle Styles,043,Uncommon,Water
+125,Electabuzz,Battle Styles,044,Common,Lightning
+466,Electivire,Battle Styles,045,Rare,Lightning
+403,Shinx,Battle Styles,046,Common,Lightning
+404,Luxio,Battle Styles,047,Uncommon,Lightning
+405,Luxray,Battle Styles,048,Rare Holo,Lightning
+417,Pachirisu,Battle Styles,049,Common,Lightning
+785,Tapu Koko,Battle Styles,050,Ultra-Rare Rare,Lightning
+785,Tapu Koko,Battle Styles,051,Rare VMAX,Lightning
+835,Yamper,Battle Styles,052,Common,Lightning
+836,Boltund,Battle Styles,053,Rare,Lightning
+79,Galarian Slowpoke,Battle Styles,054,Common,Psychic
+325,Spoink,Battle Styles,055,Common,Psychic
+326,Grumpig,Battle Styles,056,Uncommon,Psychic
+343,Baltoy,Battle Styles,057,Common,Psychic
+344,Claydol,Battle Styles,058,Rare,Psychic
+358,Chimecho,Battle Styles,059,Common,Psychic
+677,Espurr,Battle Styles,060,Common,Psychic
+678,Meowstic,Battle Styles,061,Rare Holo,Psychic
+778,Mimikyu,Battle Styles,062,Ultra-Rare Rare,Psychic
+800,Necrozma,Battle Styles,063,Ultra-Rare Rare,Psychic
+825,Dottler,Battle Styles,064,Uncommon,Psychic
+826,Orbeetle,Battle Styles,065,Rare Holo,Psychic
+56,Mankey,Battle Styles,066,Common,Fighting
+57,Primeape,Battle Styles,067,Rare,Fighting
+95,Onix,Battle Styles,068,Common,Fighting
+104,Cubone,Battle Styles,069,Common,Fighting
+105,Marowak,Battle Styles,070,Rare,Fighting
+207,Gligar,Battle Styles,071,Common,Fighting
+472,Gliscor,Battle Styles,072,Uncommon,Fighting
+532,Timburr,Battle Styles,073,Common,Fighting
+533,Gurdurr,Battle Styles,074,Uncommon,Fighting
+534,Conkeldurr,Battle Styles,075,Rare,Fighting
+619,Mienfoo,Battle Styles,076,Common,Fighting
+620,Mienshao,Battle Styles,077,Rare,Fighting
+837,Rolycoly,Battle Styles,078,Common,Fighting
+838,Carkol,Battle Styles,079,Uncommon,Fighting
+839,Coalossal,Battle Styles,080,Rare Holo,Fighting
+843,Silicobra,Battle Styles,081,Common,Fighting
+844,Sandaconda,Battle Styles,082,Rare Holo,Fighting
+870,Falinks,Battle Styles,083,Rare,Fighting
+874,Stonjourner,Battle Styles,084,Rare,Fighting
+,Single Strike Urshifu,Battle Styles,085,Ultra-Rare Rare,Fighting
+,Single Strike Urshifu,Battle Styles,086,Rare VMAX,Fighting
+,Rapid Strike Urshifu,Battle Styles,087,Ultra-Rare Rare,Fighting
+,Rapid Strike Urshifu,Battle Styles,088,Rare VMAX,Fighting
+41,Zubat,Battle Styles,089,Common,Darkness
+42,Golbat,Battle Styles,090,Uncommon,Darkness
+169,Crobat,Battle Styles,091,Rare Holo,Darkness
+80,Galarian Slowbro,Battle Styles,092,Rare,Darkness
+198,Murkrow,Battle Styles,093,Common,Darkness
+430,Honchkrow,Battle Styles,094,Uncommon,Darkness
+228,Houndour,Battle Styles,095,Common,Darkness
+229,Houndoom,Battle Styles,096,Rare Holo,Darkness
+248,Tyranitar,Battle Styles,097,Ultra-Rare Rare,Darkness
+877,Morpeko,Battle Styles,098,Uncommon,Darkness
+208,Steelix,Battle Styles,099,Rare Holo,Metal
+303,Mawile,Battle Styles,100,Common,Metal
+436,Bronzor,Battle Styles,101,Common,Metal
+437,Bronzong,Battle Styles,102,Rare Holo,Metal
+624,Pawniard,Battle Styles,103,Common,Metal
+625,Bisharp,Battle Styles,104,Uncommon,Metal
+679,Honedge,Battle Styles,105,Common,Metal
+680,Doublade,Battle Styles,106,Uncommon,Metal
+681,Aegislash,Battle Styles,107,Rare Holo,Metal
+681,Aegislash,Battle Styles,108,Rare,Metal
+823,Corviknight,Battle Styles,109,Ultra-Rare Rare,Metal
+823,Corviknight,Battle Styles,110,Rare VMAX,Metal
+21,Spearow,Battle Styles,111,Common,Colorless
+22,Fearow,Battle Styles,112,Uncommon,Colorless
+108,Lickitung,Battle Styles,113,Common,Colorless
+463,Lickilicky,Battle Styles,114,Rare,Colorless
+431,Glameow,Battle Styles,115,Common,Colorless
+432,Purugly,Battle Styles,116,Uncommon,Colorless
+508,Stoutland,Battle Styles,117,Ultra-Rare Rare,Colorless
+626,Bouffalant,Battle Styles,118,Uncommon,Colorless
+780,Drampa,Battle Styles,119,Rare,Colorless
+876,Indeedee,Battle Styles,120,Uncommon,Colorless
+,Bruno,Battle Styles,121,Uncommon,Supporter
+,Camping Gear,Battle Styles,122,Uncommon,Item
+,Cheryl,Battle Styles,123,Uncommon,Supporter
+,Energy Recycler,Battle Styles,124,Uncommon,Item
+,Escape Rope,Battle Styles,125,Uncommon,Item
+,Exp. Share,Battle Styles,126,Uncommon,Item
+,Fan of Waves,Battle Styles,127,Uncommon,Item
+,Korrina's Focus,Battle Styles,128,Uncommon,Supporter
+,Level Ball,Battle Styles,129,Uncommon,Item
+,Phoebe,Battle Styles,130,Uncommon,Supporter
+,Rapid Strike Scroll of Swirls,Battle Styles,131,Uncommon,Item
+,Rapid Strike Style Mustard,Battle Styles,132,Uncommon,Supporter
+,Single Strike Scroll of Scorn,Battle Styles,133,Uncommon,Item
+,Single Strike Style Mustard,Battle Styles,134,Uncommon,Supporter
+,Sordward & Shielbert,Battle Styles,135,Uncommon,Supporter
+,Tool Jammer,Battle Styles,136,Uncommon,Item
+,Tower of Darkness,Battle Styles,137,Uncommon,Stadium
+,Tower of Waters,Battle Styles,138,Uncommon,Stadium
+,Urn of Vitality,Battle Styles,139,Uncommon,Item
+,Rapid Strike Energy,Battle Styles,140,Uncommon,Energy
+,Single Strike Energy,Battle Styles,141,Uncommon,Energy
+402,Kricketune,Battle Styles,142,Rare Ultra,Grass
+841,Flapple,Battle Styles,143,Rare Ultra,Grass
+494,Victini,Battle Styles,144,Rare Ultra,Fire
+395,Empoleon,Battle Styles,145,Rare Ultra,Water
+395,Empoleon,Battle Styles,146,Rare Ultra,Water
+785,Tapu Koko,Battle Styles,147,Rare Ultra,Lightning
+778,Mimikyu,Battle Styles,148,Rare Ultra,Psychic
+800,Necrozma,Battle Styles,149,Rare Ultra,Psychic
+,Single Strike Urshifu,Battle Styles,150,Rare Ultra,Fighting
+,Single Strike Urshifu,Battle Styles,151,Rare Ultra,Fighting
+,Rapid Strike Urshifu,Battle Styles,152,Rare Ultra,Fighting
+,Rapid Strike Urshifu,Battle Styles,153,Rare Ultra,Fighting
+248,Tyranitar,Battle Styles,154,Rare Ultra,Darkness
+248,Tyranitar,Battle Styles,155,Rare Ultra,Darkness
+823,Corviknight,Battle Styles,156,Rare Ultra,Metal
+508,Stoutland,Battle Styles,157,Rare Ultra,Colorless
+,Bruno,Battle Styles,158,Rare Ultra,Supporter
+,Cheryl,Battle Styles,159,Rare Ultra,Supporter
+,Korrina's Focus,Battle Styles,160,Rare Ultra,Supporter
+,Phoebe,Battle Styles,161,Rare Ultra,Supporter
+,Rapid Strike Style Mustard,Battle Styles,162,Rare Ultra,Supporter
+,Single Strike Style Mustard,Battle Styles,163,Rare Ultra,Supporter
+841,Flapple,Battle Styles,164,Rare Rainbow,Grass
+494,Victini,Battle Styles,165,Rare Rainbow,Fire
+785,Tapu Koko,Battle Styles,166,Rare Rainbow,Lightning
+,Single Strike Urshifu,Battle Styles,167,Rare Rainbow,Fighting
+,Single Strike Urshifu,Battle Styles,168,Rare Secret,Fighting
+,Rapid Strike Urshifu,Battle Styles,169,Rare Rainbow,Fighting
+,Rapid Strike Urshifu,Battle Styles,170,Rare Secret,Fighting
+823,Corviknight,Battle Styles,171,Rare Rainbow,Metal
+,Bruno,Battle Styles,172,Rare Rainbow,Supporter
+,Cheryl,Battle Styles,173,Rare Rainbow,Supporter
+,Korrina's Focus,Battle Styles,174,Rare Rainbow,Supporter
+,Phoebe,Battle Styles,175,Rare Rainbow,Supporter
+,Rapid Strike Style Mustard,Battle Styles,176,Rare Rainbow,Supporter
+,Single Strike Style Mustard,Battle Styles,177,Rare Rainbow,Supporter
+224,Octillery,Battle Styles,178,Rare Secret,Water
+229,Houndoom,Battle Styles,179,Rare Secret,Darkness
+,Exp. Share,Battle Styles,180,Rare Secret,Item
+,Level Ball,Battle Styles,181,Rare Secret,Item
+,Rapid Strike Energy,Battle Styles,182,Rare Secret,Energy
+,Single Strike Energy,Battle Styles,183,Rare Secret,Energy

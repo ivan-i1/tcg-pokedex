@@ -31,6 +31,9 @@ export type Card = {
   subtypes: string[];
   /** The card's "Evolves from" text, if printed. */
   evolvesFrom?: string;
+  /** Collector number within the set, e.g. "001". */
+  number?: string;
+  rarity?: string;
 };
 
 export type Pick = { set: CardSet; newDex: number[] };

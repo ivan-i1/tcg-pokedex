@@ -1,0 +1,231 @@
+dexNumber,name,setName,setNumber,rarity,type
+43,Oddish,Obsidian Flames,001,Common,Grass
+44,Gloom,Obsidian Flames,002,Common,Grass
+182,Bellossom,Obsidian Flames,003,Uncommon,Grass
+123,Scyther,Obsidian Flames,004,Common,Grass
+213,Shuckle,Obsidian Flames,005,Common,Grass
+283,Surskit,Obsidian Flames,006,Common,Grass
+284,Masquerain,Obsidian Flames,007,Uncommon,Grass
+415,Combee,Obsidian Flames,008,Common,Grass
+590,Foongus,Obsidian Flames,009,Common,Grass
+591,Amoonguss,Obsidian Flames,010,Uncommon,Grass
+708,Phantump,Obsidian Flames,011,Common,Grass
+709,Trevenant,Obsidian Flames,012,Uncommon,Grass
+722,Rowlet,Obsidian Flames,013,Common,Grass
+723,Dartrix,Obsidian Flames,014,Uncommon,Grass
+724,Decidueye,Obsidian Flames,015,Double Rare,Grass
+761,Bounsweet,Obsidian Flames,016,Common,Grass
+762,Steenee,Obsidian Flames,017,Common,Grass
+763,Tsareena,Obsidian Flames,018,Uncommon,Grass
+928,Smoliv,Obsidian Flames,019,Common,Grass
+929,Dolliv,Obsidian Flames,020,Common,Grass
+930,Arboliva,Obsidian Flames,021,Uncommon,Grass
+949,Toedscruel,Obsidian Flames,022,Double Rare,Grass
+951,Capsakid,Obsidian Flames,023,Common,Grass
+951,Capsakid,Obsidian Flames,024,Common,Grass
+952,Scovillain,Obsidian Flames,025,Rare,Grass
+4,Charmander,Obsidian Flames,026,Common,Fire
+5,Charmeleon,Obsidian Flames,027,Uncommon,Fire
+37,Vulpix,Obsidian Flames,028,Common,Fire
+38,Ninetales,Obsidian Flames,029,Uncommon,Fire
+244,Entei,Obsidian Flames,030,Rare,Fire
+322,Numel,Obsidian Flames,031,Common,Fire
+323,Camerupt,Obsidian Flames,032,Uncommon,Fire
+494,Victini,Obsidian Flames,033,Double Rare,Fire
+554,Darumaka,Obsidian Flames,034,Common,Fire
+555,Darmanitan,Obsidian Flames,035,Uncommon,Fire
+607,Litwick,Obsidian Flames,036,Common,Fire
+608,Lampent,Obsidian Flames,037,Common,Fire
+609,Chandelure,Obsidian Flames,038,Uncommon,Fire
+631,Heatmor,Obsidian Flames,039,Common,Fire
+636,Larvesta,Obsidian Flames,040,Common,Fire
+637,Volcarona,Obsidian Flames,041,Uncommon,Fire
+875,Eiscue,Obsidian Flames,042,Double Rare,Fire
+935,Charcadet,Obsidian Flames,043,Common,Fire
+936,Armarouge,Obsidian Flames,044,Uncommon,Fire
+131,Lapras,Obsidian Flames,045,Uncommon,Water
+318,Carvanha,Obsidian Flames,046,Common,Water
+319,Sharpedo,Obsidian Flames,047,Uncommon,Water
+418,Buizel,Obsidian Flames,048,Common,Water
+419,Floatzel,Obsidian Flames,049,Uncommon,Water
+535,Tympole,Obsidian Flames,050,Common,Water
+536,Palpitoad,Obsidian Flames,051,Common,Water
+537,Seismitoad,Obsidian Flames,052,Uncommon,Water
+613,Cubchoo,Obsidian Flames,053,Common,Water
+614,Beartic,Obsidian Flames,054,Uncommon,Water
+615,Cryogonal,Obsidian Flames,055,Common,Water
+656,Froakie,Obsidian Flames,056,Common,Water
+657,Frogadier,Obsidian Flames,057,Uncommon,Water
+960,Wiglett,Obsidian Flames,058,Common,Water
+961,Wugtrio,Obsidian Flames,059,Uncommon,Water
+963,Finizen,Obsidian Flames,060,Common,Water
+963,Finizen,Obsidian Flames,061,Common,Water
+964,Palafin,Obsidian Flames,062,Rare,Water
+81,Magnemite,Obsidian Flames,063,Common,Lightning
+82,Magneton,Obsidian Flames,064,Common,Lightning
+462,Magnezone,Obsidian Flames,065,Uncommon,Lightning
+248,Tyranitar,Obsidian Flames,066,Double Rare,Lightning
+602,Tynamo,Obsidian Flames,067,Common,Lightning
+603,Eelektrik,Obsidian Flames,068,Common,Lightning
+604,Eelektross,Obsidian Flames,069,Uncommon,Lightning
+642,Thundurus,Obsidian Flames,070,Rare,Lightning
+848,Toxel,Obsidian Flames,071,Common,Lightning
+849,Toxtricity,Obsidian Flames,072,Rare,Lightning
+923,Pawmot,Obsidian Flames,073,Double Rare,Lightning
+938,Tadbulb,Obsidian Flames,074,Common,Lightning
+938,Tadbulb,Obsidian Flames,075,Common,Lightning
+938,Tadbulb,Obsidian Flames,076,Common,Lightning
+939,Bellibolt,Obsidian Flames,077,Uncommon,Lightning
+939,Bellibolt,Obsidian Flames,078,Uncommon,Lightning
+1008,Miraidon,Obsidian Flames,079,Double Rare,Lightning
+173,Cleffa,Obsidian Flames,080,Common,Psychic
+35,Clefairy,Obsidian Flames,081,Common,Psychic
+36,Clefable,Obsidian Flames,082,Double Rare,Psychic
+175,Togepi,Obsidian Flames,083,Common,Psychic
+176,Togetic,Obsidian Flames,084,Uncommon,Psychic
+468,Togekiss,Obsidian Flames,085,Rare,Psychic
+196,Espeon,Obsidian Flames,086,Uncommon,Psychic
+209,Snubbull,Obsidian Flames,087,Common,Psychic
+210,Granbull,Obsidian Flames,088,Uncommon,Psychic
+303,Mawile,Obsidian Flames,089,Common,Psychic
+325,Spoink,Obsidian Flames,090,Common,Psychic
+326,Grumpig,Obsidian Flames,091,Uncommon,Psychic
+337,Lunatone,Obsidian Flames,092,Uncommon,Psychic
+338,Solrock,Obsidian Flames,093,Uncommon,Psychic
+343,Baltoy,Obsidian Flames,094,Common,Psychic
+344,Claydol,Obsidian Flames,095,Rare,Psychic
+416,Vespiquen,Obsidian Flames,096,Double Rare,Psychic
+854,Sinistea,Obsidian Flames,097,Common,Psychic
+855,Polteageist,Obsidian Flames,098,Uncommon,Psychic
+971,Greavard,Obsidian Flames,099,Common,Psychic
+971,Greavard,Obsidian Flames,100,Common,Psychic
+972,Houndstone,Obsidian Flames,101,Uncommon,Psychic
+972,Houndstone,Obsidian Flames,102,Double Rare,Psychic
+50,Diglett,Obsidian Flames,103,Common,Fighting
+51,Dugtrio,Obsidian Flames,104,Uncommon,Fighting
+246,Larvitar,Obsidian Flames,105,Common,Fighting
+247,Pupitar,Obsidian Flames,106,Uncommon,Fighting
+299,Nosepass,Obsidian Flames,107,Common,Fighting
+339,Barboach,Obsidian Flames,108,Common,Fighting
+340,Whiscash,Obsidian Flames,109,Uncommon,Fighting
+438,Bonsly,Obsidian Flames,110,Common,Fighting
+529,Drilbur,Obsidian Flames,111,Common,Fighting
+618,Stunfisk,Obsidian Flames,112,Uncommon,Fighting
+660,Diggersby,Obsidian Flames,113,Uncommon,Fighting
+739,Crabrawler,Obsidian Flames,114,Common,Fighting
+740,Crabominable,Obsidian Flames,115,Uncommon,Fighting
+744,Rockruff,Obsidian Flames,116,Common,Fighting
+745,Lycanroc,Obsidian Flames,117,Uncommon,Fighting
+948,Toedscool,Obsidian Flames,118,Common,Fighting
+949,Toedscruel,Obsidian Flames,119,Uncommon,Fighting
+950,Klawf,Obsidian Flames,120,Double Rare,Fighting
+969,Glimmet,Obsidian Flames,121,Common,Fighting
+969,Glimmet,Obsidian Flames,122,Common,Fighting
+970,Glimmora,Obsidian Flames,123,Double Rare,Fighting
+1007,Koraidon,Obsidian Flames,124,Double Rare,Fighting
+6,Charizard,Obsidian Flames,125,Double Rare,Darkness
+194,Paldean Wooper,Obsidian Flames,126,Common,Darkness
+194,Paldean Wooper,Obsidian Flames,127,Common,Darkness
+980,Paldean Clodsire,Obsidian Flames,128,Uncommon,Darkness
+980,Paldean Clodsire,Obsidian Flames,129,Uncommon,Darkness
+197,Umbreon,Obsidian Flames,130,Uncommon,Darkness
+228,Houndour,Obsidian Flames,131,Common,Darkness
+228,Houndour,Obsidian Flames,132,Common,Darkness
+229,Houndoom,Obsidian Flames,133,Uncommon,Darkness
+229,Houndoom,Obsidian Flames,134,Double Rare,Darkness
+359,Absol,Obsidian Flames,135,Double Rare,Darkness
+491,Darkrai,Obsidian Flames,136,Rare,Darkness
+686,Inkay,Obsidian Flames,137,Common,Darkness
+687,Malamar,Obsidian Flames,138,Uncommon,Darkness
+757,Salandit,Obsidian Flames,139,Common,Darkness
+758,Salazzle,Obsidian Flames,140,Uncommon,Darkness
+212,Scizor,Obsidian Flames,141,Rare,Metal
+227,Skarmory,Obsidian Flames,142,Uncommon,Metal
+303,Mawile,Obsidian Flames,143,Uncommon,Metal
+436,Bronzor,Obsidian Flames,144,Common,Metal
+437,Bronzong,Obsidian Flames,145,Uncommon,Metal
+476,Probopass,Obsidian Flames,146,Uncommon,Metal
+530,Excadrill,Obsidian Flames,147,Uncommon,Metal
+624,Pawniard,Obsidian Flames,148,Common,Metal
+625,Bisharp,Obsidian Flames,149,Common,Metal
+983,Kingambit,Obsidian Flames,150,Uncommon,Metal
+777,Togedemaru,Obsidian Flames,151,Common,Metal
+808,Meltan,Obsidian Flames,152,Common,Metal
+809,Melmetal,Obsidian Flames,153,Double Rare,Metal
+965,Varoom,Obsidian Flames,154,Common,Metal
+965,Varoom,Obsidian Flames,155,Common,Metal
+966,Revavroom,Obsidian Flames,156,Double Rare,Metal
+147,Dratini,Obsidian Flames,157,Common,Dragon
+148,Dragonair,Obsidian Flames,158,Uncommon,Dragon
+149,Dragonite,Obsidian Flames,159,Double Rare,Dragon
+334,Altaria,Obsidian Flames,160,Uncommon,Dragon
+780,Drampa,Obsidian Flames,161,Uncommon,Dragon
+16,Pidgey,Obsidian Flames,162,Common,Colorless
+17,Pidgeotto,Obsidian Flames,163,Uncommon,Colorless
+18,Pidgeot,Obsidian Flames,164,Double Rare,Colorless
+115,Kangaskhan,Obsidian Flames,165,Uncommon,Colorless
+133,Eevee,Obsidian Flames,166,Common,Colorless
+263,Zigzagoon,Obsidian Flames,167,Common,Colorless
+264,Linoone,Obsidian Flames,168,Uncommon,Colorless
+333,Swablu,Obsidian Flames,169,Common,Colorless
+506,Lillipup,Obsidian Flames,170,Common,Colorless
+507,Herdier,Obsidian Flames,171,Common,Colorless
+508,Stoutland,Obsidian Flames,172,Uncommon,Colorless
+531,Audino,Obsidian Flames,173,Common,Colorless
+626,Bouffalant,Obsidian Flames,174,Uncommon,Colorless
+659,Bunnelby,Obsidian Flames,175,Common,Colorless
+734,Yungoos,Obsidian Flames,176,Common,Colorless
+735,Gumshoos,Obsidian Flames,177,Uncommon,Colorless
+819,Skwovet,Obsidian Flames,178,Common,Colorless
+820,Greedent,Obsidian Flames,179,Double Rare,Colorless
+915,Lechonk,Obsidian Flames,180,Common,Colorless
+915,Lechonk,Obsidian Flames,181,Common,Colorless
+915,Lechonk,Obsidian Flames,182,Common,Colorless
+916,Oinkologne,Obsidian Flames,183,Uncommon,Colorless
+916,Oinkologne,Obsidian Flames,184,Uncommon,Colorless
+973,Flamigo,Obsidian Flames,185,Uncommon,Colorless
+,Arven,Obsidian Flames,186,Uncommon,Supporter
+,Brassius,Obsidian Flames,187,Uncommon,Supporter
+,Geeta,Obsidian Flames,188,Rare,Supporter
+,Letter of Encouragement,Obsidian Flames,189,Uncommon,Item
+,Ortega,Obsidian Flames,190,Uncommon,Supporter
+,Patrol Cap,Obsidian Flames,191,Uncommon,Tool
+,Pokémon League Headquarters,Obsidian Flames,192,Uncommon,Stadium
+,Poppy,Obsidian Flames,193,Uncommon,Supporter
+,Ryme,Obsidian Flames,194,Common,Supporter
+,Team Star Grunt,Obsidian Flames,195,Uncommon,Supporter
+,Town Store,Obsidian Flames,196,Common,Stadium
+,Vengeful Punch,Obsidian Flames,197,Uncommon,Tool
+44,Gloom,Obsidian Flames,198,Illustration Rare,Grass
+38,Ninetales,Obsidian Flames,199,Illustration Rare,Fire
+964,Palafin,Obsidian Flames,200,Illustration Rare,Water
+939,Bellibolt,Obsidian Flames,201,Illustration Rare,Lightning
+173,Cleffa,Obsidian Flames,202,Illustration Rare,Psychic
+246,Larvitar,Obsidian Flames,203,Illustration Rare,Fighting
+228,Houndour,Obsidian Flames,204,Illustration Rare,Darkness
+212,Scizor,Obsidian Flames,205,Illustration Rare,Metal
+965,Varoom,Obsidian Flames,206,Illustration Rare,Metal
+16,Pidgey,Obsidian Flames,207,Illustration Rare,Colorless
+17,Pidgeotto,Obsidian Flames,208,Illustration Rare,Colorless
+915,Lechonk,Obsidian Flames,209,Illustration Rare,Colorless
+875,Eiscue,Obsidian Flames,210,Ultra Rare,Fire
+248,Tyranitar,Obsidian Flames,211,Ultra Rare,Lightning
+416,Vespiquen,Obsidian Flames,212,Ultra Rare,Psychic
+970,Glimmora,Obsidian Flames,213,Ultra Rare,Fighting
+359,Absol,Obsidian Flames,214,Ultra Rare,Darkness
+6,Charizard,Obsidian Flames,215,Ultra Rare,Darkness
+966,Revavroom,Obsidian Flames,216,Ultra Rare,Metal
+18,Pidgeot,Obsidian Flames,217,Ultra Rare,Colorless
+,Geeta,Obsidian Flames,218,Ultra Rare,Supporter
+,Ortega,Obsidian Flames,219,Ultra Rare,Supporter
+,Poppy,Obsidian Flames,220,Ultra Rare,Supporter
+,Ryme,Obsidian Flames,221,Ultra Rare,Supporter
+875,Eiscue,Obsidian Flames,222,Special Illustration Rare,Fire
+6,Charizard,Obsidian Flames,223,Special Illustration Rare,Darkness
+966,Revavroom,Obsidian Flames,224,Special Illustration Rare,Metal
+18,Pidgeot,Obsidian Flames,225,Special Illustration Rare,Colorless
+,Geeta,Obsidian Flames,226,Special Illustration Rare,Supporter
+,Poppy,Obsidian Flames,227,Special Illustration Rare,Supporter
+6,Charizard,Obsidian Flames,228,Hyper Rare,Darkness
+,Artazon,Obsidian Flames,229,Hyper Rare,Stadium
+,Basic Fire Energy,Obsidian Flames,230,Hyper Rare,Energy

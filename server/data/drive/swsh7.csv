@@ -1,0 +1,238 @@
+dexNumber,name,setName,setNumber,rarity,type
+127,Pinsir,Evolving Skies,001,Rare,Grass
+187,Hoppip,Evolving Skies,002,Common,Grass
+188,Skiploom,Evolving Skies,003,Uncommon,Grass
+189,Jumpluff,Evolving Skies,004,Rare Holo,Grass
+273,Seedot,Evolving Skies,005,Common,Grass
+357,Tropius,Evolving Skies,006,Rare,Grass
+470,Leafeon,Evolving Skies,007,Ultra-Rare Rare,Grass
+470,Leafeon,Evolving Skies,008,Rare VMAX,Grass
+548,Petilil,Evolving Skies,009,Common,Grass
+549,Lilligant,Evolving Skies,010,Rare,Grass
+557,Dwebble,Evolving Skies,011,Common,Grass
+558,Crustle,Evolving Skies,012,Uncommon,Grass
+709,Trevenant,Evolving Skies,013,Ultra-Rare Rare,Grass
+709,Trevenant,Evolving Skies,014,Rare VMAX,Grass
+829,Gossifleur,Evolving Skies,015,Common,Grass
+830,Eldegoss,Evolving Skies,016,Rare Holo,Grass
+840,Applin,Evolving Skies,017,Common,Grass
+136,Flareon,Evolving Skies,018,Rare VMAX,Fire
+244,Entei,Evolving Skies,019,Rare Holo,Fire
+494,Victini,Evolving Skies,020,Rare Holo,Fire
+637,Volcarona,Evolving Skies,021,Ultra-Rare Rare,Fire
+667,Litleo,Evolving Skies,022,Common,Fire
+668,Pyroar,Evolving Skies,023,Uncommon,Fire
+54,Psyduck,Evolving Skies,024,Common,Water
+55,Golduck,Evolving Skies,025,Uncommon,Water
+72,Tentacool,Evolving Skies,026,Common,Water
+73,Tentacruel,Evolving Skies,027,Uncommon,Water
+130,Gyarados,Evolving Skies,028,Ultra-Rare Rare,Water
+130,Gyarados,Evolving Skies,029,Rare VMAX,Water
+134,Vaporeon,Evolving Skies,030,Rare VMAX,Water
+245,Suicune,Evolving Skies,031,Ultra-Rare Rare,Water
+270,Lotad,Evolving Skies,032,Common,Water
+271,Lombre,Evolving Skies,033,Uncommon,Water
+272,Ludicolo,Evolving Skies,034,Rare Holo,Water
+318,Carvanha,Evolving Skies,035,Common,Water
+319,Sharpedo,Evolving Skies,036,Rare,Water
+349,Feebas,Evolving Skies,037,Common,Water
+350,Milotic,Evolving Skies,038,Rare,Water
+370,Luvdisc,Evolving Skies,039,Common,Water
+471,Glaceon,Evolving Skies,040,Ultra-Rare Rare,Water
+471,Glaceon,Evolving Skies,041,Rare VMAX,Water
+535,Tympole,Evolving Skies,042,Common,Water
+615,Cryogonal,Evolving Skies,043,Common,Water
+712,Bergmite,Evolving Skies,044,Common,Water
+713,Avalugg,Evolving Skies,045,Uncommon,Water
+746,Wishiwashi,Evolving Skies,046,Rare,Water
+875,Eiscue,Evolving Skies,047,Uncommon,Water
+883,Arctovish,Evolving Skies,048,Ultra-Rare Rare,Water
+25,Pikachu,Evolving Skies,049,Common,Lightning
+26,Raichu,Evolving Skies,050,Rare Holo,Lightning
+135,Jolteon,Evolving Skies,051,Rare VMAX,Lightning
+170,Chinchou,Evolving Skies,052,Common,Lightning
+171,Lanturn,Evolving Skies,053,Uncommon,Lightning
+179,Mareep,Evolving Skies,054,Common,Lightning
+180,Flaaffy,Evolving Skies,055,Uncommon,Lightning
+181,Ampharos,Evolving Skies,056,Rare,Lightning
+587,Emolga,Evolving Skies,057,Common,Lightning
+880,Dracozolt,Evolving Skies,058,Ultra-Rare Rare,Lightning
+880,Dracozolt,Evolving Skies,059,Rare VMAX,Lightning
+894,Regieleki,Evolving Skies,060,Rare Holo,Lightning
+96,Drowzee,Evolving Skies,061,Common,Psychic
+97,Hypno,Evolving Skies,062,Uncommon,Psychic
+144,Galarian Articuno,Evolving Skies,063,Rare Holo,Psychic
+196,Espeon,Evolving Skies,064,Ultra-Rare Rare,Psychic
+196,Espeon,Evolving Skies,065,Rare VMAX,Psychic
+202,Wobbuffet,Evolving Skies,066,Common,Psychic
+302,Sableye,Evolving Skies,067,Common,Psychic
+527,Woobat,Evolving Skies,068,Common,Psychic
+528,Swoobat,Evolving Skies,069,Uncommon,Psychic
+623,Golurk,Evolving Skies,070,Ultra-Rare Rare,Psychic
+669,Flabébé,Evolving Skies,071,Common,Psychic
+670,Floette,Evolving Skies,072,Uncommon,Psychic
+671,Florges,Evolving Skies,073,Rare Holo,Psychic
+700,Sylveon,Evolving Skies,074,Ultra-Rare Rare,Psychic
+700,Sylveon,Evolving Skies,075,Rare VMAX,Psychic
+710,Pumpkaboo,Evolving Skies,076,Common,Psychic
+711,Gourgeist,Evolving Skies,077,Rare,Psychic
+742,Cutiefly,Evolving Skies,078,Common,Psychic
+743,Ribombee,Evolving Skies,079,Uncommon,Psychic
+802,Marshadow,Evolving Skies,080,Rare Holo,Psychic
+107,Hitmonchan,Evolving Skies,081,Common,Fighting
+145,Galarian Zapdos,Evolving Skies,082,Rare Holo,Fighting
+308,Medicham,Evolving Skies,083,Ultra-Rare Rare,Fighting
+449,Hippopotas,Evolving Skies,084,Common,Fighting
+450,Hippowdon,Evolving Skies,085,Uncommon,Fighting
+524,Roggenrola,Evolving Skies,086,Common,Fighting
+525,Boldore,Evolving Skies,087,Uncommon,Fighting
+526,Gigalith,Evolving Skies,088,Rare,Fighting
+536,Palpitoad,Evolving Skies,089,Uncommon,Fighting
+537,Seismitoad,Evolving Skies,090,Rare,Fighting
+745,Lycanroc,Evolving Skies,091,Ultra-Rare Rare,Fighting
+745,Lycanroc,Evolving Skies,092,Rare VMAX,Fighting
+146,Galarian Moltres,Evolving Skies,093,Rare Holo,Darkness
+197,Umbreon,Evolving Skies,094,Ultra-Rare Rare,Darkness
+197,Umbreon,Evolving Skies,095,Rare VMAX,Darkness
+274,Nuzleaf,Evolving Skies,096,Uncommon,Darkness
+275,Shiftry,Evolving Skies,097,Rare,Darkness
+559,Scraggy,Evolving Skies,098,Common,Darkness
+560,Scrafty,Evolving Skies,099,Uncommon,Darkness
+569,Garbodor,Evolving Skies,100,Ultra-Rare Rare,Darkness
+569,Garbodor,Evolving Skies,101,Rare VMAX,Darkness
+570,Zorua,Evolving Skies,102,Common,Darkness
+571,Zoroark,Evolving Skies,103,Rare Holo,Darkness
+827,Nickit,Evolving Skies,104,Common,Darkness
+828,Thievul,Evolving Skies,105,Rare,Darkness
+334,Altaria,Evolving Skies,106,Rare,Dragon
+371,Bagon,Evolving Skies,107,Common,Dragon
+372,Shelgon,Evolving Skies,108,Uncommon,Dragon
+373,Salamence,Evolving Skies,109,Rare Holo,Dragon
+384,Rayquaza,Evolving Skies,110,Ultra-Rare Rare,Dragon
+384,Rayquaza,Evolving Skies,111,Rare VMAX,Dragon
+483,Dialga,Evolving Skies,112,Rare Holo,Dragon
+633,Deino,Evolving Skies,113,Common,Dragon
+634,Zweilous,Evolving Skies,114,Uncommon,Dragon
+635,Hydreigon,Evolving Skies,115,Rare Holo,Dragon
+646,Kyurem,Evolving Skies,116,Rare Holo,Dragon
+715,Noivern,Evolving Skies,117,Ultra-Rare Rare,Dragon
+718,Zygarde,Evolving Skies,118,Rare Holo,Dragon
+780,Drampa,Evolving Skies,119,Rare,Dragon
+841,Flapple,Evolving Skies,120,Rare,Dragon
+842,Appletun,Evolving Skies,121,Rare,Dragon
+884,Duraludon,Evolving Skies,122,Ultra-Rare Rare,Dragon
+884,Duraludon,Evolving Skies,123,Rare VMAX,Dragon
+895,Regidrago,Evolving Skies,124,Rare Holo,Dragon
+133,Eevee,Evolving Skies,125,Common,Colorless
+216,Teddiursa,Evolving Skies,126,Common,Colorless
+217,Ursaring,Evolving Skies,127,Uncommon,Colorless
+235,Smeargle,Evolving Skies,128,Rare,Colorless
+287,Slakoth,Evolving Skies,129,Common,Colorless
+288,Vigoroth,Evolving Skies,130,Uncommon,Colorless
+289,Slaking,Evolving Skies,131,Rare Holo,Colorless
+333,Swablu,Evolving Skies,132,Common,Colorless
+506,Lillipup,Evolving Skies,133,Common,Colorless
+507,Herdier,Evolving Skies,134,Uncommon,Colorless
+508,Stoutland,Evolving Skies,135,Rare,Colorless
+627,Rufflet,Evolving Skies,136,Common,Colorless
+628,Braviary,Evolving Skies,137,Uncommon,Colorless
+661,Fletchling,Evolving Skies,138,Common,Colorless
+662,Fletchinder,Evolving Skies,139,Uncommon,Colorless
+663,Talonflame,Evolving Skies,140,Rare,Colorless
+,Aroma Lady,Evolving Skies,141,Uncommon,Supporter
+,Boost Shake,Evolving Skies,142,Uncommon,Item
+,Copycat,Evolving Skies,143,Uncommon,Supporter
+,Crystal Cave,Evolving Skies,144,Uncommon,Stadium
+,Digging Gloves,Evolving Skies,145,Uncommon,Item
+,Dream Ball,Evolving Skies,146,Uncommon,Item
+,Elemental Badge,Evolving Skies,147,Uncommon,Item
+,Full Face Guard,Evolving Skies,148,Uncommon,Item
+,Gordie,Evolving Skies,149,Uncommon,Supporter
+,Lucky Ice Pop,Evolving Skies,150,Uncommon,Item
+,Moon & Sun Badge,Evolving Skies,151,Uncommon,Item
+,Raihan,Evolving Skies,152,Uncommon,Supporter
+,Rapid Strike Scroll of the Flying Dragon,Evolving Skies,153,Uncommon,Item
+,Rescue Carrier,Evolving Skies,154,Uncommon,Item
+,Ribbon Badge,Evolving Skies,155,Uncommon,Item
+,Rubber Gloves,Evolving Skies,156,Uncommon,Item
+,Shopping Center,Evolving Skies,157,Uncommon,Stadium
+,Single Strike Scroll of the Fanged Dragon,Evolving Skies,158,Uncommon,Item
+,Snow Leaf Badge,Evolving Skies,159,Uncommon,Item
+,Spirit Mask,Evolving Skies,160,Uncommon,Item
+,Stormy Mountains,Evolving Skies,161,Uncommon,Stadium
+,Switching Cups,Evolving Skies,162,Uncommon,Item
+,Toy Catcher,Evolving Skies,163,Uncommon,Item
+,Zinnia's Resolve,Evolving Skies,164,Uncommon,Supporter
+,Treasure Energy,Evolving Skies,165,Uncommon,Energy
+470,Leafeon,Evolving Skies,166,Rare Ultra,Grass
+470,Leafeon,Evolving Skies,167,Rare Ultra,Grass
+709,Trevenant,Evolving Skies,168,Rare Ultra,Grass
+136,Flareon,Evolving Skies,169,Rare Ultra,Fire
+637,Volcarona,Evolving Skies,170,Rare Ultra,Fire
+130,Gyarados,Evolving Skies,171,Rare Ultra,Water
+134,Vaporeon,Evolving Skies,172,Rare Ultra,Water
+245,Suicune,Evolving Skies,173,Rare Ultra,Water
+471,Glaceon,Evolving Skies,174,Rare Ultra,Water
+471,Glaceon,Evolving Skies,175,Rare Ultra,Water
+883,Arctovish,Evolving Skies,176,Rare Ultra,Water
+135,Jolteon,Evolving Skies,177,Rare Ultra,Lightning
+880,Dracozolt,Evolving Skies,178,Rare Ultra,Lightning
+196,Espeon,Evolving Skies,179,Rare Ultra,Psychic
+196,Espeon,Evolving Skies,180,Rare Ultra,Psychic
+623,Golurk,Evolving Skies,181,Rare Ultra,Psychic
+623,Golurk,Evolving Skies,182,Rare Ultra,Psychic
+700,Sylveon,Evolving Skies,183,Rare Ultra,Psychic
+700,Sylveon,Evolving Skies,184,Rare Ultra,Psychic
+308,Medicham,Evolving Skies,185,Rare Ultra,Fighting
+308,Medicham,Evolving Skies,186,Rare Ultra,Fighting
+745,Lycanroc,Evolving Skies,187,Rare Ultra,Fighting
+197,Umbreon,Evolving Skies,188,Rare Ultra,Darkness
+197,Umbreon,Evolving Skies,189,Rare Ultra,Darkness
+569,Garbodor,Evolving Skies,190,Rare Ultra,Darkness
+149,Dragonite,Evolving Skies,191,Rare Ultra,Dragon
+149,Dragonite,Evolving Skies,192,Rare Ultra,Dragon
+384,Rayquaza,Evolving Skies,193,Rare Ultra,Dragon
+384,Rayquaza,Evolving Skies,194,Rare Ultra,Dragon
+715,Noivern,Evolving Skies,195,Rare Ultra,Dragon
+715,Noivern,Evolving Skies,196,Rare Ultra,Dragon
+884,Duraludon,Evolving Skies,197,Rare Ultra,Dragon
+884,Duraludon,Evolving Skies,198,Rare Ultra,Dragon
+,Aroma Lady,Evolving Skies,199,Rare Ultra,Supporter
+,Copycat,Evolving Skies,200,Rare Ultra,Supporter
+,Gordie,Evolving Skies,201,Rare Ultra,Supporter
+,Raihan,Evolving Skies,202,Rare Ultra,Supporter
+,Zinnia's Resolve,Evolving Skies,203,Rare Ultra,Supporter
+470,Leafeon,Evolving Skies,204,Rare Rainbow,Grass
+470,Leafeon,Evolving Skies,205,Rare Secret,Grass
+709,Trevenant,Evolving Skies,206,Rare Rainbow,Grass
+130,Gyarados,Evolving Skies,207,Rare Rainbow,Water
+471,Glaceon,Evolving Skies,208,Rare Rainbow,Water
+471,Glaceon,Evolving Skies,209,Rare Secret,Water
+880,Dracozolt,Evolving Skies,210,Rare Rainbow,Lightning
+700,Sylveon,Evolving Skies,211,Rare Rainbow,Psychic
+700,Sylveon,Evolving Skies,212,Rare Secret,Psychic
+745,Lycanroc,Evolving Skies,213,Rare Rainbow,Fighting
+197,Umbreon,Evolving Skies,214,Rare Rainbow,Darkness
+197,Umbreon,Evolving Skies,215,Rare Secret,Darkness
+569,Garbodor,Evolving Skies,216,Rare Rainbow,Darkness
+384,Rayquaza,Evolving Skies,217,Rare Rainbow,Dragon
+384,Rayquaza,Evolving Skies,218,Rare Secret,Dragon
+884,Duraludon,Evolving Skies,219,Rare Rainbow,Dragon
+884,Duraludon,Evolving Skies,220,Rare Secret,Dragon
+,Aroma Lady,Evolving Skies,221,Rare Rainbow,Supporter
+,Copycat,Evolving Skies,222,Rare Rainbow,Supporter
+,Gordie,Evolving Skies,223,Rare Rainbow,Supporter
+,Raihan,Evolving Skies,224,Rare Rainbow,Supporter
+,Zinnia's Resolve,Evolving Skies,225,Rare Rainbow,Supporter
+478,Froslass,Evolving Skies,226,Rare Secret,Water
+818,Inteleon,Evolving Skies,227,Rare Secret,Water
+488,Cresselia,Evolving Skies,228,Rare Secret,Psychic
+,Boost Shake,Evolving Skies,229,Rare Secret,Item
+,Crystal Cave,Evolving Skies,230,Rare Secret,Stadium
+,Full Face Guard,Evolving Skies,231,Rare Secret,Item
+,Stormy Mountains,Evolving Skies,232,Rare Secret,Stadium
+,Toy Catcher,Evolving Skies,233,Rare Secret,Item
+,Turffield Stadium,Evolving Skies,234,Rare Secret,Stadium
+,Lightning Energy,Evolving Skies,235,Rare Secret,Energy
+,Darkness Energy,Evolving Skies,236,Rare Secret,Energy
+,Metal Energy,Evolving Skies,237,Rare Secret,Energy

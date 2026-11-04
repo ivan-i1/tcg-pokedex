@@ -1,0 +1,285 @@
+dexNumber,name,setName,setNumber,rarity,type
+10,Caterpie,Fusion Strike,001,Common,Grass
+11,Metapod,Fusion Strike,002,Uncommon,Grass
+12,Butterfree,Fusion Strike,003,Rare Holo,Grass
+285,Shroomish,Fusion Strike,004,Common,Grass
+286,Breloom,Fusion Strike,005,Uncommon,Grass
+286,Breloom,Fusion Strike,006,Ultra-Rare Rare,Grass
+511,Pansage,Fusion Strike,007,Common,Grass
+512,Simisage,Fusion Strike,008,Uncommon,Grass
+540,Sewaddle,Fusion Strike,009,Common,Grass
+541,Swadloon,Fusion Strike,010,Uncommon,Grass
+542,Leavanny,Fusion Strike,011,Rare,Grass
+556,Maractus,Fusion Strike,012,Rare,Grass
+616,Shelmet,Fusion Strike,013,Common,Grass
+617,Accelgor,Fusion Strike,014,Rare,Grass
+640,Virizion,Fusion Strike,015,Rare,Grass
+708,Phantump,Fusion Strike,016,Common,Grass
+709,Trevenant,Fusion Strike,017,Uncommon,Grass
+736,Grubbin,Fusion Strike,018,Common,Grass
+751,Dewpider,Fusion Strike,019,Common,Grass
+752,Araquanid,Fusion Strike,020,Rare,Grass
+763,Tsareena,Fusion Strike,021,Ultra-Rare Rare,Grass
+812,Rillaboom,Fusion Strike,022,Ultra-Rare Rare,Grass
+812,Rillaboom,Fusion Strike,023,Rare VMAX,Grass
+829,Gossifleur,Fusion Strike,024,Common,Grass
+830,Eldegoss,Fusion Strike,025,Uncommon,Grass
+842,Appletun,Fusion Strike,026,Ultra-Rare Rare,Grass
+893,Zarude,Fusion Strike,027,Uncommon,Grass
+37,Vulpix,Fusion Strike,028,Common,Fire
+37,Vulpix,Fusion Strike,029,Common,Fire
+38,Ninetales,Fusion Strike,030,Uncommon,Fire
+38,Ninetales,Fusion Strike,031,Uncommon,Fire
+58,Growlithe,Fusion Strike,032,Common,Fire
+59,Arcanine,Fusion Strike,033,Rare,Fire
+218,Slugma,Fusion Strike,034,Common,Fire
+219,Magcargo,Fusion Strike,035,Uncommon,Fire
+494,Victini,Fusion Strike,036,Uncommon,Fire
+513,Pansear,Fusion Strike,037,Common,Fire
+514,Simisear,Fusion Strike,038,Uncommon,Fire
+609,Chandelure,Fusion Strike,039,Ultra-Rare Rare,Fire
+609,Chandelure,Fusion Strike,040,Rare VMAX,Fire
+631,Heatmor,Fusion Strike,041,Uncommon,Fire
+741,Oricorio,Fusion Strike,042,Rare,Fire
+815,Cinderace,Fusion Strike,043,Ultra-Rare Rare,Fire
+815,Cinderace,Fusion Strike,044,Ultra-Rare Rare,Fire
+815,Cinderace,Fusion Strike,045,Rare VMAX,Fire
+850,Sizzlipede,Fusion Strike,046,Common,Fire
+850,Sizzlipede,Fusion Strike,047,Common,Fire
+851,Centiskorch,Fusion Strike,048,Rare,Fire
+851,Centiskorch,Fusion Strike,049,Uncommon,Fire
+90,Shellder,Fusion Strike,050,Common,Water
+91,Cloyster,Fusion Strike,051,Rare,Water
+120,Staryu,Fusion Strike,052,Common,Water
+121,Starmie,Fusion Strike,053,Rare Holo,Water
+131,Lapras,Fusion Strike,054,Uncommon,Water
+158,Totodile,Fusion Strike,055,Common,Water
+159,Croconaw,Fusion Strike,056,Uncommon,Water
+160,Feraligatr,Fusion Strike,057,Rare Holo,Water
+183,Marill,Fusion Strike,058,Common,Water
+184,Azumarill,Fusion Strike,059,Rare,Water
+211,Qwilfish,Fusion Strike,060,Common,Water
+226,Mantine,Fusion Strike,061,Common,Water
+258,Mudkip,Fusion Strike,062,Common,Water
+259,Marshtomp,Fusion Strike,063,Uncommon,Water
+260,Swampert,Fusion Strike,064,Rare Holo,Water
+366,Clamperl,Fusion Strike,065,Common,Water
+367,Huntail,Fusion Strike,066,Rare,Water
+368,Gorebyss,Fusion Strike,067,Rare,Water
+515,Panpour,Fusion Strike,068,Common,Water
+516,Simipour,Fusion Strike,069,Uncommon,Water
+550,Basculin,Fusion Strike,070,Common,Water
+554,Galarian Darumaka,Fusion Strike,071,Common,Water
+555,Galarian Darmanitan,Fusion Strike,072,Uncommon,Water
+658,Greninja,Fusion Strike,073,Ultra-Rare Rare,Water
+692,Clauncher,Fusion Strike,074,Common,Water
+693,Clawitzer,Fusion Strike,075,Uncommon,Water
+740,Crabominable,Fusion Strike,076,Ultra-Rare Rare,Water
+771,Pyukumuku,Fusion Strike,077,Uncommon,Water
+818,Inteleon,Fusion Strike,078,Ultra-Rare Rare,Water
+818,Inteleon,Fusion Strike,079,Rare VMAX,Water
+833,Chewtle,Fusion Strike,080,Common,Water
+834,Drednaw,Fusion Strike,081,Uncommon,Water
+846,Arrokuda,Fusion Strike,082,Common,Water
+847,Barraskewda,Fusion Strike,083,Uncommon,Water
+872,Snom,Fusion Strike,084,Common,Water
+873,Frosmoth,Fusion Strike,085,Uncommon,Water
+25,Pikachu,Fusion Strike,086,Ultra-Rare Rare,Lightning
+100,Voltorb,Fusion Strike,087,Common,Lightning
+101,Electrode,Fusion Strike,088,Rare,Lightning
+311,Plusle,Fusion Strike,089,Common,Lightning
+312,Minun,Fusion Strike,090,Common,Lightning
+403,Shinx,Fusion Strike,091,Common,Lightning
+404,Luxio,Fusion Strike,092,Uncommon,Lightning
+405,Luxray,Fusion Strike,093,Rare,Lightning
+479,Rotom,Fusion Strike,094,Common,Lightning
+602,Tynamo,Fusion Strike,095,Common,Lightning
+603,Eelektrik,Fusion Strike,096,Uncommon,Lightning
+604,Eelektross,Fusion Strike,097,Rare,Lightning
+694,Helioptile,Fusion Strike,098,Common,Lightning
+695,Heliolisk,Fusion Strike,099,Uncommon,Lightning
+737,Charjabug,Fusion Strike,100,Uncommon,Lightning
+738,Vikavolt,Fusion Strike,101,Rare,Lightning
+807,Zeraora,Fusion Strike,102,Rare,Lightning
+836,Boltund,Fusion Strike,103,Ultra-Rare Rare,Lightning
+836,Boltund,Fusion Strike,104,Rare VMAX,Lightning
+848,Toxel,Fusion Strike,105,Common,Lightning
+848,Toxel,Fusion Strike,106,Common,Lightning
+849,Toxtricity,Fusion Strike,107,Rare Holo,Lightning
+849,Toxtricity,Fusion Strike,108,Rare Holo,Lightning
+877,Morpeko,Fusion Strike,109,Common,Lightning
+39,Jigglypuff,Fusion Strike,110,Common,Psychic
+40,Wigglytuff,Fusion Strike,111,Uncommon,Psychic
+124,Jynx,Fusion Strike,112,Common,Psychic
+151,Mew,Fusion Strike,113,Ultra-Rare Rare,Psychic
+151,Mew,Fusion Strike,114,Rare VMAX,Psychic
+209,Snubbull,Fusion Strike,115,Common,Psychic
+210,Granbull,Fusion Strike,116,Rare,Psychic
+222,Galarian Corsola,Fusion Strike,117,Common,Psychic
+864,Galarian Cursola,Fusion Strike,118,Rare,Psychic
+303,Mawile,Fusion Strike,119,Common,Psychic
+386,Deoxys,Fusion Strike,120,Rare Holo,Psychic
+517,Munna,Fusion Strike,121,Common,Psychic
+518,Musharna,Fusion Strike,122,Uncommon,Psychic
+561,Sigilyph,Fusion Strike,123,Common,Psychic
+648,Meloetta,Fusion Strike,124,Rare,Psychic
+769,Sandygast,Fusion Strike,125,Common,Psychic
+770,Palossand,Fusion Strike,126,Rare,Psychic
+876,Indeedee,Fusion Strike,127,Common,Psychic
+885,Dreepy,Fusion Strike,128,Common,Psychic
+886,Drakloak,Fusion Strike,129,Uncommon,Psychic
+887,Dragapult,Fusion Strike,130,Rare Holo,Psychic
+27,Sandshrew,Fusion Strike,131,Common,Fighting
+28,Sandslash,Fusion Strike,132,Uncommon,Fighting
+56,Mankey,Fusion Strike,133,Common,Fighting
+57,Primeape,Fusion Strike,134,Uncommon,Fighting
+74,Geodude,Fusion Strike,135,Common,Fighting
+75,Graveler,Fusion Strike,136,Uncommon,Fighting
+76,Golem,Fusion Strike,137,Rare,Fighting
+95,Onix,Fusion Strike,138,Common,Fighting
+208,Steelix,Fusion Strike,139,Rare Holo,Fighting
+207,Gligar,Fusion Strike,140,Common,Fighting
+472,Gliscor,Fusion Strike,141,Uncommon,Fighting
+296,Makuhita,Fusion Strike,142,Common,Fighting
+297,Hariyama,Fusion Strike,143,Uncommon,Fighting
+343,Baltoy,Fusion Strike,144,Common,Fighting
+344,Claydol,Fusion Strike,145,Rare,Fighting
+448,Lucario,Fusion Strike,146,Ultra-Rare Rare,Fighting
+529,Drilbur,Fusion Strike,147,Common,Fighting
+645,Landorus,Fusion Strike,148,Rare Holo,Fighting
+674,Pancham,Fusion Strike,149,Common,Fighting
+759,Stufful,Fusion Strike,150,Common,Fighting
+760,Bewear,Fusion Strike,151,Uncommon,Fighting
+852,Clobbopus,Fusion Strike,152,Common,Fighting
+853,Grapploct,Fusion Strike,153,Uncommon,Fighting
+870,Falinks,Fusion Strike,154,Uncommon,Fighting
+870,Falinks,Fusion Strike,155,Common,Fighting
+94,Gengar,Fusion Strike,156,Ultra-Rare Rare,Darkness
+94,Gengar,Fusion Strike,157,Rare VMAX,Darkness
+248,Tyranitar,Fusion Strike,158,Ultra-Rare Rare,Darkness
+263,Galarian Zigzagoon,Fusion Strike,159,Common,Darkness
+264,Galarian Linoone,Fusion Strike,160,Uncommon,Darkness
+862,Galarian Obstagoon,Fusion Strike,161,Rare Holo,Darkness
+318,Carvanha,Fusion Strike,162,Common,Darkness
+319,Sharpedo,Fusion Strike,163,Uncommon,Darkness
+359,Absol,Fusion Strike,164,Rare,Darkness
+453,Croagunk,Fusion Strike,165,Common,Darkness
+454,Toxicroak,Fusion Strike,166,Rare,Darkness
+491,Darkrai,Fusion Strike,167,Uncommon,Darkness
+568,Trubbish,Fusion Strike,168,Common,Darkness
+569,Garbodor,Fusion Strike,169,Uncommon,Darkness
+570,Zorua,Fusion Strike,170,Common,Darkness
+571,Zoroark,Fusion Strike,171,Uncommon,Darkness
+629,Vullaby,Fusion Strike,172,Common,Darkness
+630,Mandibuzz,Fusion Strike,173,Uncommon,Darkness
+675,Pangoro,Fusion Strike,174,Uncommon,Darkness
+717,Yveltal,Fusion Strike,175,Rare,Darkness
+859,Impidimp,Fusion Strike,176,Common,Darkness
+860,Morgrem,Fusion Strike,177,Uncommon,Darkness
+861,Grimmsnarl,Fusion Strike,178,Rare Holo,Darkness
+877,Morpeko,Fusion Strike,179,Common,Darkness
+52,Galarian Meowth,Fusion Strike,180,Common,Metal
+863,Galarian Perrserker,Fusion Strike,181,Uncommon,Metal
+227,Skarmory,Fusion Strike,182,Common,Metal
+530,Excadrill,Fusion Strike,183,Uncommon,Metal
+632,Durant,Fusion Strike,184,Common,Metal
+649,Genesect,Fusion Strike,185,Ultra-Rare Rare,Metal
+707,Klefki,Fusion Strike,186,Common,Metal
+777,Togedemaru,Fusion Strike,187,Uncommon,Metal
+808,Meltan,Fusion Strike,188,Common,Metal
+809,Melmetal,Fusion Strike,189,Rare Holo,Metal
+823,Corviknight,Fusion Strike,190,Rare,Metal
+878,Cufant,Fusion Strike,191,Common,Metal
+879,Copperajah,Fusion Strike,192,Uncommon,Metal
+380,Latias,Fusion Strike,193,Rare,Dragon
+381,Latios,Fusion Strike,194,Rare,Dragon
+704,Goomy,Fusion Strike,195,Common,Dragon
+705,Sliggoo,Fusion Strike,196,Uncommon,Dragon
+706,Goodra,Fusion Strike,197,Rare,Dragon
+776,Turtonator,Fusion Strike,198,Uncommon,Dragon
+52,Meowth,Fusion Strike,199,Common,Colorless
+53,Persian,Fusion Strike,200,Uncommon,Colorless
+85,Dodrio,Fusion Strike,201,Ultra-Rare Rare,Colorless
+113,Chansey,Fusion Strike,202,Common,Colorless
+242,Blissey,Fusion Strike,203,Rare,Colorless
+115,Kangaskhan,Fusion Strike,204,Rare,Colorless
+133,Eevee,Fusion Strike,205,Common,Colorless
+143,Snorlax,Fusion Strike,206,Common,Colorless
+206,Dunsparce,Fusion Strike,207,Uncommon,Colorless
+234,Stantler,Fusion Strike,208,Uncommon,Colorless
+235,Smeargle,Fusion Strike,209,Common,Colorless
+300,Skitty,Fusion Strike,210,Common,Colorless
+301,Delcatty,Fusion Strike,211,Uncommon,Colorless
+427,Buneary,Fusion Strike,212,Common,Colorless
+428,Lopunny,Fusion Strike,213,Uncommon,Colorless
+659,Bunnelby,Fusion Strike,214,Common,Colorless
+660,Diggersby,Fusion Strike,215,Uncommon,Colorless
+701,Hawlucha,Fusion Strike,216,Uncommon,Colorless
+820,Greedent,Fusion Strike,217,Ultra-Rare Rare,Colorless
+820,Greedent,Fusion Strike,218,Rare VMAX,Colorless
+821,Rookidee,Fusion Strike,219,Common,Colorless
+822,Corvisquire,Fusion Strike,220,Uncommon,Colorless
+831,Wooloo,Fusion Strike,221,Common,Colorless
+831,Wooloo,Fusion Strike,222,Common,Colorless
+832,Dubwool,Fusion Strike,223,Uncommon,Colorless
+,Adventurer's Discovery,Fusion Strike,224,Uncommon,Supporter
+,Battle VIP Pass,Fusion Strike,225,Uncommon,Item
+,Bug Catcher,Fusion Strike,226,Uncommon,Supporter
+,Chili & Cilan & Cress,Fusion Strike,227,Uncommon,Supporter
+,Cook,Fusion Strike,228,Uncommon,Supporter
+,Cram-o-matic,Fusion Strike,229,Uncommon,Item
+,Cross Switcher,Fusion Strike,230,Uncommon,Item
+,Crossceiver,Fusion Strike,231,Uncommon,Item
+,Dancer,Fusion Strike,232,Uncommon,Supporter
+,Elesa's Sparkle,Fusion Strike,233,Uncommon,Supporter
+,Farewell Bell,Fusion Strike,234,Uncommon,Item
+,Judge,Fusion Strike,235,Uncommon,Supporter
+,Power Tablet,Fusion Strike,236,Uncommon,Item
+,Quick Ball,Fusion Strike,237,Uncommon,Item
+,Schoolboy,Fusion Strike,238,Uncommon,Supporter
+,Schoolgirl,Fusion Strike,239,Uncommon,Supporter
+,Shauna,Fusion Strike,240,Uncommon,Supporter
+,Sidney,Fusion Strike,241,Uncommon,Supporter
+,Skaters' Park,Fusion Strike,242,Uncommon,Stadium
+,Spongy Gloves,Fusion Strike,243,Uncommon,Item
+,Fusion Strike Energy,Fusion Strike,244,Uncommon,Energy
+251,Celebi,Fusion Strike,245,Rare Ultra,Grass
+763,Tsareena,Fusion Strike,246,Rare Ultra,Grass
+609,Chandelure,Fusion Strike,247,Rare Ultra,Fire
+740,Crabominable,Fusion Strike,248,Rare Ultra,Water
+836,Boltund,Fusion Strike,249,Rare Ultra,Lightning
+151,Mew,Fusion Strike,250,Rare Ultra,Psychic
+151,Mew,Fusion Strike,251,Rare Ultra,Psychic
+844,Sandaconda,Fusion Strike,252,Rare Ultra,Fighting
+720,Hoopa,Fusion Strike,253,Rare Ultra,Darkness
+649,Genesect,Fusion Strike,254,Rare Ultra,Metal
+649,Genesect,Fusion Strike,255,Rare Ultra,Metal
+820,Greedent,Fusion Strike,256,Rare Ultra,Colorless
+820,Greedent,Fusion Strike,257,Rare Ultra,Colorless
+,Chili & Cilan & Cress,Fusion Strike,258,Rare Ultra,Supporter
+,Dancer,Fusion Strike,259,Rare Ultra,Supporter
+,Elesa's Sparkle,Fusion Strike,260,Rare Ultra,Supporter
+,Schoolboy,Fusion Strike,261,Rare Ultra,Supporter
+,Schoolgirl,Fusion Strike,262,Rare Ultra,Supporter
+,Shauna,Fusion Strike,263,Rare Ultra,Supporter
+,Sidney,Fusion Strike,264,Rare Ultra,Supporter
+609,Chandelure,Fusion Strike,265,Rare Rainbow,Fire
+818,Inteleon,Fusion Strike,266,Rare Secret,Water
+836,Boltund,Fusion Strike,267,Rare Rainbow,Lightning
+151,Mew,Fusion Strike,268,Rare Rainbow,Psychic
+151,Mew,Fusion Strike,269,Rare Secret,Psychic
+196,Espeon,Fusion Strike,270,Rare Secret,Psychic
+94,Gengar,Fusion Strike,271,Rare Secret,Darkness
+820,Greedent,Fusion Strike,272,Rare Rainbow,Colorless
+,Chili & Cilan & Cress,Fusion Strike,273,Rare Rainbow,Supporter
+,Dancer,Fusion Strike,274,Rare Rainbow,Supporter
+,Elesa's Sparkle,Fusion Strike,275,Rare Rainbow,Supporter
+,Schoolboy,Fusion Strike,276,Rare Rainbow,Supporter
+,Schoolgirl,Fusion Strike,277,Rare Rainbow,Supporter
+,Shauna,Fusion Strike,278,Rare Rainbow,Supporter
+,Sidney,Fusion Strike,279,Rare Rainbow,Supporter
+180,Flaaffy,Fusion Strike,280,Rare Secret,Lightning
+,Power Tablet,Fusion Strike,281,Rare Secret,Item
+,Training Court,Fusion Strike,282,Rare Secret,Stadium
+,Grass Energy,Fusion Strike,283,Rare Secret,Energy
+,Fire Energy,Fusion Strike,284,Rare Secret,Energy

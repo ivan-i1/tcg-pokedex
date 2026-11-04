@@ -1,0 +1,156 @@
+[
+  {
+    "id": "swsh1",
+    "name": "Sword & Shield",
+    "releaseDate": "2020-02-07",
+    "file": "swsh1.csv",
+    "driveFileId": "1nF_yjYpLH-lLdLw9RzSsUVjdd3Pl1h2b"
+  },
+  {
+    "id": "swsh2",
+    "name": "Rebel Clash",
+    "releaseDate": "2020-05-01",
+    "file": "swsh2.csv",
+    "driveFileId": "1w5Ks_otD9TA3l8cvcJlUTSor4g3NkKR7"
+  },
+  {
+    "id": "swsh3",
+    "name": "Darkness Ablaze",
+    "releaseDate": "2020-08-14",
+    "file": "swsh3.csv",
+    "driveFileId": "1BQVk-EKwNFvDn2DCjnynzPzNBSAViWpS"
+  },
+  {
+    "id": "swsh3.5",
+    "name": "Champion's Path",
+    "releaseDate": "2020-09-25",
+    "file": "swsh3.5.csv",
+    "driveFileId": "1lhZjFliM7VZKsn8QTY3vtjctLTtwTPIk"
+  },
+  {
+    "id": "swsh4",
+    "name": "Vivid Voltage",
+    "releaseDate": "2020-11-13",
+    "file": "swsh4.csv",
+    "driveFileId": "1OduEOFEOq4zardNbqtH2Imy3csfz8R1x"
+  },
+  {
+    "id": "swsh4.5",
+    "name": "Shining Fates",
+    "releaseDate": "2021-02-19",
+    "file": "swsh4.5.csv",
+    "driveFileId": "1UKTI0RI6JWRLGg-uCHz0_dSU05JueEi0"
+  },
+  {
+    "id": "swsh5",
+    "name": "Battle Styles",
+    "releaseDate": "2021-03-19",
+    "file": "swsh5.csv",
+    "driveFileId": "1T0SDJCsRUflXuqzCCgqp8tnbeAMuHqXc"
+  },
+  {
+    "id": "swsh6",
+    "name": "Chilling Reign",
+    "releaseDate": "2021-06-18",
+    "file": "swsh6.csv",
+    "driveFileId": "1Vj8P6V0xPv2h1KRzqzYEj-Ayfz3VPN2P"
+  },
+  {
+    "id": "swsh7",
+    "name": "Evolving Skies",
+    "releaseDate": "2021-08-27",
+    "file": "swsh7.csv",
+    "driveFileId": "1pzu9-pb2Jfjq9wGr1ZFLv7TMwrjMdayU"
+  },
+  {
+    "id": "cel25",
+    "name": "Celebrations",
+    "releaseDate": "2021-10-08",
+    "file": "cel25.csv",
+    "driveFileId": "1DvLPqNn4PKJiko2vUOorB8xXynypOLKi"
+  },
+  {
+    "id": "swsh8",
+    "name": "Fusion Strike",
+    "releaseDate": "2021-11-12",
+    "file": "swsh8.csv",
+    "driveFileId": "1XTQRRt4L8FZfY5_VMdYVcs0pvn6fi8nC"
+  },
+  {
+    "id": "swsh9",
+    "name": "Brilliant Stars",
+    "releaseDate": "2022-02-25",
+    "file": "swsh9.csv",
+    "driveFileId": "12lYIbpBgH1VAaPlo9k_qsKzllwlOQcuz"
+  },
+  {
+    "id": "swsh10",
+    "name": "Astral Radiance",
+    "releaseDate": "2022-05-27",
+    "file": "swsh10.csv",
+    "driveFileId": "1z0XSG1bcXpG7RgkN7mtL8Bko-0G_iWaX"
+  },
+  {
+    "id": "swsh10.5",
+    "name": "Pokémon GO",
+    "releaseDate": "2022-07-01",
+    "file": "swsh10.5.csv",
+    "driveFileId": "1TD44HZWgzRmwYWZAk39l2Mec7rfwCL3C"
+  },
+  {
+    "id": "swsh11",
+    "name": "Lost Origin",
+    "releaseDate": "2022-09-09",
+    "file": "swsh11.csv",
+    "driveFileId": "11iEJD20mz4ETc7Qml8AEHYD_AccHdUZ_"
+  },
+  {
+    "id": "swsh12",
+    "name": "Silver Tempest",
+    "releaseDate": "2022-11-11",
+    "file": "swsh12.csv",
+    "driveFileId": "1Bl1CcVqOK_0--n1aCPUFm8_sKZ_aeYyj"
+  },
+  {
+    "id": "swsh12.5",
+    "name": "Crown Zenith",
+    "releaseDate": "2023-01-20",
+    "file": "swsh12.5.csv",
+    "driveFileId": "1CrQCKi4MLgkF7JoSgNIK5ChjYMNNjsSh"
+  },
+  {
+    "id": "sv01",
+    "name": "Scarlet & Violet",
+    "releaseDate": "2023-03-31",
+    "file": "sv01.csv",
+    "driveFileId": "1z9XP7JopHb3SKd5Yo5rxVIkoSknUWyqx"
+  },
+  {
+    "id": "sv02",
+    "name": "Paldea Evolved",
+    "releaseDate": "2023-06-09",
+    "file": "sv02.csv",
+    "driveFileId": "1SpXWFsrwlo6xari59JGFJW8-ciFPQJyF"
+  },
+  {
+    "id": "sv03",
+    "name": "Obsidian Flames",
+    "releaseDate": "2023-08-11",
+    "file": "sv03.csv",
+    "driveFileId": "10KiU_C-G1XE2Je6mDmbeeI8VUKR89fkt"
+  },
+  {
+    "id": "sv03.5",
+    "name": "151",
+    "releaseDate": "2023-09-22",
+    "file": "sv03.5.csv",
+    "driveFileId": "1H-cpT8jwfV9jzbWPmM4tvHETwDgG7W8d"
+  },
+  {
+    "id": "sv04",
+    "name": "Paradox Rift",
+    "releaseDate": "2023-11-03",
+    "file": "sv04.csv",
+    "driveFileId": "1Z_P6B6g6tC122dp6-oV2C3FC12p7bGdO"
+  }
+]
