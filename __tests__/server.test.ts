@@ -88,6 +88,10 @@ describe('api', () => {
     expect(api('OPTIONS', '/v1/coverage').status).toBe(204);
   });
 
+  it("allows the app client's x-client-id header in preflight", () => {
+    expect(api('OPTIONS', '/v1/coverage').headers['access-control-allow-headers']).toContain('x-client-id');
+  });
+
   it('rejects unknown routes and methods', () => {
     expect(api('GET', '/nope').status).toBe(404);
     expect(api('POST', '/v1/coverage').status).toBe(405);

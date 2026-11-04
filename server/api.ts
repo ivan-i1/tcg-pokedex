@@ -12,7 +12,8 @@ const HEADERS = {
   // Public, read-only card data: any origin may read it (the web app is served elsewhere).
   'access-control-allow-origin': '*',
   'access-control-allow-methods': 'GET, OPTIONS',
-  'access-control-allow-headers': 'content-type',
+  // The app's API client sends x-client-id on every request (src/engines/api/client.ts).
+  'access-control-allow-headers': 'content-type, x-client-id',
   'cache-control': 'public, max-age=300',
 };
 

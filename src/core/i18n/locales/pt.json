@@ -12,7 +12,8 @@
     "title": "TCG Pokédex",
     "subtitle": "Quais expansões, da mais nova à mais antiga, completam uma carta de cada Pokémon?",
     "settings": "Configurações",
-    "about": "Sobre"
+    "about": "Sobre",
+    "coverage": "Expansões para colecionar"
   },
   "settings": {
     "title": "Configurações",
@@ -28,5 +29,21 @@
     "version": "Versão {{version}}",
     "platform": "Plataforma: {{platform}}",
     "body": "Colecione uma carta de cada Pokémon. O TCG Pokédex percorre as expansões da mais nova à mais antiga e mostra quais você precisa."
+  },
+  "coverage": {
+    "title": "Expansões para colecionar",
+    "notConfigured": "Nenhum servidor configurado. Defina EXPO_PUBLIC_API_URL em .env.local.",
+    "error": "Não foi possível carregar as expansões: {{message}}",
+    "summary_one": "{{covered}} de {{total}} Pokémon cobertos com {{count}} expansão",
+    "summary_other": "{{covered}} de {{total}} Pokémon cobertos com {{count}} expansões",
+    "summary_many": "{{covered}} de {{total}} Pokémon cobertos com {{count}} expansões",
+    "explainer": "As expansões vão da mais nova à mais antiga. Uma expansão só entra se adicionar Pokémon que as mais novas não têm.",
+    "released": "Lançada em {{date}}",
+    "newPokemon_one": "{{count}} Pokémon novo",
+    "newPokemon_other": "{{count}} Pokémon novos",
+    "newPokemon_many": "{{count}} Pokémon novos",
+    "missing_one": "{{count}} Pokémon ainda sem expansão",
+    "missing_other": "{{count}} Pokémon ainda sem expansão",
+    "missing_many": "{{count}} Pokémon ainda sem expansão"
   }
 }
