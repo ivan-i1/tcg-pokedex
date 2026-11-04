@@ -44,12 +44,16 @@ export function parseCsv(text: string): string[][] {
   return rows;
 }
 
-/** The NationalDex sheet: "#0001","Bulbasaur" rows; regional-form rows are skipped. */
+/**
+ * The NationalDex sheet: "#0001","Bulbasaur" rows; regional-form rows are skipped. Some
+ * cells list the default form on later lines ("Deoxys\nNormal Forme"): keep line one.
+ */
 export function parseNationalDex(text: string): Species[] {
   const out: Species[] = [];
-  for (const [id, name] of parseCsv(text)) {
+  for (const [id, cell] of parseCsv(text)) {
     const m = /^#(\d+)$/.exec((id ?? '').trim());
-    if (m && name) out.push({ dex: Number(m[1]), name: name.trim() });
+    const name = (cell ?? '').split(/\r?\n/)[0].trim();
+    if (m && name) out.push({ dex: Number(m[1]), name });
   }
   return out;
 }

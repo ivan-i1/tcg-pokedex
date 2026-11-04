@@ -22,6 +22,18 @@ describe('parseNationalDex', () => {
       { dex: 20, name: 'Raticate' },
     ]);
   });
+
+  it('keeps only the species name when the cell also lists a form on later lines', () => {
+    expect(parseNationalDex('"#0386","Deoxys\nNormal Forme"\n"#0383","Groudon\nGroudon"\n')).toEqual([
+      { dex: 386, name: 'Deoxys' },
+      { dex: 383, name: 'Groudon' },
+    ]);
+  });
+
+  it('gives every species in the committed dex a single-line name', () => {
+    const dex = parseNationalDex(readFileSync(join(DATA, 'national-dex.csv'), 'utf8'));
+    expect(dex.filter((s) => /\n/.test(s.name))).toEqual([]);
+  });
 });
 
 describe('parseSetCsv', () => {
