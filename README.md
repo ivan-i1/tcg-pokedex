@@ -56,10 +56,14 @@ Known gaps:
 node server/main.ts        # local: http://localhost:18100 (PORT and HOST override)
 ```
 
-**Deployed** on the home server (`escalenusserver`) in `~/services/tcg-pokedex`, which is a clone of this repo:
+**Deployed** on the home server (`escalenusserver`) in `~/services/tcg-pokedex`, which is a clone of this repo. The Docker container listens on 127.0.0.1:18100, and two proxies reach it:
 
-- The Docker container listens on 127.0.0.1:18100.
-- Caddy exposes it to the tailnet only, at `https://escalenusserver.tailec6a2c.ts.net:8443`.
+| Address | Who can reach it | Proxy |
+|---|---|---|
+| `https://escalenusserver.tailec6a2c.ts.net:10000` | **Anyone** (public) | Tailscale Funnel: `sudo tailscale funnel --bg --https=10000 http://127.0.0.1:18100` |
+| `https://escalenusserver.tailec6a2c.ts.net:8443` | Tailnet devices only | Caddy |
+
+**Rate limit:** each visitor gets 60 requests per minute (`RATE_LIMIT_PER_MIN`, 0 turns it off). Over the limit, the API answers `429` with `Retry-After`. `/health` and CORS preflight are never limited. The visitor's address comes from `X-Forwarded-For`, which both proxies overwrite with the real client address.
 
 To redeploy:
 
@@ -67,7 +71,7 @@ To redeploy:
 ssh escalenus@escalenusserver 'cd ~/services/tcg-pokedex && git pull && docker compose -f server/compose.yml up -d --build'
 ```
 
-To point the app at it, put `EXPO_PUBLIC_API_URL=https://escalenusserver.tailec6a2c.ts.net:8443` in `.env.local`. Only devices on the tailnet can reach it.
+To point the app at it, copy `.env.example` to `.env.local`. It holds the public address, which works for anyone.
 
 ## Stack
 
@@ -139,5 +143,5 @@ npm run export:native  # android + ios JS bundle smoke check
 - Add sets newer than Paradox Rift and older than Sword & Shield, and Pokémon #1022–#1025.
 - Decide edge cases: baby Pokémon (Pikachu from Pichu), V → VMAX/VSTAR, and multi-Pokémon cards that are not Tag Teams.
 - Other algorithms, for custom collections.
-- A public URL for the API (it is tailnet-only today) and an Uptime Kuma monitor.
+- An Uptime Kuma monitor for the API, and a custom domain (for example through a Cloudflare Tunnel) if the `ts.net` address becomes limiting.
 - Offline support (service worker) for the PWA.

@@ -3,6 +3,7 @@
  * can be tested without a socket. The coverage result is computed once at startup.
  */
 import { solveReverseRelease } from '../src/core/coverage/coverage.ts';
+import type { RateLimiter } from './rateLimit.ts';
 import type { Dataset } from './seed.ts';
 
 export type ApiResponse = { status: number; headers: Record<string, string>; body: unknown };
@@ -17,7 +18,7 @@ const HEADERS = {
   'cache-control': 'public, max-age=300',
 };
 
-export function createApi(data: Dataset) {
+export function createApi(data: Dataset, options: { rateLimiter?: RateLimiter } = {}) {
   const names = new Map(data.species.map((s) => [s.dex, s.name]));
   const named = (dex: number) => ({ dex, name: names.get(dex) ?? `#${dex}` });
   const result = solveReverseRelease(data);
@@ -43,9 +44,20 @@ export function createApi(data: Dataset) {
     '/v1/sets': sets,
   };
 
-  return function handle(method: string, url: string): ApiResponse {
+  /** `client` is the visitor's address (see clientKey); health checks and preflight are never limited. */
+  return function handle(method: string, url: string, client = 'unknown'): ApiResponse {
     const path = url.split('?')[0].replace(/\/+$/, '') || '/';
     if (method === 'OPTIONS') return { status: 204, headers: HEADERS, body: null };
+    if (path !== '/health' && options.rateLimiter) {
+      const d = options.rateLimiter(client);
+      if (!d.ok) {
+        return {
+          status: 429,
+          headers: { ...HEADERS, 'retry-after': String(d.retryAfterSeconds), 'cache-control': 'no-store' },
+          body: { error: 'rate_limited', retryAfterSeconds: d.retryAfterSeconds },
+        };
+      }
+    }
     if (!(path in routes)) return { status: 404, headers: HEADERS, body: { error: 'not_found' } };
     if (method !== 'GET' && method !== 'HEAD') return { status: 405, headers: HEADERS, body: { error: 'method_not_allowed' } };
     return { status: 200, headers: HEADERS, body: routes[path] };
