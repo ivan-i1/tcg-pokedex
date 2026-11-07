@@ -6,6 +6,6 @@ android
 ios
 dist
 dist-native
-assets
 credentials
+claude
 .env*
