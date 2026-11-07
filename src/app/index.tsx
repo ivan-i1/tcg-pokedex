@@ -18,8 +18,11 @@ export default function Home() {
           {t('home.subtitle')}
         </Text>
       </View>
+      <Link href="/coverage" asChild>
+        <Button label={t('home.coverage')} />
+      </Link>
       <Link href="/settings" asChild>
-        <Button label={t('home.settings')} />
+        <Button variant="secondary" label={t('home.settings')} />
       </Link>
       <Link href="/about" asChild>
         <Button variant="secondary" label={t('home.about')} />

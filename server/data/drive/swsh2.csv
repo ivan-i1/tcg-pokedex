@@ -1,0 +1,208 @@
+dexNumber,name,setName,setNumber,rarity,type
+10,Caterpie,Rebel Clash,001,Common,Grass
+11,Metapod,Rebel Clash,002,Uncommon,Grass
+12,Butterfree,Rebel Clash,003,Rare,Grass
+123,Scyther,Rebel Clash,004,Common,Grass
+213,Shuckle,Rebel Clash,005,Uncommon,Grass
+214,Heracross,Rebel Clash,006,Uncommon,Grass
+270,Lotad,Rebel Clash,007,Common,Grass
+271,Lombre,Rebel Clash,008,Uncommon,Grass
+272,Ludicolo,Rebel Clash,009,Rare,Grass
+283,Surskit,Rebel Clash,010,Common,Grass
+284,Masquerain,Rebel Clash,011,Uncommon,Grass
+459,Snover,Rebel Clash,012,Common,Grass
+460,Abomasnow,Rebel Clash,013,Rare,Grass
+708,Phantump,Rebel Clash,014,Common,Grass
+709,Trevenant,Rebel Clash,015,Rare,Grass
+736,Grubbin,Rebel Clash,016,Common,Grass
+812,Rillaboom,Rebel Clash,017,Ultra-Rare Rare,Grass
+812,Rillaboom,Rebel Clash,018,Rare VMAX,Grass
+830,Eldegoss,Rebel Clash,019,Ultra-Rare Rare,Grass
+840,Applin,Rebel Clash,020,Common,Grass
+840,Applin,Rebel Clash,021,Common,Grass
+841,Flapple,Rebel Clash,022,Rare Holo,Grass
+842,Appletun,Rebel Clash,023,Rare Holo,Grass
+37,Vulpix,Rebel Clash,024,Common,Fire
+38,Ninetales,Rebel Clash,025,Rare,Fire
+38,Ninetales,Rebel Clash,026,Ultra-Rare Rare,Fire
+58,Growlithe,Rebel Clash,027,Common,Fire
+59,Arcanine,Rebel Clash,028,Rare,Fire
+126,Magmar,Rebel Clash,029,Common,Fire
+467,Magmortar,Rebel Clash,030,Rare,Fire
+607,Litwick,Rebel Clash,031,Common,Fire
+608,Lampent,Rebel Clash,032,Uncommon,Fire
+609,Chandelure,Rebel Clash,033,Rare Holo,Fire
+631,Heatmor,Rebel Clash,034,Uncommon,Fire
+815,Cinderace,Rebel Clash,035,Ultra-Rare Rare,Fire
+815,Cinderace,Rebel Clash,036,Rare VMAX,Fire
+122,Galarian Mr. Mime,Rebel Clash,037,Common,Water
+866,Galarian Mr. Rime,Rebel Clash,038,Rare,Water
+129,Magikarp,Rebel Clash,039,Common,Water
+130,Gyarados,Rebel Clash,040,Rare Holo,Water
+278,Wingull,Rebel Clash,041,Common,Water
+279,Pelipper,Rebel Clash,042,Uncommon,Water
+350,Milotic,Rebel Clash,043,Ultra-Rare Rare,Water
+535,Tympole,Rebel Clash,044,Common,Water
+536,Palpitoad,Rebel Clash,045,Uncommon,Water
+537,Seismitoad,Rebel Clash,046,Rare,Water
+554,Galarian Darumaka,Rebel Clash,047,Common,Water
+555,Galarian Darmanitan,Rebel Clash,048,Rare,Water
+818,Inteleon,Rebel Clash,049,Ultra-Rare Rare,Water
+818,Inteleon,Rebel Clash,050,Rare VMAX,Water
+845,Cramorant,Rebel Clash,051,Rare,Water
+846,Arrokuda,Rebel Clash,052,Common,Water
+847,Barraskewda,Rebel Clash,053,Rare,Water
+875,Eiscue,Rebel Clash,054,Rare Holo,Water
+875,Eiscue,Rebel Clash,055,Ultra-Rare Rare,Water
+100,Voltorb,Rebel Clash,056,Common,Lightning
+101,Electrode,Rebel Clash,057,Uncommon,Lightning
+125,Electabuzz,Rebel Clash,058,Common,Lightning
+466,Electivire,Rebel Clash,059,Rare,Lightning
+403,Shinx,Rebel Clash,060,Common,Lightning
+404,Luxio,Rebel Clash,061,Uncommon,Lightning
+405,Luxray,Rebel Clash,062,Rare Holo,Lightning
+694,Helioptile,Rebel Clash,063,Common,Lightning
+695,Heliolisk,Rebel Clash,064,Uncommon,Lightning
+737,Charjabug,Rebel Clash,065,Uncommon,Lightning
+738,Vikavolt,Rebel Clash,066,Rare Holo,Lightning
+836,Boltund,Rebel Clash,067,Ultra-Rare Rare,Lightning
+848,Toxel,Rebel Clash,068,Common,Lightning
+849,Toxtricity,Rebel Clash,069,Rare,Lightning
+849,Toxtricity,Rebel Clash,070,Ultra-Rare Rare,Lightning
+849,Toxtricity,Rebel Clash,071,Rare VMAX,Lightning
+871,Pincurchin,Rebel Clash,072,Ultra-Rare Rare,Lightning
+877,Morpeko,Rebel Clash,073,Uncommon,Lightning
+35,Clefairy,Rebel Clash,074,Common,Psychic
+36,Clefable,Rebel Clash,075,Rare Holo,Psychic
+177,Natu,Rebel Clash,076,Common,Psychic
+178,Xatu,Rebel Clash,077,Uncommon,Psychic
+222,Galarian Corsola,Rebel Clash,078,Common,Psychic
+864,Galarian Cursola,Rebel Clash,079,Rare Holo,Psychic
+561,Sigilyph,Rebel Clash,080,Rare,Psychic
+769,Sandygast,Rebel Clash,081,Common,Psychic
+770,Palossand,Rebel Clash,082,Uncommon,Psychic
+856,Hatenna,Rebel Clash,083,Common,Psychic
+857,Hattrem,Rebel Clash,084,Uncommon,Psychic
+858,Hatterene,Rebel Clash,085,Rare Holo,Psychic
+868,Milcery,Rebel Clash,086,Common,Psychic
+869,Alcremie,Rebel Clash,087,Rare,Psychic
+876,Indeedee,Rebel Clash,088,Uncommon,Psychic
+885,Dreepy,Rebel Clash,089,Common,Psychic
+886,Drakloak,Rebel Clash,090,Uncommon,Psychic
+887,Dragapult,Rebel Clash,091,Rare Holo,Psychic
+887,Dragapult,Rebel Clash,092,Ultra-Rare Rare,Psychic
+887,Dragapult,Rebel Clash,093,Rare VMAX,Psychic
+83,Galarian Farfetch'd,Rebel Clash,094,Common,Fighting
+865,Galarian Sirfetch'd,Rebel Clash,095,Rare Holo,Fighting
+299,Nosepass,Rebel Clash,096,Common,Fighting
+307,Meditite,Rebel Clash,097,Common,Fighting
+308,Medicham,Rebel Clash,098,Uncommon,Fighting
+339,Barboach,Rebel Clash,099,Common,Fighting
+340,Whiscash,Rebel Clash,100,Rare,Fighting
+562,Galarian Yamask,Rebel Clash,101,Common,Fighting
+867,Galarian Runerigus,Rebel Clash,102,Rare,Fighting
+688,Binacle,Rebel Clash,103,Common,Fighting
+689,Barbaracle,Rebel Clash,104,Rare,Fighting
+837,Rolycoly,Rebel Clash,105,Common,Fighting
+838,Carkol,Rebel Clash,106,Uncommon,Fighting
+839,Coalossal,Rebel Clash,107,Rare Holo,Fighting
+844,Sandaconda,Rebel Clash,108,Ultra-Rare Rare,Fighting
+870,Falinks,Rebel Clash,109,Uncommon,Fighting
+870,Falinks,Rebel Clash,110,Ultra-Rare Rare,Fighting
+874,Stonjourner,Rebel Clash,111,Rare Holo,Fighting
+109,Koffing,Rebel Clash,112,Common,Darkness
+110,Galarian Weezing,Rebel Clash,113,Rare Holo,Darkness
+434,Stunky,Rebel Clash,114,Common,Darkness
+435,Skuntank,Rebel Clash,115,Uncommon,Darkness
+442,Spiritomb,Rebel Clash,116,Rare,Darkness
+568,Trubbish,Rebel Clash,117,Common,Darkness
+569,Garbodor,Rebel Clash,118,Rare,Darkness
+629,Vullaby,Rebel Clash,119,Common,Darkness
+630,Mandibuzz,Rebel Clash,120,Rare,Darkness
+687,Malamar,Rebel Clash,121,Ultra-Rare Rare,Darkness
+687,Malamar,Rebel Clash,122,Rare VMAX,Darkness
+859,Impidimp,Rebel Clash,123,Common,Darkness
+860,Morgrem,Rebel Clash,124,Uncommon,Darkness
+861,Grimmsnarl,Rebel Clash,125,Rare Holo,Darkness
+52,Galarian Meowth,Rebel Clash,126,Common,Metal
+863,Galarian Perrserker,Rebel Clash,127,Rare,Metal
+212,Scizor,Rebel Clash,128,Rare,Metal
+436,Bronzor,Rebel Clash,129,Common,Metal
+437,Bronzong,Rebel Clash,130,Uncommon,Metal
+476,Probopass,Rebel Clash,131,Rare,Metal
+632,Durant,Rebel Clash,132,Uncommon,Metal
+679,Honedge,Rebel Clash,133,Common,Metal
+680,Doublade,Rebel Clash,134,Uncommon,Metal
+681,Aegislash,Rebel Clash,135,Rare,Metal
+879,Copperajah,Rebel Clash,136,Ultra-Rare Rare,Metal
+879,Copperajah,Rebel Clash,137,Rare VMAX,Metal
+884,Duraludon,Rebel Clash,138,Rare Holo,Metal
+888,Zacian,Rebel Clash,139,Rare,Metal
+889,Zamazenta,Rebel Clash,140,Rare,Metal
+143,Snorlax,Rebel Clash,141,Rare,Colorless
+441,Chatot,Rebel Clash,142,Uncommon,Colorless
+519,Pidove,Rebel Clash,143,Common,Colorless
+520,Tranquill,Rebel Clash,144,Uncommon,Colorless
+521,Unfezant,Rebel Clash,145,Rare,Colorless
+659,Bunnelby,Rebel Clash,146,Common,Colorless
+660,Diggersby,Rebel Clash,147,Rare,Colorless
+701,Hawlucha,Rebel Clash,148,Uncommon,Colorless
+759,Stufful,Rebel Clash,149,Common,Colorless
+760,Bewear,Rebel Clash,150,Uncommon,Colorless
+819,Skwovet,Rebel Clash,151,Common,Colorless
+820,Greedent,Rebel Clash,152,Rare,Colorless
+832,Dubwool,Rebel Clash,153,Ultra-Rare Rare,Colorless
+,Boss's Orders,Rebel Clash,154,Rare Holo,Supporter
+,Burning Scarf,Rebel Clash,155,Uncommon,Item
+,Capacious Bucket,Rebel Clash,156,Uncommon,Item
+,Cursed Shovel,Rebel Clash,157,Uncommon,Item
+,Dan,Rebel Clash,158,Uncommon,Supporter
+,Full Heal,Rebel Clash,159,Uncommon,Item
+,Galar Mine,Rebel Clash,160,Uncommon,Stadium
+,Milo,Rebel Clash,161,Uncommon,Supporter
+,Nugget,Rebel Clash,162,Uncommon,Item
+,Oleana,Rebel Clash,163,Uncommon,Supporter
+,Poké Ball,Rebel Clash,164,Uncommon,Item
+,Scoop Up Net,Rebel Clash,165,Uncommon,Item
+,Skyla,Rebel Clash,166,Uncommon,Supporter
+,Sonia,Rebel Clash,167,Uncommon,Supporter
+,Tool Scrapper,Rebel Clash,168,Uncommon,Item
+,Training Court,Rebel Clash,169,Uncommon,Stadium
+,Turffield Stadium,Rebel Clash,170,Uncommon,Stadium
+,Capture Energy,Rebel Clash,171,Uncommon,Energy
+,Twin Energy,Rebel Clash,174,Uncommon,Energy
+812,Rillaboom,Rebel Clash,175,Rare Ultra,Grass
+830,Eldegoss,Rebel Clash,176,Rare Ultra,Grass
+38,Ninetales,Rebel Clash,177,Rare Ultra,Fire
+815,Cinderace,Rebel Clash,178,Rare Ultra,Fire
+350,Milotic,Rebel Clash,179,Rare Ultra,Water
+818,Inteleon,Rebel Clash,180,Rare Ultra,Water
+836,Boltund,Rebel Clash,181,Rare Ultra,Lightning
+849,Toxtricity,Rebel Clash,182,Rare Ultra,Lightning
+887,Dragapult,Rebel Clash,183,Rare Ultra,Psychic
+844,Sandaconda,Rebel Clash,184,Rare Ultra,Fighting
+870,Falinks,Rebel Clash,185,Rare Ultra,Fighting
+687,Malamar,Rebel Clash,186,Rare Ultra,Darkness
+879,Copperajah,Rebel Clash,187,Rare Ultra,Metal
+832,Dubwool,Rebel Clash,188,Rare Ultra,Colorless
+,Boss's Orders,Rebel Clash,189,Rare Ultra,Supporter
+,Milo,Rebel Clash,190,Rare Ultra,Supporter
+,Oleana,Rebel Clash,191,Rare Ultra,Supporter
+,Sonia,Rebel Clash,192,Rare Ultra,Supporter
+812,Rillaboom,Rebel Clash,193,Rare Rainbow,Grass
+815,Cinderace,Rebel Clash,194,Rare Rainbow,Fire
+818,Inteleon,Rebel Clash,195,Rare Rainbow,Water
+849,Toxtricity,Rebel Clash,196,Rare Rainbow,Lightning
+887,Dragapult,Rebel Clash,197,Rare Rainbow,Psychic
+687,Malamar,Rebel Clash,198,Rare Rainbow,Darkness
+879,Copperajah,Rebel Clash,199,Rare Rainbow,Metal
+,Boss's Orders,Rebel Clash,200,Rare Rainbow,Supporter
+,Milo,Rebel Clash,201,Rare Rainbow,Supporter
+,Oleana,Rebel Clash,202,Rare Rainbow,Supporter
+,Sonia,Rebel Clash,203,Rare Rainbow,Supporter
+873,Frosmoth,Rebel Clash,204,Rare Secret,Water
+863,Galarian Perrserker,Rebel Clash,205,Rare Secret,Metal
+,Big Charm,Rebel Clash,206,Rare Secret,Item
+,Scoop Up Net,Rebel Clash,207,Rare Secret,Item
+,Tool Scrapper,Rebel Clash,208,Rare Secret,Item
+,Twin Energy,Rebel Clash,209,Rare Secret,Energy

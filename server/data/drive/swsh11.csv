@@ -1,0 +1,218 @@
+dexNumber,name,setName,setNumber,rarity,type
+43,Oddish,Lost Origin,001,Common,Grass
+44,Gloom,Lost Origin,002,Uncommon,Grass
+45,Vileplume,Lost Origin,003,Rare Holo,Grass
+46,Paras,Lost Origin,004,Common,Grass
+47,Parasect,Lost Origin,005,Rare,Grass
+265,Wurmple,Lost Origin,006,Common,Grass
+266,Silcoon,Lost Origin,007,Uncommon,Grass
+267,Beautifly,Lost Origin,008,Rare Holo,Grass
+268,Cascoon,Lost Origin,009,Uncommon,Grass
+269,Dustox,Lost Origin,010,Rare,Grass
+273,Seedot,Lost Origin,011,Common,Grass
+274,Nuzleaf,Lost Origin,012,Uncommon,Grass
+275,Shiftry,Lost Origin,013,Rare Holo,Grass
+315,Roselia,Lost Origin,014,Common,Grass
+407,Roserade,Lost Origin,015,Uncommon,Grass
+708,Phantump,Lost Origin,016,Common,Grass
+709,Trevenant,Lost Origin,017,Rare Holo,Grass
+824,Blipbug,Lost Origin,018,Common,Grass
+825,Dottler,Lost Origin,019,Uncommon,Grass
+826,Orbeetle,Lost Origin,020,Rare Holo,Grass
+218,Slugma,Lost Origin,021,Common,Fire
+219,Magcargo,Lost Origin,022,Rare,Fire
+324,Torkoal,Lost Origin,023,Uncommon,Fire
+607,Litwick,Lost Origin,024,Common,Fire
+608,Lampent,Lost Origin,025,Uncommon,Fire
+609,Chandelure,Lost Origin,026,Rare Holo,Fire
+655,Delphox,Lost Origin,027,Ultra-Rare Rare,Fire
+667,Litleo,Lost Origin,028,Common,Fire
+668,Pyroar,Lost Origin,029,Rare Holo,Fire
+60,Poliwag,Lost Origin,030,Common,Water
+61,Poliwhirl,Lost Origin,031,Uncommon,Water
+186,Politoed,Lost Origin,032,Rare,Water
+86,Seel,Lost Origin,033,Common,Water
+87,Dewgong,Lost Origin,034,Rare,Water
+116,Horsea,Lost Origin,035,Common,Water
+117,Seadra,Lost Origin,036,Uncommon,Water
+230,Kingdra,Lost Origin,037,Rare Holo,Water
+370,Luvdisc,Lost Origin,038,Common,Water
+422,Shellos,Lost Origin,039,Common,Water
+456,Finneon,Lost Origin,040,Common,Water
+457,Lumineon,Lost Origin,041,Uncommon,Water
+459,Snover,Lost Origin,042,Common,Water
+460,Abomasnow,Lost Origin,043,Uncommon,Water
+550,Hisuian Basculin,Lost Origin,044,Common,Water
+902,Hisuian Basculegion,Lost Origin,045,Rare Holo,Water
+580,Ducklett,Lost Origin,046,Common,Water
+581,Swanna,Lost Origin,047,Uncommon,Water
+646,Kyurem,Lost Origin,048,Ultra-Rare Rare,Water
+646,Kyurem,Lost Origin,049,Rare VMAX,Water
+845,Cramorant,Lost Origin,050,Rare,Water
+896,Glastrier,Lost Origin,051,Rare Holo,Water
+25,Pikachu,Lost Origin,052,Common,Lightning
+26,Raichu,Lost Origin,053,Rare,Lightning
+309,Electrike,Lost Origin,054,Common,Lightning
+310,Manectric,Lost Origin,055,Rare,Lightning
+462,Magnezone,Lost Origin,056,Ultra-Rare Rare,Lightning
+462,Magnezone,Lost Origin,057,Rare VSTAR,Lightning
+479,Rotom,Lost Origin,058,Ultra-Rare Rare,Lightning
+602,Tynamo,Lost Origin,059,Common,Lightning
+603,Eelektrik,Lost Origin,060,Uncommon,Lightning
+604,Eelektross,Lost Origin,061,Rare,Lightning
+35,Clefairy,Lost Origin,062,Common,Psychic
+36,Clefable,Lost Origin,063,Rare,Psychic
+92,Gastly,Lost Origin,064,Common,Psychic
+93,Haunter,Lost Origin,065,Uncommon,Psychic
+94,Gengar,Lost Origin,066,Rare Holo,Psychic
+122,Mr. Mime,Lost Origin,067,Rare,Psychic
+,Jynx ,Lost Origin,068,Common,Psychic
+282,Radiant Gardevoir,Lost Origin,069,Rare Radiant,Psychic
+302,Sableye,Lost Origin,070,Rare Holo,Psychic
+303,Mawile,Lost Origin,071,Common,Psychic
+353,Shuppet,Lost Origin,072,Common,Psychic
+354,Banette,Lost Origin,073,Rare,Psychic
+488,Cresselia,Lost Origin,074,Rare Holo,Psychic
+570,Hisuian Zorua,Lost Origin,075,Common,Psychic
+571,Hisuian Zoroark,Lost Origin,076,Rare Holo,Psychic
+686,Inkay,Lost Origin,077,Common,Psychic
+687,Malamar,Lost Origin,078,Rare,Psychic
+764,Comfey,Lost Origin,079,Rare,Psychic
+778,Mimikyu,Lost Origin,080,Rare,Psychic
+897,Spectrier,Lost Origin,081,Rare Holo,Psychic
+905,Enamorus,Lost Origin,082,Ultra-Rare Rare,Psychic
+58,Hisuian Growlithe,Lost Origin,083,Common,Fighting
+59,Hisuian Arcanine,Lost Origin,084,Rare Holo,Fighting
+62,Poliwrath,Lost Origin,085,Rare,Fighting
+66,Machop,Lost Origin,086,Common,Fighting
+67,Machoke,Lost Origin,087,Uncommon,Fighting
+68,Machamp,Lost Origin,088,Rare Holo,Fighting
+111,Rhyhorn,Lost Origin,089,Common,Fighting
+112,Rhydon,Lost Origin,090,Uncommon,Fighting
+464,Rhyperior,Lost Origin,091,Rare,Fighting
+142,Aerodactyl,Lost Origin,092,Ultra-Rare Rare,Fighting
+142,Aerodactyl,Lost Origin,093,Rare VSTAR,Fighting
+185,Sudowoodo,Lost Origin,094,Common,Fighting
+207,Gligar,Lost Origin,095,Common,Fighting
+472,Gliscor,Lost Origin,096,Rare,Fighting
+296,Makuhita,Lost Origin,097,Common,Fighting
+297,Hariyama,Lost Origin,098,Uncommon,Fighting
+307,Meditite,Lost Origin,099,Common,Fighting
+308,Medicham,Lost Origin,100,Uncommon,Fighting
+369,Relicanth,Lost Origin,101,Uncommon,Fighting
+423,Gastrodon,Lost Origin,102,Uncommon,Fighting
+619,Mienfoo,Lost Origin,103,Common,Fighting
+620,Mienshao,Lost Origin,104,Uncommon,Fighting
+645,Landorus,Lost Origin,105,Rare,Fighting
+688,Binacle,Lost Origin,106,Common,Fighting
+689,Barbaracle,Lost Origin,107,Rare Holo,Fighting
+703,Carbink,Lost Origin,108,Uncommon,Fighting
+744,Rockruff,Lost Origin,109,Common,Fighting
+870,Falinks,Lost Origin,110,Common,Fighting
+874,Stonjourner,Lost Origin,111,Rare,Fighting
+167,Spinarak,Lost Origin,112,Common,Darkness
+168,Ariados,Lost Origin,113,Rare,Darkness
+198,Murkrow,Lost Origin,114,Common,Darkness
+430,Honchkrow,Lost Origin,115,Rare,Darkness
+336,Seviper,Lost Origin,116,Uncommon,Darkness
+442,Spiritomb,Lost Origin,117,Rare,Darkness
+452,Drapion,Lost Origin,118,Ultra-Rare Rare,Darkness
+452,Drapion,Lost Origin,119,Rare VSTAR,Darkness
+491,Darkrai,Lost Origin,120,Rare Holo,Darkness
+686,Inkay,Lost Origin,121,Common,Darkness
+720,Hoopa,Lost Origin,122,Rare,Darkness
+,Radiant Hisuian Sneasler,Lost Origin,123,Rare Radiant,Darkness
+208,Radiant Steelix,Lost Origin,124,Rare Radiant,Metal
+436,Bronzor,Lost Origin,125,Common,Metal
+437,Bronzong,Lost Origin,126,Uncommon,Metal
+618,Galarian Stunfisk,Lost Origin,127,Uncommon,Metal
+801,Magearna,Lost Origin,128,Rare,Metal
+863,Galarian Perrserker,Lost Origin,129,Ultra-Rare Rare,Metal
+487,Giratina,Lost Origin,130,Ultra-Rare Rare,Dragon
+487,Giratina,Lost Origin,131,Rare VSTAR,Dragon
+704,Goomy,Lost Origin,132,Common,Dragon
+705,Hisuian Sliggoo,Lost Origin,133,Uncommon,Dragon
+706,Hisuian Goodra,Lost Origin,134,Rare Holo,Dragon
+706,Hisuian Goodra,Lost Origin,135,Ultra-Rare Rare,Dragon
+706,Hisuian Goodra,Lost Origin,136,Rare VSTAR,Dragon
+18,Pidgeot,Lost Origin,137,Ultra-Rare Rare,Colorless
+108,Lickitung,Lost Origin,138,Common,Colorless
+463,Lickilicky,Lost Origin,139,Uncommon,Colorless
+137,Porygon,Lost Origin,140,Common,Colorless
+233,Porygon2,Lost Origin,141,Uncommon,Colorless
+474,Porygon-Z,Lost Origin,142,Rare,Colorless
+143,Snorlax,Lost Origin,143,Rare Holo,Colorless
+190,Aipom,Lost Origin,144,Common,Colorless
+424,Ambipom,Lost Origin,145,Uncommon,Colorless
+571,Hisuian Zoroark,Lost Origin,146,Ultra-Rare Rare,Colorless
+571,Hisuian Zoroark,Lost Origin,147,Rare VSTAR,Colorless
+626,Bouffalant,Lost Origin,148,Rare,Colorless
+775,Komala,Lost Origin,149,Uncommon,Colorless
+819,Skwovet,Lost Origin,150,Common,Colorless
+820,Greedent,Lost Origin,151,Rare,Colorless
+,Arc Phone,Lost Origin,152,Uncommon,Item
+,Arezu,Lost Origin,153,Uncommon,Supporter
+,Box of Disaster,Lost Origin,154,Uncommon,Item
+,Colress's Experiment,Lost Origin,155,Uncommon,Supporter
+,Damage Pump,Lost Origin,156,Uncommon,Item
+,Fantina,Lost Origin,157,Uncommon,Supporter
+,Iscan,Lost Origin,158,Uncommon,Supporter
+,Lady,Lost Origin,159,Uncommon,Supporter
+,Lake Acuity,Lost Origin,160,Uncommon,Stadium
+,Lost City,Lost Origin,161,Uncommon,Stadium
+,Lost Vacuum,Lost Origin,162,Uncommon,Item
+,Mirage Gate,Lost Origin,163,Uncommon,Item
+,Miss Fortune Sisters,Lost Origin,164,Uncommon,Supporter
+,Panic Mask,Lost Origin,165,Uncommon,Item
+,Riley,Lost Origin,166,Uncommon,Supporter
+,Thorton,Lost Origin,167,Uncommon,Supporter
+,Tool Box,Lost Origin,168,Uncommon,Item
+,Volo,Lost Origin,169,Rare Holo,Supporter
+,Windup Arm,Lost Origin,170,Uncommon,Item
+,Gift Energy,Lost Origin,171,Uncommon,Energy
+101,Hisuian Electrode,Lost Origin,172,Rare Ultra,Grass
+655,Delphox,Lost Origin,173,Rare Ultra,Fire
+646,Kyurem,Lost Origin,174,Rare Ultra,Water
+462,Magnezone,Lost Origin,175,Rare Ultra,Lightning
+479,Rotom,Lost Origin,176,Rare Ultra,Lightning
+479,Rotom,Lost Origin,177,Rare Ultra,Lightning
+905,Enamorus,Lost Origin,178,Rare Ultra,Psychic
+142,Aerodactyl,Lost Origin,179,Rare Ultra,Fighting
+142,Aerodactyl,Lost Origin,180,Rare Ultra,Fighting
+475,Gallade,Lost Origin,181,Rare Ultra,Fighting
+452,Drapion,Lost Origin,182,Rare Ultra,Darkness
+863,Galarian Perrserker,Lost Origin,183,Rare Ultra,Metal
+863,Galarian Perrserker,Lost Origin,184,Rare Ultra,Metal
+487,Giratina,Lost Origin,185,Rare Ultra,Dragon
+487,Giratina,Lost Origin,186,Rare Ultra,Dragon
+706,Hisuian Goodra,Lost Origin,187,Rare Ultra,Dragon
+18,Pidgeot,Lost Origin,188,Rare Ultra,Colorless
+,Arezu,Lost Origin,189,Rare Ultra,Supporter
+,Colress's Experiment,Lost Origin,190,Rare Ultra,Supporter
+,Fantina,Lost Origin,191,Rare Ultra,Supporter
+,Iscan,Lost Origin,192,Rare Ultra,Supporter
+,Lady,Lost Origin,193,Rare Ultra,Supporter
+,Miss Fortune Sisters,Lost Origin,194,Rare Ultra,Supporter
+,Thorton,Lost Origin,195,Rare Ultra,Supporter
+,Volo,Lost Origin,196,Rare Ultra,Supporter
+646,Kyurem,Lost Origin,197,Rare Rainbow,Water
+462,Magnezone,Lost Origin,198,Rare Rainbow,Lightning
+142,Aerodactyl,Lost Origin,199,Rare Rainbow,Fighting
+452,Drapion,Lost Origin,200,Rare Rainbow,Darkness
+487,Giratina,Lost Origin,201,Rare Rainbow,Dragon
+706,Hisuian Goodra,Lost Origin,202,Rare Rainbow,Dragon
+571,Hisuian Zoroark,Lost Origin,203,Rare Rainbow,Colorless
+,Arezu,Lost Origin,204,Rare Rainbow,Supporter
+,Colress's Experiment,Lost Origin,205,Rare Rainbow,Supporter
+,Fantina,Lost Origin,206,Rare Rainbow,Supporter
+,Iscan,Lost Origin,207,Rare Rainbow,Supporter
+,Lady,Lost Origin,208,Rare Rainbow,Supporter
+,Miss Fortune Sisters,Lost Origin,209,Rare Rainbow,Supporter
+,Thorton,Lost Origin,210,Rare Rainbow,Supporter
+,Volo,Lost Origin,211,Rare Rainbow,Supporter
+487,Giratina,Lost Origin,212,Rare Secret,Dragon
+571,Hisuian Zoroark,Lost Origin,213,Rare Secret,Colorless
+,Box of Disaster,Lost Origin,214,Rare Secret,Item
+,Collapsed Stadium,Lost Origin,215,Rare Secret,Stadium
+,Dark Patch,Lost Origin,216,Rare Secret,Item
+,Lost Vacuum,Lost Origin,217,Rare Secret,Item

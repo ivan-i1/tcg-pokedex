@@ -12,7 +12,8 @@
     "title": "TCG Pokédex",
     "subtitle": "Which sets, newest first, complete a card for every Pokémon?",
     "settings": "Settings",
-    "about": "About"
+    "about": "About",
+    "coverage": "Sets to collect"
   },
   "settings": {
     "title": "Settings",
@@ -28,5 +29,41 @@
     "version": "Version {{version}}",
     "platform": "Platform: {{platform}}",
     "body": "Collect one card of every Pokémon. TCG Pokédex walks the sets from newest to oldest and tells you which ones you need."
+  },
+  "coverage": {
+    "title": "Sets to collect",
+    "notConfigured": "No server configured. Set EXPO_PUBLIC_API_URL in .env.local.",
+    "error": "Could not load the sets: {{message}}",
+    "summary_one": "{{covered}} of {{total}} Pokémon covered with {{count}} set",
+    "summary_other": "{{covered}} of {{total}} Pokémon covered with {{count}} sets",
+    "explainer": "Sets are listed from newest to oldest. Each one is only included if it adds Pokémon the newer sets do not have.",
+    "released": "Released {{date}}",
+    "newPokemon_one": "{{count}} new Pokémon",
+    "newPokemon_other": "{{count}} new Pokémon",
+    "missing_one": "{{count}} Pokémon not in any set yet",
+    "missing_other": "{{count}} Pokémon not in any set yet",
+    "options": "View options",
+    "order": "Order",
+    "packOrder": "Pack order",
+    "pokemonOrder": "Pokémon order",
+    "generation": "Generation {{gen}} · #{{from}}–#{{to}}",
+    "allPacks": "All packs",
+    "showPokemonList": "Pokémon list",
+    "showPackList": "Pack list",
+    "searchPokemon": "Search Pokémon",
+    "notInPack": "No pack",
+    "filteredBy": "Showing only {{pack}}. Tap to show all.",
+    "legend": "Rarity outline:",
+    "rarity": {
+      "common": "Common",
+      "uncommon": "Uncommon",
+      "rare": "Rare",
+      "holo": "Holo",
+      "ultra": "Ultra (ex, V, VMAX, VSTAR)",
+      "illustration": "Illustration",
+      "shiny": "Radiant / Amazing",
+      "rainbow": "Rainbow",
+      "secret": "Secret / Hyper"
+    }
   }
 }

@@ -1,0 +1,153 @@
+dexNumber,name,setName,setNumber,rarity,type
+43,Oddish,Crown Zenith,001,Common,Grass
+44,Gloom,Crown Zenith,002,Uncommon,Grass
+182,Bellossom,Crown Zenith,003,Rare,Grass
+114,Tangela,Crown Zenith,004,Common,Grass
+465,Tangrowth,Crown Zenith,005,Rare,Grass
+123,Scyther,Crown Zenith,006,Common,Grass
+191,Sunkern,Crown Zenith,007,Common,Grass
+193,Yanma,Crown Zenith,008,Common,Grass
+469,Yanmega,Crown Zenith,009,Rare,Grass
+401,Kricketot,Crown Zenith,010,Common,Grass
+420,Cherubi,Crown Zenith,011,Common,Grass
+455,Carnivine,Crown Zenith,012,Uncommon,Grass
+470,Leafeon,Crown Zenith,013,Ultra-Rare Rare,Grass
+470,Leafeon,Crown Zenith,014,Rare VSTAR,Grass
+736,Grubbin,Crown Zenith,015,Common,Grass
+893,Zarude,Crown Zenith,016,Rare Holo,Grass
+898,Calyrex,Crown Zenith,017,Rare Holo,Grass
+6,Charizard,Crown Zenith,018,Ultra-Rare Rare,Fire
+6,Charizard,Crown Zenith,019,Rare VSTAR,Fire
+,Radiant Charizard,Crown Zenith,020,Rare Radiant,Fire
+244,Entei,Crown Zenith,021,Rare Holo,Fire
+514,Simisear,Crown Zenith,022,Ultra-Rare Rare,Fire
+514,Simisear,Crown Zenith,023,Rare VSTAR,Fire
+636,Larvesta,Crown Zenith,024,Common,Fire
+637,Volcarona,Crown Zenith,025,Rare,Fire
+721,Volcanion,Crown Zenith,026,Rare Holo,Fire
+757,Salandit,Crown Zenith,027,Common,Fire
+758,Salazzle,Crown Zenith,028,Uncommon,Fire
+86,Seel,Crown Zenith,029,Common,Water
+,Galarian Mr. Mime,Crown Zenith,030,Common,Water
+320,Wailmer,Crown Zenith,031,Common,Water
+321,Wailord,Crown Zenith,032,Rare,Water
+341,Corphish,Crown Zenith,033,Common,Water
+361,Snorunt,Crown Zenith,034,Common,Water
+370,Luvdisc,Crown Zenith,035,Common,Water
+382,Kyogre,Crown Zenith,036,Rare Holo,Water
+382,Kyogre,Crown Zenith,037,Ultra-Rare Rare,Water
+471,Glaceon,Crown Zenith,038,Ultra-Rare Rare,Water
+403,Shinx,Crown Zenith,039,Common,Lightning
+403,Shinx,Crown Zenith,040,Common,Lightning
+404,Luxio,Crown Zenith,041,Uncommon,Lightning
+404,Luxio,Crown Zenith,042,Uncommon,Lightning
+405,Luxray,Crown Zenith,043,Rare,Lightning
+405,Luxray,Crown Zenith,044,Rare,Lightning
+479,Rotom,Crown Zenith,045,Ultra-Rare Rare,Lightning
+479,Rotom,Crown Zenith,046,Rare VSTAR,Lightning
+587,Emolga,Crown Zenith,047,Common,Lightning
+603,Eelektrik,Crown Zenith,048,Uncommon,Lightning
+694,Helioptile,Crown Zenith,049,Common,Lightning
+695,Heliolisk,Crown Zenith,050,Rare,Lightning
+,Radiant Charjabug,Crown Zenith,051,Rare Radiant,Lightning
+807,Zeraora,Crown Zenith,052,Rare,Lightning
+807,Zeraora,Crown Zenith,053,Ultra-Rare Rare,Lightning
+807,Zeraora,Crown Zenith,054,Rare VMAX,Lightning
+807,Zeraora,Crown Zenith,055,Rare VSTAR,Lightning
+871,Pincurchin,Crown Zenith,056,Uncommon,Lightning
+102,Exeggcute,Crown Zenith,057,Common,Psychic
+103,Exeggutor,Crown Zenith,058,Rare,Psychic
+150,Mewtwo,Crown Zenith,059,Rare Holo,Psychic
+151,Mew,Crown Zenith,060,Ultra-Rare Rare,Psychic
+203,Girafarig,Crown Zenith,061,Uncommon,Psychic
+337,Lunatone,Crown Zenith,062,Uncommon,Psychic
+356,Dusclops,Crown Zenith,063,Uncommon,Psychic
+786,Tapu Lele,Crown Zenith,064,Rare Holo,Psychic
+858,Hatterene,Crown Zenith,065,Ultra-Rare Rare,Psychic
+858,Hatterene,Crown Zenith,066,Rare VMAX,Psychic
+905,Enamorus,Crown Zenith,067,Rare,Psychic
+75,Graveler,Crown Zenith,068,Uncommon,Fighting
+338,Solrock,Crown Zenith,069,Uncommon,Fighting
+343,Baltoy,Crown Zenith,070,Common,Fighting
+447,Riolu,Crown Zenith,071,Common,Fighting
+674,Pancham,Crown Zenith,072,Common,Fighting
+744,Rockruff,Crown Zenith,073,Common,Fighting
+745,Lycanroc,Crown Zenith,074,Rare,Fighting
+109,Koffing,Crown Zenith,075,Common,Darkness
+359,Absol,Crown Zenith,076,Rare Holo,Darkness
+509,Purrloin,Crown Zenith,077,Common,Darkness
+510,Liepard,Crown Zenith,078,Rare,Darkness
+552,Krokorok,Crown Zenith,079,Uncommon,Darkness
+675,Pangoro,Crown Zenith,080,Rare,Darkness
+690,Skrelp,Crown Zenith,081,Common,Darkness
+691,Dragalge,Crown Zenith,082,Rare,Darkness
+720,Hoopa,Crown Zenith,083,Rare Holo,Darkness
+,Galarian Meowth,Crown Zenith,084,Common,Metal
+,Galarian Perrserker,Crown Zenith,085,Rare,Metal
+212,Scizor,Crown Zenith,086,Rare,Metal
+304,Aron,Crown Zenith,087,Common,Metal
+305,Lairon,Crown Zenith,088,Uncommon,Metal
+306,Aggron,Crown Zenith,089,Rare Holo,Metal
+375,Metang,Crown Zenith,090,Uncommon,Metal
+624,Pawniard,Crown Zenith,091,Common,Metal
+624,Pawniard,Crown Zenith,092,Common,Metal
+625,Bisharp,Crown Zenith,093,Uncommon,Metal
+888,Zacian,Crown Zenith,094,Rare Holo,Metal
+888,Zacian,Crown Zenith,095,Ultra-Rare Rare,Metal
+888,Zacian,Crown Zenith,096,Rare VSTAR,Metal
+889,Zamazenta,Crown Zenith,097,Rare Holo,Metal
+889,Zamazenta,Crown Zenith,098,Ultra-Rare Rare,Metal
+889,Zamazenta,Crown Zenith,099,Rare VSTAR,Metal
+384,Rayquaza,Crown Zenith,100,Ultra-Rare Rare,Dragon
+384,Rayquaza,Crown Zenith,101,Rare VMAX,Dragon
+384,Rayquaza,Crown Zenith,102,Rare VMAX,Dragon
+884,Duraludon,Crown Zenith,103,Ultra-Rare Rare,Dragon
+884,Duraludon,Crown Zenith,104,Rare VMAX,Dragon
+,Radiant Eternatus,Crown Zenith,105,Rare Radiant,Dragon
+128,Tauros,Crown Zenith,106,Rare,Colorless
+132,Ditto,Crown Zenith,107,Rare Holo,Colorless
+133,Eevee,Crown Zenith,108,Ultra-Rare Rare,Colorless
+143,Snorlax,Crown Zenith,109,Rare,Colorless
+396,Starly,Crown Zenith,110,Common,Colorless
+399,Bidoof,Crown Zenith,111,Common,Colorless
+441,Chatot,Crown Zenith,112,Common,Colorless
+486,Regigigas,Crown Zenith,113,Ultra-Rare Rare,Colorless
+486,Regigigas,Crown Zenith,114,Rare VSTAR,Colorless
+492,Shaymin,Crown Zenith,115,Uncommon,Colorless
+508,Stoutland,Crown Zenith,116,Ultra-Rare Rare,Colorless
+734,Yungoos,Crown Zenith,117,Common,Colorless
+735,Gumshoos,Crown Zenith,118,Rare,Colorless
+765,Oranguru,Crown Zenith,119,Rare,Colorless
+820,Greedent,Crown Zenith,120,Ultra-Rare Rare,Colorless
+831,Wooloo,Crown Zenith,121,Common,Colorless
+832,Dubwool,Crown Zenith,122,Rare,Colorless
+,Bea,Crown Zenith,123,Rare Holo,Supporter
+,Bede,Crown Zenith,124,Rare Holo,Supporter
+,Crushing Hammer,Crown Zenith,125,Uncommon,Item
+,Digging Duo,Crown Zenith,126,Uncommon,Supporter
+,Energy Retrieval,Crown Zenith,127,Common,Item
+,Energy Search,Crown Zenith,128,Common,Item
+,Energy Switch,Crown Zenith,129,Uncommon,Item
+,Friends in Hisui,Crown Zenith,130,Uncommon,Supporter
+,Friends in Sinnoh,Crown Zenith,131,Uncommon,Supporter
+,Great Ball,Crown Zenith,132,Uncommon,Item
+,Hop,Crown Zenith,133,Rare Holo,Supporter
+,Leon,Crown Zenith,134,Rare Holo,Supporter
+,Lost Vacuum,Crown Zenith,135,Uncommon,Item
+,Nessa,Crown Zenith,136,Rare Holo,Supporter
+,Poké Ball,Crown Zenith,137,Common,Item
+,Pokémon Catcher,Crown Zenith,138,Uncommon,Item
+,Potion,Crown Zenith,139,Common,Item
+,Raihan,Crown Zenith,140,Rare Holo,Supporter
+,Rare Candy,Crown Zenith,141,Uncommon,Item
+,Rescue Carrier,Crown Zenith,142,Uncommon,Item
+,Sky Seal Stone,Crown Zenith,143,Rare Holo,Item
+,Switch,Crown Zenith,144,Common,Item
+,Trekking Shoes,Crown Zenith,145,Uncommon,Item
+,Ultra Ball,Crown Zenith,146,Uncommon,Item
+,Elesa's Sparkle,Crown Zenith,147,Rare Ultra,Supporter
+,Friends in Hisui,Crown Zenith,148,Rare Ultra,Supporter
+,Friends in Sinnoh,Crown Zenith,149,Rare Ultra,Supporter
+,Professor's Research,Crown Zenith,150,Rare Ultra,Supporter
+,Volo,Crown Zenith,151,Rare Ultra,Supporter
+25,Pikachu,Crown Zenith,160,Rare Secret,Lightning

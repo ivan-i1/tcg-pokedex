@@ -48,6 +48,7 @@ export default function RootLayout() {
     <ThemeProvider value={navTheme(scheme)}>
       <Stack screenOptions={{ headerBackButtonDisplayMode: 'minimal' }}>
         <Stack.Screen name="index" options={{ title: t('home.title') }} />
+        <Stack.Screen name="coverage" options={{ title: t('coverage.title') }} />
         <Stack.Screen name="settings" options={{ title: t('settings.title') }} />
         <Stack.Screen name="about" options={{ title: t('about.title') }} />
       </Stack>

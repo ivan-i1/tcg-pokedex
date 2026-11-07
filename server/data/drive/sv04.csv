@@ -1,0 +1,267 @@
+dexNumber,name,setName,setNumber,rarity,type
+283,Surskit,Paradox Rift,001,Common,Grass
+284,Masquerain,Paradox Rift,002,Uncommon,Grass
+478,Froslass,Paradox Rift,003,Double Rare,Grass
+511,Pansage,Paradox Rift,004,Common,Grass
+512,Simisage,Paradox Rift,005,Uncommon,Grass
+557,Dwebble,Paradox Rift,006,Common,Grass
+558,Crustle,Paradox Rift,007,Common,Grass
+761,Bounsweet,Paradox Rift,008,Common,Grass
+762,Steenee,Paradox Rift,009,Uncommon,Grass
+824,Blipbug,Paradox Rift,010,Common,Grass
+825,Dottler,Paradox Rift,011,Common,Grass
+826,Orbeetle,Paradox Rift,012,Uncommon,Grass
+919,Nymble,Paradox Rift,013,Common,Grass
+919,Nymble,Paradox Rift,014,Common,Grass
+948,Toedscool,Paradox Rift,015,Common,Grass
+948,Toedscool,Paradox Rift,016,Common,Grass
+949,Toedscruel,Paradox Rift,017,Uncommon,Grass
+1001,Wo-Chien,Paradox Rift,018,Rare,Grass
+240,Magby,Paradox Rift,019,Common,Fire
+513,Pansear,Paradox Rift,020,Common,Fire
+514,Simisear,Paradox Rift,021,Uncommon,Fire
+721,Volcanion,Paradox Rift,022,Rare,Fire
+909,Fuecoco,Paradox Rift,023,Common,Fire
+910,Crocalor,Paradox Rift,024,Uncommon,Fire
+935,Charcadet,Paradox Rift,025,Common,Fire
+935,Charcadet,Paradox Rift,026,Common,Fire
+936,Armarouge,Paradox Rift,027,Double Rare,Fire
+994,Iron Moth,Paradox Rift,028,Rare,Fire
+1004,Chi-Yu,Paradox Rift,029,Rare,Fire
+116,Horsea,Paradox Rift,030,Common,Water
+117,Seadra,Paradox Rift,031,Common,Water
+230,Kingdra,Paradox Rift,032,Rare,Water
+223,Remoraid,Paradox Rift,033,Common,Water
+224,Octillery,Paradox Rift,034,Common,Water
+349,Feebas,Paradox Rift,035,Common,Water
+350,Milotic,Paradox Rift,036,Rare,Water
+361,Snorunt,Paradox Rift,037,Common,Water
+445,Garchomp,Paradox Rift,038,Double Rare,Water
+458,Mantyke,Paradox Rift,039,Common,Water
+484,Palkia,Paradox Rift,040,Rare,Water
+515,Panpour,Paradox Rift,041,Common,Water
+516,Simipour,Paradox Rift,042,Uncommon,Water
+582,Vanillite,Paradox Rift,043,Common,Water
+583,Vanillish,Paradox Rift,044,Common,Water
+584,Vanilluxe,Paradox Rift,045,Uncommon,Water
+763,Tsareena,Paradox Rift,046,Double Rare,Water
+767,Wimpod,Paradox Rift,047,Common,Water
+767,Wimpod,Paradox Rift,048,Common,Water
+768,Golisopod,Paradox Rift,049,Rare,Water
+768,Golisopod,Paradox Rift,050,Double Rare,Water
+960,Wiglett,Paradox Rift,051,Common,Water
+960,Wiglett,Paradox Rift,052,Common,Water
+961,Wugtrio,Paradox Rift,053,Uncommon,Water
+976,Veluza,Paradox Rift,054,Uncommon,Water
+977,Dondozo,Paradox Rift,055,Uncommon,Water
+991,Iron Bundle,Paradox Rift,056,Uncommon,Water
+1002,Chien-Pao,Paradox Rift,057,Rare,Water
+150,Mewtwo,Paradox Rift,058,Double Rare,Lightning
+239,Elekid,Paradox Rift,059,Common,Lightning
+311,Plusle,Paradox Rift,060,Common,Lightning
+312,Minun,Paradox Rift,061,Common,Lightning
+522,Blitzle,Paradox Rift,062,Common,Lightning
+523,Zebstrika,Paradox Rift,063,Uncommon,Lightning
+595,Joltik,Paradox Rift,064,Common,Lightning
+596,Galvantula,Paradox Rift,065,Common,Lightning
+644,Zekrom,Paradox Rift,066,Rare,Lightning
+741,Oricorio,Paradox Rift,067,Common,Lightning
+785,Tapu Koko,Paradox Rift,068,Double Rare,Lightning
+848,Toxel,Paradox Rift,069,Common,Lightning
+992,Iron Hands,Paradox Rift,070,Double Rare,Lightning
+177,Natu,Paradox Rift,071,Common,Psychic
+178,Xatu,Paradox Rift,072,Rare,Psychic
+381,Latios,Paradox Rift,073,Rare,Psychic
+386,Deoxys,Paradox Rift,074,Rare,Psychic
+562,Yamask,Paradox Rift,075,Common,Psychic
+563,Cofagrigus,Paradox Rift,076,Double Rare,Psychic
+710,Pumpkaboo,Paradox Rift,077,Common,Psychic
+711,Gourgeist,Paradox Rift,078,Uncommon,Psychic
+955,Flittle,Paradox Rift,079,Common,Psychic
+955,Flittle,Paradox Rift,080,Common,Psychic
+956,Espathra,Paradox Rift,081,Rare,Psychic
+957,Tinkatink,Paradox Rift,082,Common,Psychic
+957,Tinkatink,Paradox Rift,083,Common,Psychic
+958,Tinkatuff,Paradox Rift,084,Common,Psychic
+959,Tinkaton,Paradox Rift,085,Uncommon,Psychic
+985,Scream Tail,Paradox Rift,086,Uncommon,Psychic
+999,Gimmighoul,Paradox Rift,087,Common,Psychic
+999,Gimmighoul,Paradox Rift,088,Common,Psychic
+1006,Iron Valiant,Paradox Rift,089,Double Rare,Psychic
+95,Onix,Paradox Rift,090,Common,Fighting
+207,Gligar,Paradox Rift,091,Common,Fighting
+472,Gliscor,Paradox Rift,092,Uncommon,Fighting
+383,Groudon,Paradox Rift,093,Rare,Fighting
+443,Gible,Paradox Rift,094,Common,Fighting
+444,Gabite,Paradox Rift,095,Common,Fighting
+619,Mienfoo,Paradox Rift,096,Common,Fighting
+620,Mienshao,Paradox Rift,097,Uncommon,Fighting
+720,Hoopa,Paradox Rift,098,Double Rare,Fighting
+774,Minior,Paradox Rift,099,Uncommon,Fighting
+849,Toxtricity,Paradox Rift,100,Double Rare,Fighting
+932,Nacli,Paradox Rift,101,Common,Fighting
+932,Nacli,Paradox Rift,102,Common,Fighting
+933,Naclstack,Paradox Rift,103,Common,Fighting
+934,Garganacl,Paradox Rift,104,Rare,Fighting
+950,Klawf,Paradox Rift,105,Uncommon,Fighting
+973,Flamigo,Paradox Rift,106,Common,Fighting
+988,Slither Wing,Paradox Rift,107,Uncommon,Fighting
+989,Sandy Shocks,Paradox Rift,108,Double Rare,Fighting
+1003,Ting-Lu,Paradox Rift,109,Rare,Fighting
+41,Zubat,Paradox Rift,110,Common,Darkness
+42,Golbat,Paradox Rift,111,Common,Darkness
+169,Crobat,Paradox Rift,112,Uncommon,Darkness
+359,Absol,Paradox Rift,113,Uncommon,Darkness
+509,Purrloin,Paradox Rift,114,Common,Darkness
+510,Liepard,Paradox Rift,115,Common,Darkness
+568,Trubbish,Paradox Rift,116,Common,Darkness
+569,Garbodor,Paradox Rift,117,Uncommon,Darkness
+717,Yveltal,Paradox Rift,118,Rare,Darkness
+827,Nickit,Paradox Rift,119,Common,Darkness
+828,Thievul,Paradox Rift,120,Rare,Darkness
+877,Morpeko,Paradox Rift,121,Rare,Darkness
+920,Lokix,Paradox Rift,122,Rare,Darkness
+986,Brute Bonnet,Paradox Rift,123,Rare,Darkness
+1005,Roaring Moon,Paradox Rift,124,Double Rare,Darkness
+208,Steelix,Paradox Rift,125,Rare,Metal
+385,Jirachi,Paradox Rift,126,Common,Metal
+597,Ferroseed,Paradox Rift,127,Common,Metal
+598,Ferrothorn,Paradox Rift,128,Uncommon,Metal
+632,Durant,Paradox Rift,129,Uncommon,Metal
+679,Honedge,Paradox Rift,130,Common,Metal
+679,Honedge,Paradox Rift,131,Common,Metal
+680,Doublade,Paradox Rift,132,Common,Metal
+680,Doublade,Paradox Rift,133,Common,Metal
+681,Aegislash,Paradox Rift,134,Rare,Metal
+681,Aegislash,Paradox Rift,135,Double Rare,Metal
+888,Zacian,Paradox Rift,136,Rare,Metal
+911,Skeledirge,Paradox Rift,137,Double Rare,Metal
+968,Orthworm,Paradox Rift,138,Uncommon,Metal
+1000,Gholdengo,Paradox Rift,139,Double Rare,Metal
+334,Altaria,Paradox Rift,140,Double Rare,Dragon
+978,Tatsugiri,Paradox Rift,141,Uncommon,Dragon
+137,Porygon,Paradox Rift,142,Common,Colorless
+233,Porygon2,Paradox Rift,143,Common,Colorless
+474,Porygon-Z,Paradox Rift,144,Rare,Colorless
+190,Aipom,Paradox Rift,145,Common,Colorless
+424,Ambipom,Paradox Rift,146,Uncommon,Colorless
+241,Miltank,Paradox Rift,147,Common,Colorless
+293,Whismur,Paradox Rift,148,Common,Colorless
+294,Loudred,Paradox Rift,149,Common,Colorless
+295,Exploud,Paradox Rift,150,Uncommon,Colorless
+327,Spinda,Paradox Rift,151,Common,Colorless
+333,Swablu,Paradox Rift,152,Common,Colorless
+924,Tandemaus,Paradox Rift,153,Common,Colorless
+924,Tandemaus,Paradox Rift,154,Common,Colorless
+925,Maushold,Paradox Rift,155,Double Rare,Colorless
+962,Bombirdier,Paradox Rift,156,Double Rare,Colorless
+967,Cyclizar,Paradox Rift,157,Uncommon,Colorless
+993,Iron Jugulis,Paradox Rift,158,Rare,Colorless
+,Ancient Booster Energy Capsule,Paradox Rift,159,Uncommon,Tool
+,Counter Catcher,Paradox Rift,160,Uncommon,Item
+,Cursed Duster,Paradox Rift,161,Uncommon,Tool
+,Defiance Vest,Paradox Rift,162,Uncommon,Tool
+,Earthen Vessel,Paradox Rift,163,Uncommon,Item
+,Future Booster Energy Capsule,Paradox Rift,164,Uncommon,Tool
+,Larry,Paradox Rift,165,Common,Supporter
+,Luxurious Cape,Paradox Rift,166,Uncommon,Tool
+,Mela,Paradox Rift,167,Uncommon,Supporter
+,Norman,Paradox Rift,168,Uncommon,Supporter
+,Parasol Lady,Paradox Rift,169,Common,Supporter
+,Professor Sada's Vitality,Paradox Rift,170,Uncommon,Supporter
+,Professor Turo's Scenario,Paradox Rift,171,Uncommon,Supporter
+,Rika,Paradox Rift,172,Uncommon,Supporter
+,Roark,Paradox Rift,173,Uncommon,Supporter
+,Shauntal,Paradox Rift,174,Uncommon,Supporter
+,Snorlax Doll,Paradox Rift,175,Uncommon,Item
+,Technical Machine: Blindside,Paradox Rift,176,Uncommon,Tool
+,Technical Machine: Devolution,Paradox Rift,177,Uncommon,Tool
+,Technical Machine: Evolution,Paradox Rift,178,Uncommon,Tool
+,Technical Machine: Turbo Energize,Paradox Rift,179,Uncommon,Tool
+,Techno Radar,Paradox Rift,180,Uncommon,Item
+,Tulip,Paradox Rift,181,Uncommon,Supporter
+,Medical Energy,Paradox Rift,182,Uncommon,Energy
+558,Crustle,Paradox Rift,183,Illustration Rare,Grass
+825,Dottler,Paradox Rift,184,Illustration Rare,Grass
+949,Toedscruel,Paradox Rift,185,Illustration Rare,Grass
+240,Magby,Paradox Rift,186,Illustration Rare,Fire
+994,Iron Moth,Paradox Rift,187,Illustration Rare,Fire
+361,Snorunt,Paradox Rift,188,Illustration Rare,Water
+458,Mantyke,Paradox Rift,189,Illustration Rare,Water
+583,Vanillish,Paradox Rift,190,Illustration Rare,Water
+767,Wimpod,Paradox Rift,191,Illustration Rare,Water
+976,Veluza,Paradox Rift,192,Illustration Rare,Water
+311,Plusle,Paradox Rift,193,Illustration Rare,Lightning
+312,Minun,Paradox Rift,194,Illustration Rare,Lightning
+522,Blitzle,Paradox Rift,195,Illustration Rare,Lightning
+595,Joltik,Paradox Rift,196,Illustration Rare,Lightning
+956,Espathra,Paradox Rift,197,Illustration Rare,Psychic
+999,Gimmighoul,Paradox Rift,198,Illustration Rare,Psychic
+383,Groudon,Paradox Rift,199,Illustration Rare,Fighting
+620,Mienshao,Paradox Rift,200,Illustration Rare,Fighting
+774,Minior,Paradox Rift,201,Illustration Rare,Fighting
+934,Garganacl,Paradox Rift,202,Illustration Rare,Fighting
+988,Slither Wing,Paradox Rift,203,Illustration Rare,Fighting
+569,Garbodor,Paradox Rift,204,Illustration Rare,Darkness
+717,Yveltal,Paradox Rift,205,Illustration Rare,Darkness
+877,Morpeko,Paradox Rift,206,Illustration Rare,Darkness
+986,Brute Bonnet,Paradox Rift,207,Illustration Rare,Darkness
+208,Steelix,Paradox Rift,208,Illustration Rare,Metal
+598,Ferrothorn,Paradox Rift,209,Illustration Rare,Metal
+681,Aegislash,Paradox Rift,210,Illustration Rare,Metal
+190,Aipom,Paradox Rift,211,Illustration Rare,Colorless
+294,Loudred,Paradox Rift,212,Illustration Rare,Colorless
+333,Swablu,Paradox Rift,213,Illustration Rare,Colorless
+474,Porygon-Z,Paradox Rift,214,Illustration Rare,Colorless
+967,Cyclizar,Paradox Rift,215,Illustration Rare,Colorless
+993,Iron Jugulis,Paradox Rift,216,Illustration Rare,Colorless
+478,Froslass,Paradox Rift,217,Ultra Rare,Grass
+936,Armarouge,Paradox Rift,218,Ultra Rare,Fire
+445,Garchomp,Paradox Rift,219,Ultra Rare,Water
+763,Tsareena,Paradox Rift,220,Ultra Rare,Water
+768,Golisopod,Paradox Rift,221,Ultra Rare,Water
+785,Tapu Koko,Paradox Rift,222,Ultra Rare,Lightning
+992,Iron Hands,Paradox Rift,223,Ultra Rare,Lightning
+563,Cofagrigus,Paradox Rift,224,Ultra Rare,Psychic
+1006,Iron Valiant,Paradox Rift,225,Ultra Rare,Psychic
+720,Hoopa,Paradox Rift,226,Ultra Rare,Fighting
+849,Toxtricity,Paradox Rift,227,Ultra Rare,Fighting
+989,Sandy Shocks,Paradox Rift,228,Ultra Rare,Fighting
+1005,Roaring Moon,Paradox Rift,229,Ultra Rare,Darkness
+681,Aegislash,Paradox Rift,230,Ultra Rare,Metal
+1000,Gholdengo,Paradox Rift,231,Ultra Rare,Metal
+334,Altaria,Paradox Rift,232,Ultra Rare,Dragon
+925,Maushold,Paradox Rift,233,Ultra Rare,Colorless
+962,Bombirdier,Paradox Rift,234,Ultra Rare,Colorless
+,Larry,Paradox Rift,235,Ultra Rare,Supporter
+,Mela,Paradox Rift,236,Ultra Rare,Supporter
+,Norman,Paradox Rift,237,Ultra Rare,Supporter
+,Parasol Lady,Paradox Rift,238,Ultra Rare,Supporter
+,Professor Sada's Vitality,Paradox Rift,239,Ultra Rare,Supporter
+,Professor Turo's Scenario,Paradox Rift,240,Ultra Rare,Supporter
+,Rika,Paradox Rift,241,Ultra Rare,Supporter
+,Roark,Paradox Rift,242,Ultra Rare,Supporter
+,Shauntal,Paradox Rift,243,Ultra Rare,Supporter
+,Tulip,Paradox Rift,244,Ultra Rare,Supporter
+445,Garchomp,Paradox Rift,245,Special Illustration Rare,Water
+768,Golisopod,Paradox Rift,246,Special Illustration Rare,Water
+785,Tapu Koko,Paradox Rift,247,Special Illustration Rare,Lightning
+992,Iron Hands,Paradox Rift,248,Special Illustration Rare,Lightning
+1006,Iron Valiant,Paradox Rift,249,Special Illustration Rare,Psychic
+989,Sandy Shocks,Paradox Rift,250,Special Illustration Rare,Fighting
+1005,Roaring Moon,Paradox Rift,251,Special Illustration Rare,Darkness
+1000,Gholdengo,Paradox Rift,252,Special Illustration Rare,Metal
+334,Altaria,Paradox Rift,253,Special Illustration Rare,Dragon
+,Mela,Paradox Rift,254,Special Illustration Rare,Supporter
+,Parasol Lady,Paradox Rift,255,Special Illustration Rare,Supporter
+,Professor Sada's Vitality,Paradox Rift,256,Special Illustration Rare,Supporter
+,Professor Turo's Scenario,Paradox Rift,257,Special Illustration Rare,Supporter
+,Rika,Paradox Rift,258,Special Illustration Rare,Supporter
+,Tulip,Paradox Rift,259,Special Illustration Rare,Supporter
+445,Garchomp,Paradox Rift,260,Hyper Rare,Water
+1006,Iron Valiant,Paradox Rift,261,Hyper Rare,Psychic
+1005,Roaring Moon,Paradox Rift,262,Hyper Rare,Darkness
+,Beach Court,Paradox Rift,263,Hyper Rare,Stadium
+,Counter Catcher,Paradox Rift,264,Hyper Rare,Item
+,Luxurious Cape,Paradox Rift,265,Hyper Rare,Tool
+,Reversal Energy,Paradox Rift,266,Hyper Rare,Energy

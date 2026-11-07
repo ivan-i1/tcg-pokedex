@@ -1,0 +1,208 @@
+dexNumber,name,setName,setNumber,rarity,type
+1,Bulbasaur,151,001,Common,Grass
+2,Ivysaur,151,002,Uncommon,Grass
+3,Venusaur,151,003,Double Rare,Grass
+4,Charmander,151,004,Common,Fire
+5,Charmeleon,151,005,Uncommon,Fire
+6,Charizard,151,006,Double Rare,Fire
+7,Squirtle,151,007,Common,Water
+8,Wartortle,151,008,Uncommon,Water
+9,Blastoise,151,009,Double Rare,Water
+10,Caterpie,151,010,Common,Grass
+11,Metapod,151,011,Common,Grass
+12,Butterfree,151,012,Uncommon,Grass
+13,Weedle,151,013,Common,Grass
+14,Kakuna,151,014,Common,Grass
+15,Beedrill,151,015,Rare,Grass
+16,Pidgey,151,016,Common,Colorless
+17,Pidgeotto,151,017,Common,Colorless
+18,Pidgeot,151,018,Uncommon,Colorless
+19,Rattata,151,019,Common,Colorless
+20,Raticate,151,020,Uncommon,Colorless
+21,Spearow,151,021,Common,Colorless
+22,Fearow,151,022,Uncommon,Colorless
+23,Ekans,151,023,Common,Darkness
+24,Arbok,151,024,Double Rare,Darkness
+25,Pikachu,151,025,Common,Lightning
+26,Raichu,151,026,Rare,Lightning
+27,Sandshrew,151,027,Common,Fighting
+28,Sandslash,151,028,Uncommon,Fighting
+29,Nidoran♀,151,029,Common,Darkness
+30,Nidorina,151,030,Uncommon,Darkness
+31,Nidoqueen,151,031,Uncommon,Darkness
+32,Nidoran♂,151,032,Common,Darkness
+33,Nidorino,151,033,Uncommon,Darkness
+34,Nidoking,151,034,Rare,Darkness
+35,Clefairy,151,035,Common,Psychic
+36,Clefable,151,036,Uncommon,Psychic
+37,Vulpix,151,037,Common,Fire
+38,Ninetales,151,038,Double Rare,Fire
+39,Jigglypuff,151,039,Common,Colorless
+40,Wigglytuff,151,040,Double Rare,Colorless
+41,Zubat,151,041,Common,Darkness
+42,Golbat,151,042,Uncommon,Darkness
+43,Oddish,151,043,Common,Grass
+44,Gloom,151,044,Uncommon,Grass
+45,Vileplume,151,045,Rare,Grass
+46,Paras,151,046,Common,Grass
+47,Parasect,151,047,Uncommon,Grass
+48,Venonat,151,048,Common,Grass
+49,Venomoth,151,049,Uncommon,Grass
+50,Diglett,151,050,Common,Fighting
+51,Dugtrio,151,051,Uncommon,Fighting
+52,Meowth,151,052,Common,Colorless
+53,Persian,151,053,Uncommon,Colorless
+54,Psyduck,151,054,Common,Water
+55,Golduck,151,055,Uncommon,Water
+56,Mankey,151,056,Common,Fighting
+57,Primeape,151,057,Uncommon,Fighting
+58,Growlithe,151,058,Common,Fire
+59,Arcanine,151,059,Uncommon,Fire
+60,Poliwag,151,060,Common,Water
+61,Poliwhirl,151,061,Common,Water
+62,Poliwrath,151,062,Uncommon,Water
+63,Abra,151,063,Common,Psychic
+64,Kadabra,151,064,Uncommon,Psychic
+65,Alakazam,151,065,Double Rare,Psychic
+66,Machop,151,066,Common,Fighting
+67,Machoke,151,067,Uncommon,Fighting
+68,Machamp,151,068,Rare,Fighting
+69,Bellsprout,151,069,Common,Grass
+70,Weepinbell,151,070,Common,Grass
+71,Victreebel,151,071,Uncommon,Grass
+72,Tentacool,151,072,Common,Water
+73,Tentacruel,151,073,Uncommon,Water
+74,Geodude,151,074,Common,Fighting
+75,Graveler,151,075,Uncommon,Fighting
+76,Golem,151,076,Double Rare,Fighting
+77,Ponyta,151,077,Common,Fire
+78,Rapidash,151,078,Uncommon,Fire
+79,Slowpoke,151,079,Common,Psychic
+80,Slowbro,151,080,Uncommon,Psychic
+81,Magnemite,151,081,Common,Lightning
+82,Magneton,151,082,Uncommon,Lightning
+83,Farfetch'd,151,083,Common,Colorless
+84,Doduo,151,084,Common,Colorless
+85,Dodrio,151,085,Rare,Colorless
+86,Seel,151,086,Common,Water
+87,Dewgong,151,087,Uncommon,Water
+88,Grimer,151,088,Common,Darkness
+89,Muk,151,089,Uncommon,Darkness
+90,Shellder,151,090,Common,Water
+91,Cloyster,151,091,Uncommon,Water
+92,Gastly,151,092,Common,Psychic
+93,Haunter,151,093,Uncommon,Psychic
+94,Gengar,151,094,Rare,Psychic
+95,Onix,151,095,Uncommon,Fighting
+96,Drowzee,151,096,Common,Psychic
+97,Hypno,151,097,Uncommon,Psychic
+98,Krabby,151,098,Common,Water
+99,Kingler,151,099,Uncommon,Water
+100,Voltorb,151,100,Common,Lightning
+101,Electrode,151,101,Rare,Lightning
+102,Exeggcute,151,102,Common,Grass
+103,Exeggutor,151,103,Uncommon,Grass
+104,Cubone,151,104,Common,Fighting
+105,Marowak,151,105,Rare,Fighting
+106,Hitmonlee,151,106,Uncommon,Fighting
+107,Hitmonchan,151,107,Uncommon,Fighting
+108,Lickitung,151,108,Common,Colorless
+109,Koffing,151,109,Common,Darkness
+110,Weezing,151,110,Rare,Darkness
+111,Rhyhorn,151,111,Common,Fighting
+112,Rhydon,151,112,Uncommon,Fighting
+113,Chansey,151,113,Rare,Colorless
+114,Tangela,151,114,Common,Grass
+115,Kangaskhan,151,115,Double Rare,Colorless
+116,Horsea,151,116,Common,Water
+117,Seadra,151,117,Uncommon,Water
+118,Goldeen,151,118,Common,Water
+119,Seaking,151,119,Uncommon,Water
+120,Staryu,151,120,Common,Water
+121,Starmie,151,121,Rare,Water
+122,Mr. Mime,151,122,Rare,Psychic
+123,Scyther,151,123,Uncommon,Grass
+124,Jynx,151,124,Double Rare,Water
+125,Electabuzz,151,125,Common,Lightning
+126,Magmar,151,126,Common,Fire
+127,Pinsir,151,127,Uncommon,Grass
+128,Tauros,151,128,Uncommon,Colorless
+129,Magikarp,151,129,Common,Water
+130,Gyarados,151,130,Rare,Water
+131,Lapras,151,131,Uncommon,Water
+132,Ditto,151,132,Rare,Colorless
+133,Eevee,151,133,Common,Colorless
+134,Vaporeon,151,134,Rare,Water
+135,Jolteon,151,135,Rare,Lightning
+136,Flareon,151,136,Rare,Fire
+137,Porygon,151,137,Common,Colorless
+138,Omanyte,151,138,Uncommon,Water
+139,Omastar,151,139,Rare,Water
+140,Kabuto,151,140,Uncommon,Fighting
+141,Kabutops,151,141,Rare,Fighting
+142,Aerodactyl,151,142,Rare,Colorless
+143,Snorlax,151,143,Uncommon,Colorless
+144,Articuno,151,144,Rare,Water
+145,Zapdos,151,145,Double Rare,Lightning
+146,Moltres,151,146,Rare,Fire
+147,Dratini,151,147,Common,Dragon
+148,Dragonair,151,148,Uncommon,Dragon
+149,Dragonite,151,149,Rare,Dragon
+150,Mewtwo,151,150,Rare,Psychic
+151,Mew,151,151,Double Rare,Psychic
+,Antique Dome Fossil,151,152,Common,Item
+,Antique Helix Fossil,151,153,Common,Item
+,Antique Old Amber,151,154,Common,Item
+,Big Air Balloon,151,155,Uncommon,Tool
+,Bill's Transfer,151,156,Uncommon,Supporter
+,Cycling Road,151,157,Uncommon,Stadium
+,Daisy's Help,151,158,Uncommon,Supporter
+,Energy Sticker,151,159,Uncommon,Item
+,Erika's Invitation,151,160,Uncommon,Supporter
+,Giovanni's Charisma,151,161,Uncommon,Supporter
+,Grabber,151,162,Uncommon,Item
+,Leftovers,151,163,Uncommon,Tool
+,Protective Goggles,151,164,Uncommon,Tool
+,Rigid Band,151,165,Uncommon,Tool
+1,Bulbasaur,151,166,Illustration Rare,Grass
+2,Ivysaur,151,167,Illustration Rare,Grass
+4,Charmander,151,168,Illustration Rare,Fire
+5,Charmeleon,151,169,Illustration Rare,Fire
+7,Squirtle,151,170,Illustration Rare,Water
+8,Wartortle,151,171,Illustration Rare,Water
+10,Caterpie,151,172,Illustration Rare,Grass
+25,Pikachu,151,173,Illustration Rare,Lightning
+34,Nidoking,151,174,Illustration Rare,Darkness
+54,Psyduck,151,175,Illustration Rare,Water
+61,Poliwhirl,151,176,Illustration Rare,Water
+67,Machoke,151,177,Illustration Rare,Fighting
+114,Tangela,151,178,Illustration Rare,Grass
+122,Mr. Mime,151,179,Illustration Rare,Psychic
+138,Omanyte,151,180,Illustration Rare,Water
+148,Dragonair,151,181,Illustration Rare,Dragon
+3,Venusaur,151,182,Ultra Rare,Grass
+6,Charizard,151,183,Ultra Rare,Fire
+9,Blastoise,151,184,Ultra Rare,Water
+24,Arbok,151,185,Ultra Rare,Darkness
+38,Ninetales,151,186,Ultra Rare,Fire
+40,Wigglytuff,151,187,Ultra Rare,Colorless
+65,Alakazam,151,188,Ultra Rare,Psychic
+76,Golem,151,189,Ultra Rare,Fighting
+115,Kangaskhan,151,190,Ultra Rare,Colorless
+124,Jynx,151,191,Ultra Rare,Water
+145,Zapdos,151,192,Ultra Rare,Lightning
+151,Mew,151,193,Ultra Rare,Psychic
+,Bill's Transfer,151,194,Ultra Rare,Supporter
+,Daisy's Help,151,195,Ultra Rare,Supporter
+,Erika's Invitation,151,196,Ultra Rare,Supporter
+,Giovanni's Charisma,151,197,Ultra Rare,Supporter
+3,Venusaur,151,198,Special Illustration Rare,Grass
+6,Charizard,151,199,Special Illustration Rare,Fire
+9,Blastoise,151,200,Special Illustration Rare,Water
+65,Alakazam,151,201,Special Illustration Rare,Psychic
+145,Zapdos,151,202,Special Illustration Rare,Lightning
+,Erika's Invitation,151,203,Special Illustration Rare,Supporter
+,Giovanni's Charisma,151,204,Special Illustration Rare,Supporter
+151,Mew,151,205,Hyper Rare,Psychic
+,Switch,151,206,Hyper Rare,Item
+,Basic Psychic Energy,151,207,Hyper Rare,Energy

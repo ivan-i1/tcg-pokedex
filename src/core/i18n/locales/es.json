@@ -12,7 +12,8 @@
     "title": "TCG Pokédex",
     "subtitle": "¿Qué expansiones, de la más nueva a la más antigua, completan una carta de cada Pokémon?",
     "settings": "Ajustes",
-    "about": "Acerca de"
+    "about": "Acerca de",
+    "coverage": "Expansiones a coleccionar"
   },
   "settings": {
     "title": "Ajustes",
@@ -28,5 +29,44 @@
     "version": "Versión {{version}}",
     "platform": "Plataforma: {{platform}}",
     "body": "Colecciona una carta de cada Pokémon. TCG Pokédex recorre las expansiones de la más nueva a la más antigua y te dice cuáles necesitas."
+  },
+  "coverage": {
+    "title": "Expansiones a coleccionar",
+    "notConfigured": "No hay servidor configurado. Define EXPO_PUBLIC_API_URL en .env.local.",
+    "error": "No se pudieron cargar las expansiones: {{message}}",
+    "summary_one": "{{covered}} de {{total}} Pokémon cubiertos con {{count}} expansión",
+    "summary_other": "{{covered}} de {{total}} Pokémon cubiertos con {{count}} expansiones",
+    "summary_many": "{{covered}} de {{total}} Pokémon cubiertos con {{count}} expansiones",
+    "explainer": "Las expansiones van de la más nueva a la más antigua. Solo se incluye una si añade Pokémon que las más nuevas no tienen.",
+    "released": "Publicada el {{date}}",
+    "newPokemon_one": "{{count}} Pokémon nuevo",
+    "newPokemon_other": "{{count}} Pokémon nuevos",
+    "newPokemon_many": "{{count}} Pokémon nuevos",
+    "missing_one": "{{count}} Pokémon aún sin expansión",
+    "missing_other": "{{count}} Pokémon aún sin expansión",
+    "missing_many": "{{count}} Pokémon aún sin expansión",
+    "options": "Opciones de vista",
+    "order": "Orden",
+    "packOrder": "Por expansión",
+    "pokemonOrder": "Por Pokémon",
+    "generation": "Generación {{gen}} · #{{from}}–#{{to}}",
+    "allPacks": "Todas las expansiones",
+    "showPokemonList": "Lista de Pokémon",
+    "showPackList": "Lista de expansiones",
+    "searchPokemon": "Buscar Pokémon",
+    "notInPack": "Sin expansión",
+    "filteredBy": "Solo {{pack}}. Toca para ver todo.",
+    "legend": "Contorno de rareza:",
+    "rarity": {
+      "common": "Común",
+      "uncommon": "Infrecuente",
+      "rare": "Rara",
+      "holo": "Holo",
+      "ultra": "Ultra (ex, V, VMAX, VSTAR)",
+      "illustration": "Ilustración",
+      "shiny": "Radiante / Asombrosa",
+      "rainbow": "Arcoíris",
+      "secret": "Secreta / Hiper"
+    }
   }
 }

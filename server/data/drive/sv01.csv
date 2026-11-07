@@ -1,0 +1,259 @@
+dexNumber,name,set,entryNumber,rarity,type
+204,Pineco,Scarlet & Violet,001,Common,Grass
+214,Heracross,Scarlet & Violet,002,Uncommon,Grass
+285,Shroomish,Scarlet & Violet,003,Common,Grass
+286,Breloom,Scarlet & Violet,004,Uncommon,Grass
+331,Cacnea,Scarlet & Violet,005,Common,Grass
+332,Cacturne,Scarlet & Violet,006,Uncommon,Grass
+357,Tropius,Scarlet & Violet,007,Common,Grass
+664,Scatterbug,Scarlet & Violet,008,Common,Grass
+665,Spewpa,Scarlet & Violet,009,Common,Grass
+666,Vivillon,Scarlet & Violet,010,Uncommon,Grass
+672,Skiddo,Scarlet & Violet,011,Common,Grass
+673,Gogoat,Scarlet & Violet,012,Common,Grass
+906,Sprigatito,Scarlet & Violet,013,Common,Grass
+907,Floragato,Scarlet & Violet,014,Uncommon,Grass
+908,Meowscarada,Scarlet & Violet,015,Rare,Grass
+917,Tarountula,Scarlet & Violet,016,Common,Grass
+917,Tarountula,Scarlet & Violet,017,Common,Grass
+917,Tarountula,Scarlet & Violet,018,Common,Grass
+918,Spidops,Scarlet & Violet,019,Double Rare,Grass
+928,Smoliv,Scarlet & Violet,020,Common,Grass
+928,Smoliv,Scarlet & Violet,021,Common,Grass
+929,Dolliv,Scarlet & Violet,022,Common,Grass
+930,Arboliva,Scarlet & Violet,023,Rare,Grass
+948,Toedscool,Scarlet & Violet,024,Common,Grass
+948,Toedscool,Scarlet & Violet,025,Common,Grass
+949,Toedscruel,Scarlet & Violet,026,Uncommon,Grass
+951,Capsakid,Scarlet & Violet,027,Common,Grass
+951,Capsakid,Scarlet & Violet,028,Common,Grass
+952,Scovillain,Scarlet & Violet,029,Uncommon,Grass
+58,Growlithe,Scarlet & Violet,030,Common,Fire
+58,Growlithe,Scarlet & Violet,031,Common,Fire
+59,Arcanine,Scarlet & Violet,032,Double Rare,Fire
+228,Houndour,Scarlet & Violet,033,Common,Fire
+229,Houndoom,Scarlet & Violet,034,Common,Fire
+324,Torkoal,Scarlet & Violet,035,Uncommon,Fire
+909,Fuecoco,Scarlet & Violet,036,Common,Fire
+910,Crocalor,Scarlet & Violet,037,Uncommon,Fire
+911,Skeledirge,Scarlet & Violet,038,Rare,Fire
+935,Charcadet,Scarlet & Violet,039,Common,Fire
+935,Charcadet,Scarlet & Violet,040,Common,Fire
+936,Armarouge,Scarlet & Violet,041,Rare,Fire
+79,Slowpoke,Scarlet & Violet,042,Common,Water
+80,Slowbro,Scarlet & Violet,043,Rare,Water
+129,Magikarp,Scarlet & Violet,044,Common,Water
+130,Gyarados,Scarlet & Violet,045,Double Rare,Water
+418,Buizel,Scarlet & Violet,046,Common,Water
+419,Floatzel,Scarlet & Violet,047,Uncommon,Water
+594,Alomomola,Scarlet & Violet,048,Common,Water
+692,Clauncher,Scarlet & Violet,049,Common,Water
+693,Clawitzer,Scarlet & Violet,050,Common,Water
+779,Bruxish,Scarlet & Violet,051,Common,Water
+912,Quaxly,Scarlet & Violet,052,Common,Water
+913,Quaxwell,Scarlet & Violet,053,Uncommon,Water
+914,Quaquaval,Scarlet & Violet,054,Rare,Water
+960,Wiglett,Scarlet & Violet,055,Common,Water
+960,Wiglett,Scarlet & Violet,056,Common,Water
+961,Wugtrio,Scarlet & Violet,057,Uncommon,Water
+974,Cetoddle,Scarlet & Violet,058,Common,Water
+974,Cetoddle,Scarlet & Violet,059,Common,Water
+975,Cetitan,Scarlet & Violet,060,Uncommon,Water
+977,Dondozo,Scarlet & Violet,061,Rare,Water
+978,Tatsugiri,Scarlet & Violet,062,Uncommon,Water
+81,Magnemite,Scarlet & Violet,063,Common,Lightning
+82,Magneton,Scarlet & Violet,064,Common,Lightning
+462,Magnezone,Scarlet & Violet,065,Double Rare,Lightning
+179,Mareep,Scarlet & Violet,066,Common,Lightning
+180,Flaaffy,Scarlet & Violet,067,Uncommon,Lightning
+417,Pachirisu,Scarlet & Violet,068,Uncommon,Lightning
+479,Rotom,Scarlet & Violet,069,Common,Lightning
+479,Rotom,Scarlet & Violet,070,Common,Lightning
+848,Toxel,Scarlet & Violet,071,Common,Lightning
+849,Toxtricity,Scarlet & Violet,072,Uncommon,Lightning
+921,Pawmi,Scarlet & Violet,073,Common,Lightning
+921,Pawmi,Scarlet & Violet,074,Common,Lightning
+922,Pawmo,Scarlet & Violet,075,Common,Lightning
+923,Pawmot,Scarlet & Violet,076,Rare,Lightning
+940,Wattrel,Scarlet & Violet,077,Common,Lightning
+940,Wattrel,Scarlet & Violet,078,Common,Lightning
+941,Kilowattrel,Scarlet & Violet,079,Uncommon,Lightning
+1008,Miraidon,Scarlet & Violet,080,Rare,Lightning
+1008,Miraidon,Scarlet & Violet,081,Double Rare,Lightning
+96,Drowzee,Scarlet & Violet,082,Common,Psychic
+97,Hypno,Scarlet & Violet,083,Uncommon,Psychic
+280,Ralts,Scarlet & Violet,084,Common,Psychic
+281,Kirlia,Scarlet & Violet,085,Common,Psychic
+282,Gardevoir,Scarlet & Violet,086,Double Rare,Psychic
+353,Shuppet,Scarlet & Violet,087,Common,Psychic
+354,Banette,Scarlet & Violet,088,Double Rare,Psychic
+425,Drifloon,Scarlet & Violet,089,Common,Psychic
+426,Drifblim,Scarlet & Violet,090,Uncommon,Psychic
+669,Flabébé,Scarlet & Violet,091,Common,Psychic
+670,Floette,Scarlet & Violet,092,Common,Psychic
+671,Florges,Scarlet & Violet,093,Uncommon,Psychic
+702,Dedenne,Scarlet & Violet,094,Common,Psychic
+702,Dedenne,Scarlet & Violet,095,Common,Psychic
+707,Klefki,Scarlet & Violet,096,Rare,Psychic
+926,Fidough,Scarlet & Violet,097,Common,Psychic
+926,Fidough,Scarlet & Violet,098,Common,Psychic
+927,Dachsbun,Scarlet & Violet,099,Uncommon,Psychic
+955,Flittle,Scarlet & Violet,100,Common,Psychic
+955,Flittle,Scarlet & Violet,101,Common,Psychic
+955,Flittle,Scarlet & Violet,102,Common,Psychic
+956,Espathra,Scarlet & Violet,103,Uncommon,Psychic
+971,Greavard,Scarlet & Violet,104,Common,Psychic
+971,Greavard,Scarlet & Violet,105,Common,Psychic
+972,Houndstone,Scarlet & Violet,106,Rare,Psychic
+56,Mankey,Scarlet & Violet,107,Common,Fighting
+57,Primeape,Scarlet & Violet,108,Common,Fighting
+979,Annihilape,Scarlet & Violet,109,Rare,Fighting
+307,Meditite,Scarlet & Violet,110,Common,Fighting
+308,Medicham,Scarlet & Violet,111,Uncommon,Fighting
+447,Riolu,Scarlet & Violet,112,Common,Fighting
+447,Riolu,Scarlet & Violet,113,Common,Fighting
+448,Lucario,Scarlet & Violet,114,Uncommon,Fighting
+551,Sandile,Scarlet & Violet,115,Common,Fighting
+552,Krokorok,Scarlet & Violet,116,Common,Fighting
+553,Krookodile,Scarlet & Violet,117,Uncommon,Fighting
+701,Hawlucha,Scarlet & Violet,118,Rare,Fighting
+843,Silicobra,Scarlet & Violet,119,Common,Fighting
+844,Sandaconda,Scarlet & Violet,120,Uncommon,Fighting
+874,Stonjourner,Scarlet & Violet,121,Uncommon,Fighting
+950,Klawf,Scarlet & Violet,122,Rare,Fighting
+984,Great Tusk,Scarlet & Violet,123,Double Rare,Fighting
+1007,Koraidon,Scarlet & Violet,124,Rare,Fighting
+1007,Koraidon,Scarlet & Violet,125,Double Rare,Fighting
+88,Grimer,Scarlet & Violet,126,Common,Darkness
+89,Muk,Scarlet & Violet,127,Uncommon,Darkness
+336,Seviper,Scarlet & Violet,128,Common,Darkness
+442,Spiritomb,Scarlet & Violet,129,Uncommon,Darkness
+453,Croagunk,Scarlet & Violet,130,Common,Darkness
+454,Toxicroak,Scarlet & Violet,131,Double Rare,Darkness
+624,Pawniard,Scarlet & Violet,132,Common,Darkness
+625,Bisharp,Scarlet & Violet,133,Common,Darkness
+983,Kingambit,Scarlet & Violet,134,Rare,Darkness
+942,Maschiff,Scarlet & Violet,135,Common,Darkness
+942,Maschiff,Scarlet & Violet,136,Common,Darkness
+943,Mabosstiff,Scarlet & Violet,137,Uncommon,Darkness
+962,Bombirdier,Scarlet & Violet,138,Uncommon,Darkness
+205,Forretress,Scarlet & Violet,139,Uncommon,Metal
+965,Varoom,Scarlet & Violet,140,Common,Metal
+965,Varoom,Scarlet & Violet,141,Common,Metal
+966,Revavroom,Scarlet & Violet,142,Rare,Metal
+990,Iron Treads,Scarlet & Violet,143,Double Rare,Metal
+113,Chansey,Scarlet & Violet,144,Common,Colorless
+242,Blissey,Scarlet & Violet,145,Uncommon,Colorless
+335,Zangoose,Scarlet & Violet,146,Common,Colorless
+335,Zangoose,Scarlet & Violet,147,Uncommon,Colorless
+396,Starly,Scarlet & Violet,148,Common,Colorless
+397,Staravia,Scarlet & Violet,149,Common,Colorless
+398,Staraptor,Scarlet & Violet,150,Uncommon,Colorless
+819,Skwovet,Scarlet & Violet,151,Common,Colorless
+820,Greedent,Scarlet & Violet,152,Uncommon,Colorless
+876,Indeedee,Scarlet & Violet,153,Rare,Colorless
+915,Lechonk,Scarlet & Violet,154,Common,Colorless
+915,Lechonk,Scarlet & Violet,155,Common,Colorless
+915,Lechonk,Scarlet & Violet,156,Common,Colorless
+916,Oinkologne,Scarlet & Violet,157,Uncommon,Colorless
+916,Oinkologne,Scarlet & Violet,158,Double Rare,Colorless
+924,Tandemaus,Scarlet & Violet,159,Common,Colorless
+924,Tandemaus,Scarlet & Violet,160,Common,Colorless
+925,Maushold,Scarlet & Violet,161,Uncommon,Colorless
+931,Squawkabilly,Scarlet & Violet,162,Common,Colorless
+967,Cyclizar,Scarlet & Violet,163,Uncommon,Colorless
+967,Cyclizar,Scarlet & Violet,164,Rare,Colorless
+973,Flamigo,Scarlet & Violet,165,Uncommon,Colorless
+,Arven,Scarlet & Violet,166,Uncommon,Supporter
+,Beach Court,Scarlet & Violet,167,Uncommon,Stadium
+,Crushing Hammer,Scarlet & Violet,168,Common,Item
+,Defiance Band,Scarlet & Violet,169,Uncommon,Tool
+,Electric Generator,Scarlet & Violet,170,Uncommon,Item
+,Energy Retrieval,Scarlet & Violet,171,Common,Item
+,Energy Search,Scarlet & Violet,172,Common,Item
+,Energy Switch,Scarlet & Violet,173,Common,Item
+,Exp. Share,Scarlet & Violet,174,Uncommon,Tool
+,Jacq,Scarlet & Violet,175,Uncommon,Supporter
+,Judge,Scarlet & Violet,176,Uncommon,Supporter
+,Katy,Scarlet & Violet,177,Uncommon,Supporter
+,Mesagoza,Scarlet & Violet,178,Uncommon,Stadium
+,Miriam,Scarlet & Violet,179,Uncommon,Supporter
+,Nemona,Scarlet & Violet,180,Common,Supporter
+,Nest Ball,Scarlet & Violet,181,Uncommon,Item
+,Pal Pad,Scarlet & Violet,182,Common,Item
+,Penny,Scarlet & Violet,183,Uncommon,Supporter
+,Picnic Basket,Scarlet & Violet,184,Uncommon,Item
+,Poké Ball,Scarlet & Violet,185,Common,Item
+,Pokégear 3.0,Scarlet & Violet,186,Common,Item
+,Pokémon Catcher,Scarlet & Violet,187,Common,Item
+,Potion,Scarlet & Violet,188,Common,Item
+,Professor's Research,Scarlet & Violet,189,Rare,Supporter
+,Professor's Research,Scarlet & Violet,190,Rare,Supporter
+,Rare Candy,Scarlet & Violet,191,Common,Item
+,Rock Chestplate,Scarlet & Violet,192,Uncommon,Tool
+,Rocky Helmet,Scarlet & Violet,193,Uncommon,Tool
+,Switch,Scarlet & Violet,194,Common,Item
+,Team Star Grunt,Scarlet & Violet,195,Uncommon,Supporter
+,Ultra Ball,Scarlet & Violet,196,Uncommon,Item
+,Vitality Band,Scarlet & Violet,197,Uncommon,Tool
+,Youngster,Scarlet & Violet,198,Uncommon,Supporter
+917,Tarountula,Scarlet & Violet,199,Illustration Rare,Grass
+929,Dolliv,Scarlet & Violet,200,Illustration Rare,Grass
+948,Toedscool,Scarlet & Violet,201,Illustration Rare,Grass
+952,Scovillain,Scarlet & Violet,202,Illustration Rare,Grass
+936,Armarouge,Scarlet & Violet,203,Illustration Rare,Fire
+79,Slowpoke,Scarlet & Violet,204,Illustration Rare,Water
+692,Clauncher,Scarlet & Violet,205,Illustration Rare,Water
+960,Wiglett,Scarlet & Violet,206,Illustration Rare,Water
+977,Dondozo,Scarlet & Violet,207,Illustration Rare,Water
+417,Pachirisu,Scarlet & Violet,208,Illustration Rare,Lightning
+923,Pawmot,Scarlet & Violet,209,Illustration Rare,Lightning
+96,Drowzee,Scarlet & Violet,210,Illustration Rare,Psychic
+280,Ralts,Scarlet & Violet,211,Illustration Rare,Psychic
+281,Kirlia,Scarlet & Violet,212,Illustration Rare,Psychic
+926,Fidough,Scarlet & Violet,213,Illustration Rare,Psychic
+971,Greavard,Scarlet & Violet,214,Illustration Rare,Psychic
+447,Riolu,Scarlet & Violet,215,Illustration Rare,Fighting
+551,Sandile,Scarlet & Violet,216,Illustration Rare,Fighting
+950,Klawf,Scarlet & Violet,217,Illustration Rare,Fighting
+943,Mabosstiff,Scarlet & Violet,218,Illustration Rare,Darkness
+962,Bombirdier,Scarlet & Violet,219,Illustration Rare,Darkness
+983,Kingambit,Scarlet & Violet,220,Illustration Rare,Darkness
+396,Starly,Scarlet & Violet,221,Illustration Rare,Colorless
+819,Skwovet,Scarlet & Violet,222,Illustration Rare,Colorless
+918,Spidops,Scarlet & Violet,223,Ultra Rare,Grass
+59,Arcanine,Scarlet & Violet,224,Ultra Rare,Fire
+130,Gyarados,Scarlet & Violet,225,Ultra Rare,Water
+462,Magnezone,Scarlet & Violet,226,Ultra Rare,Lightning
+1008,Miraidon,Scarlet & Violet,227,Ultra Rare,Lightning
+282,Gardevoir,Scarlet & Violet,228,Ultra Rare,Psychic
+354,Banette,Scarlet & Violet,229,Ultra Rare,Psychic
+984,Great Tusk,Scarlet & Violet,230,Ultra Rare,Fighting
+1007,Koraidon,Scarlet & Violet,231,Ultra Rare,Fighting
+454,Toxicroak,Scarlet & Violet,232,Ultra Rare,Darkness
+990,Iron Treads,Scarlet & Violet,233,Ultra Rare,Metal
+916,Oinkologne,Scarlet & Violet,234,Ultra Rare,Colorless
+,Arven,Scarlet & Violet,235,Ultra Rare,Supporter
+,Jacq,Scarlet & Violet,236,Ultra Rare,Supporter
+,Katy,Scarlet & Violet,237,Ultra Rare,Supporter
+,Miriam,Scarlet & Violet,238,Ultra Rare,Supporter
+,Penny,Scarlet & Violet,239,Ultra Rare,Supporter
+,Professor's Research,Scarlet & Violet,240,Ultra Rare,Supporter
+,Professor's Research,Scarlet & Violet,241,Ultra Rare,Supporter
+,Team Star Grunt,Scarlet & Violet,242,Ultra Rare,Supporter
+918,Spidops,Scarlet & Violet,243,Special Illustration Rare,Grass
+1008,Miraidon,Scarlet & Violet,244,Special Illustration Rare,Lightning
+282,Gardevoir,Scarlet & Violet,245,Special Illustration Rare,Psychic
+984,Great Tusk,Scarlet & Violet,246,Special Illustration Rare,Fighting
+1007,Koraidon,Scarlet & Violet,247,Special Illustration Rare,Fighting
+990,Iron Treads,Scarlet & Violet,248,Special Illustration Rare,Metal
+,Arven,Scarlet & Violet,249,Special Illustration Rare,Supporter
+,Jacq,Scarlet & Violet,250,Special Illustration Rare,Supporter
+,Miriam,Scarlet & Violet,251,Special Illustration Rare,Supporter
+,Penny,Scarlet & Violet,252,Special Illustration Rare,Supporter
+1008,Miraidon,Scarlet & Violet,253,Hyper Rare,Lightning
+1007,Koraidon,Scarlet & Violet,254,Hyper Rare,Fighting
+,Nest Ball,Scarlet & Violet,255,Hyper Rare,Item
+,Rare Candy,Scarlet & Violet,256,Hyper Rare,Item
+,Basic Lightning Energy,Scarlet & Violet,257,Hyper Rare,Energy
+,Basic Fighting Energy,Scarlet & Violet,258,Hyper Rare,Energy

@@ -1,0 +1,216 @@
+dexNumber,name,setName,setNumber,rarity,type
+48,Venonat,Silver Tempest,001,Common,Grass
+49,Venomoth,Silver Tempest,002,Uncommon,Grass
+167,Spinarak,Silver Tempest,003,Common,Grass
+168,Ariados,Silver Tempest,004,Rare Holo,Grass
+191,Sunkern,Silver Tempest,005,Common,Grass
+192,Sunflora,Silver Tempest,006,Uncommon,Grass
+497,Serperior,Silver Tempest,007,Ultra-Rare Rare,Grass
+497,Serperior,Silver Tempest,008,Rare VSTAR,Grass
+548,Petilil,Silver Tempest,009,Common,Grass
+549,Hisuian Lilligant,Silver Tempest,010,Rare,Grass
+590,Foongus,Silver Tempest,011,Common,Grass
+591,Amoonguss,Silver Tempest,012,Rare,Grass
+632,Durant,Silver Tempest,013,Common,Grass
+640,Virizion,Silver Tempest,014,Rare,Grass
+652,Chesnaught,Silver Tempest,015,Ultra-Rare Rare,Grass
+763,Radiant Tsareena,Silver Tempest,016,Rare Radiant,Grass
+37,Vulpix,Silver Tempest,017,Common,Fire
+38,Ninetales,Silver Tempest,018,Uncommon,Fire
+58,Growlithe,Silver Tempest,019,Common,Fire
+59,Arcanine,Silver Tempest,020,Rare,Fire
+77,Ponyta,Silver Tempest,021,Common,Fire
+78,Rapidash,Silver Tempest,022,Rare Holo,Fire
+494,Victini,Silver Tempest,023,Rare,Fire
+643,Reshiram,Silver Tempest,024,Ultra-Rare Rare,Fire
+653,Fennekin,Silver Tempest,025,Common,Fire
+654,Braixen,Silver Tempest,026,Uncommon,Fire
+655,Delphox,Silver Tempest,027,Rare,Fire
+662,Fletchinder,Silver Tempest,028,Uncommon,Fire
+663,Talonflame,Silver Tempest,029,Rare,Fire
+725,Litten,Silver Tempest,030,Common,Fire
+726,Torracat,Silver Tempest,031,Uncommon,Fire
+727,Incineroar,Silver Tempest,032,Rare,Fire
+37,Alolan Vulpix,Silver Tempest,033,Ultra-Rare Rare,Water
+37,Alolan Vulpix,Silver Tempest,034,Rare VSTAR,Water
+139,Omastar,Silver Tempest,035,Ultra-Rare Rare,Water
+144,Articuno,Silver Tempest,036,Rare Holo,Water
+320,Wailmer,Silver Tempest,037,Common,Water
+321,Wailord,Silver Tempest,038,Uncommon,Water
+349,Feebas,Silver Tempest,039,Common,Water
+350,Milotic,Silver Tempest,040,Rare,Water
+361,Snorunt,Silver Tempest,041,Common,Water
+362,Glalie,Silver Tempest,042,Uncommon,Water
+478,Froslass,Silver Tempest,043,Rare,Water
+369,Relicanth,Silver Tempest,044,Common,Water
+489,Phione,Silver Tempest,045,Rare,Water
+647,Keldeo,Silver Tempest,046,Rare,Water
+751,Dewpider,Silver Tempest,047,Common,Water
+752,Araquanid,Silver Tempest,048,Uncommon,Water
+25,Pikachu,Silver Tempest,049,Common,Lightning
+26,Raichu,Silver Tempest,050,Uncommon,Lightning
+170,Chinchou,Silver Tempest,051,Common,Lightning
+171,Lanturn,Silver Tempest,052,Uncommon,Lightning
+479,Rotom,Silver Tempest,053,Common,Lightning
+587,Emolga,Silver Tempest,054,Common,Lightning
+618,Stunfisk,Silver Tempest,055,Common,Lightning
+807,Zeraora,Silver Tempest,056,Rare,Lightning
+894,Regieleki,Silver Tempest,057,Ultra-Rare Rare,Lightning
+894,Regieleki,Silver Tempest,058,Rare VMAX,Lightning
+65,Radiant Alakazam,Silver Tempest,059,Rare Radiant,Psychic
+96,Drowzee,Silver Tempest,060,Common,Psychic
+97,Hypno,Silver Tempest,061,Uncommon,Psychic
+124,Jynx,Silver Tempest,062,Uncommon,Psychic
+200,Misdreavus,Silver Tempest,063,Common,Psychic
+429,Mismagius,Silver Tempest,064,Rare,Psychic
+201,Unown,Silver Tempest,065,Ultra-Rare Rare,Psychic
+201,Unown,Silver Tempest,066,Rare VSTAR,Psychic
+280,Ralts,Silver Tempest,067,Common,Psychic
+281,Kirlia,Silver Tempest,068,Uncommon,Psychic
+282,Gardevoir,Silver Tempest,069,Rare,Psychic
+303,Mawile,Silver Tempest,070,Ultra-Rare Rare,Psychic
+303,Mawile,Silver Tempest,071,Rare VSTAR,Psychic
+307,Meditite,Silver Tempest,072,Common,Psychic
+308,Medicham,Silver Tempest,073,Rare Holo,Psychic
+358,Chimecho,Silver Tempest,074,Common,Psychic
+561,Sigilyph,Silver Tempest,075,Uncommon,Psychic
+577,Solosis,Silver Tempest,076,Common,Psychic
+578,Duosion,Silver Tempest,077,Uncommon,Psychic
+579,Reuniclus,Silver Tempest,078,Rare Holo,Psychic
+605,Elgyem,Silver Tempest,079,Common,Psychic
+606,Beheeyem,Silver Tempest,080,Uncommon,Psychic
+677,Espurr,Silver Tempest,081,Common,Psychic
+678,Meowstic,Silver Tempest,082,Uncommon,Psychic
+684,Swirlix,Silver Tempest,083,Common,Psychic
+685,Slurpuff,Silver Tempest,084,Uncommon,Psychic
+702,Dedenne,Silver Tempest,085,Uncommon,Psychic
+876,Indeedee,Silver Tempest,086,Common,Psychic
+885,Dreepy,Silver Tempest,087,Common,Psychic
+886,Drakloak,Silver Tempest,088,Uncommon,Psychic
+887,Dragapult,Silver Tempest,089,Rare Holo,Psychic
+59,Hisuian Arcanine,Silver Tempest,090,Ultra-Rare Rare,Fighting
+231,Phanpy,Silver Tempest,091,Common,Fighting
+232,Donphan,Silver Tempest,092,Uncommon,Fighting
+343,Baltoy,Silver Tempest,093,Common,Fighting
+344,Claydol,Silver Tempest,094,Uncommon,Fighting
+347,Anorith,Silver Tempest,095,Uncommon,Fighting
+348,Armaldo,Silver Tempest,096,Rare,Fighting
+639,Terrakion,Silver Tempest,097,Rare Holo,Fighting
+701,Hawlucha,Silver Tempest,098,Common,Fighting
+769,Sandygast,Silver Tempest,099,Common,Fighting
+770,Palossand,Silver Tempest,100,Uncommon,Fighting
+874,Stonjourner,Silver Tempest,101,Uncommon,Fighting
+901,Ursaluna,Silver Tempest,102,Ultra-Rare Rare,Fighting
+41,Zubat,Silver Tempest,103,Common,Darkness
+42,Golbat,Silver Tempest,104,Uncommon,Darkness
+169,Crobat,Silver Tempest,105,Rare Holo,Darkness
+198,Murkrow,Silver Tempest,106,Common,Darkness
+430,Honchkrow,Silver Tempest,107,Uncommon,Darkness
+435,Skuntank,Silver Tempest,108,Ultra-Rare Rare,Darkness
+453,Croagunk,Silver Tempest,109,Common,Darkness
+454,Toxicroak,Silver Tempest,110,Uncommon,Darkness
+551,Sandile,Silver Tempest,111,Common,Darkness
+552,Krokorok,Silver Tempest,112,Uncommon,Darkness
+553,Krookodile,Silver Tempest,113,Rare Holo,Darkness
+747,Mareanie,Silver Tempest,114,Common,Darkness
+748,Toxapex,Silver Tempest,115,Uncommon,Darkness
+877,Morpeko,Silver Tempest,116,Uncommon,Darkness
+374,Beldum,Silver Tempest,117,Common,Metal
+375,Metang,Silver Tempest,118,Uncommon,Metal
+376,Metagross,Silver Tempest,119,Rare Holo,Metal
+385,Radiant Jirachi,Silver Tempest,120,Rare Radiant,Metal
+597,Ferroseed,Silver Tempest,121,Common,Metal
+598,Ferrothorn,Silver Tempest,122,Uncommon,Metal
+599,Klink,Silver Tempest,123,Common,Metal
+600,Klang,Silver Tempest,124,Uncommon,Metal
+601,Klinklang,Silver Tempest,125,Rare,Metal
+638,Cobalion,Silver Tempest,126,Rare,Metal
+777,Togedemaru,Silver Tempest,127,Common,Metal
+801,Magearna,Silver Tempest,128,Ultra-Rare Rare,Metal
+147,Dratini,Silver Tempest,129,Common,Dragon
+148,Dragonair,Silver Tempest,130,Uncommon,Dragon
+149,Dragonite,Silver Tempest,131,Rare Holo,Dragon
+714,Noibat,Silver Tempest,132,Common,Dragon
+715,Noivern,Silver Tempest,133,Rare,Dragon
+718,Zygarde,Silver Tempest,134,Rare,Dragon
+895,Regidrago,Silver Tempest,135,Ultra-Rare Rare,Dragon
+895,Regidrago,Silver Tempest,136,Rare VSTAR,Dragon
+235,Smeargle,Silver Tempest,137,Common,Colorless
+249,Lugia,Silver Tempest,138,Ultra-Rare Rare,Colorless
+249,Lugia,Silver Tempest,139,Rare VSTAR,Colorless
+250,Ho-Oh,Silver Tempest,140,Ultra-Rare Rare,Colorless
+327,Spinda,Silver Tempest,141,Common,Colorless
+333,Swablu,Silver Tempest,142,Common,Colorless
+334,Altaria,Silver Tempest,143,Uncommon,Colorless
+427,Buneary,Silver Tempest,144,Common,Colorless
+428,Lopunny,Silver Tempest,145,Uncommon,Colorless
+566,Archen,Silver Tempest,146,Uncommon,Colorless
+567,Archeops,Silver Tempest,147,Rare Holo,Colorless
+627,Rufflet,Silver Tempest,148,Common,Colorless
+628,Hisuian Braviary,Silver Tempest,149,Rare,Colorless
+661,Fletchling,Silver Tempest,150,Common,Colorless
+,Brandon,Silver Tempest,151,Uncommon,Supporter
+,Candice,Silver Tempest,152,Uncommon,Supporter
+,Capturing Aroma,Silver Tempest,153,Uncommon,Item
+,Earthen Seal Stone,Silver Tempest,154,Rare Holo,Item
+,Emergency Jelly,Silver Tempest,155,Uncommon,Item
+,Forest Seal Stone,Silver Tempest,156,Rare Holo,Item
+,Furisode Girl,Silver Tempest,157,Uncommon,Supporter
+,Gym Trainer,Silver Tempest,158,Uncommon,Supporter
+,Lance,Silver Tempest,159,Uncommon,Supporter
+,Leafy Camo Poncho,Silver Tempest,160,Uncommon,Item
+,Primordial Altar,Silver Tempest,161,Uncommon,Stadium
+,Professor Laventon,Silver Tempest,162,Uncommon,Supporter
+,Quad Stone,Silver Tempest,163,Uncommon,Item
+,Serena,Silver Tempest,164,Uncommon,Supporter
+,Unidentified Fossil,Silver Tempest,165,Uncommon,Item
+,Wallace,Silver Tempest,166,Uncommon,Supporter
+,Worker,Silver Tempest,167,Uncommon,Supporter
+,Regenerative Energy,Silver Tempest,168,Uncommon,Energy
+,V Guard Energy,Silver Tempest,169,Uncommon,Energy
+497,Serperior,Silver Tempest,170,Rare Ultra,Grass
+652,Chesnaught,Silver Tempest,171,Rare Ultra,Grass
+643,Reshiram,Silver Tempest,172,Rare Ultra,Fire
+37,Alolan Vulpix,Silver Tempest,173,Rare Ultra,Water
+139,Omastar,Silver Tempest,174,Rare Ultra,Water
+894,Regieleki,Silver Tempest,175,Rare Ultra,Lightning
+201,Unown,Silver Tempest,176,Rare Ultra,Psychic
+201,Unown,Silver Tempest,177,Rare Ultra,Psychic
+303,Mawile,Silver Tempest,178,Rare Ultra,Psychic
+59,Hisuian Arcanine,Silver Tempest,179,Rare Ultra,Fighting
+435,Skuntank,Silver Tempest,180,Rare Ultra,Darkness
+435,Skuntank,Silver Tempest,181,Rare Ultra,Darkness
+801,Magearna,Silver Tempest,182,Rare Ultra,Metal
+895,Regidrago,Silver Tempest,183,Rare Ultra,Dragon
+895,Regidrago,Silver Tempest,184,Rare Ultra,Dragon
+249,Lugia,Silver Tempest,185,Rare Ultra,Colorless
+249,Lugia,Silver Tempest,186,Rare Ultra,Colorless
+250,Ho-Oh,Silver Tempest,187,Rare Ultra,Colorless
+,Brandon,Silver Tempest,188,Rare Ultra,Supporter
+,Candice,Silver Tempest,189,Rare Ultra,Supporter
+,Furisode Girl,Silver Tempest,190,Rare Ultra,Supporter
+,Gym Trainer,Silver Tempest,191,Rare Ultra,Supporter
+,Lance,Silver Tempest,192,Rare Ultra,Supporter
+,Serena,Silver Tempest,193,Rare Ultra,Supporter
+,Wallace,Silver Tempest,194,Rare Ultra,Supporter
+,Worker,Silver Tempest,195,Rare Ultra,Supporter
+497,Serperior,Silver Tempest,196,Rare Rainbow,Grass
+37,Alolan Vulpix,Silver Tempest,197,Rare Rainbow,Water
+894,Regieleki,Silver Tempest,198,Rare Rainbow,Lightning
+201,Unown,Silver Tempest,199,Rare Rainbow,Psychic
+303,Mawile,Silver Tempest,200,Rare Rainbow,Psychic
+895,Regidrago,Silver Tempest,201,Rare Rainbow,Dragon
+249,Lugia,Silver Tempest,202,Rare Rainbow,Colorless
+,Brandon,Silver Tempest,203,Rare Rainbow,Supporter
+,Candice,Silver Tempest,204,Rare Rainbow,Supporter
+,Furisode Girl,Silver Tempest,205,Rare Rainbow,Supporter
+,Lance,Silver Tempest,206,Rare Rainbow,Supporter
+,Serena,Silver Tempest,207,Rare Rainbow,Supporter
+,Wallace,Silver Tempest,208,Rare Rainbow,Supporter
+,Worker,Silver Tempest,209,Rare Rainbow,Supporter
+497,Serperior,Silver Tempest,210,Rare Secret,Grass
+249,Lugia,Silver Tempest,211,Rare Secret,Colorless
+,Energy Switch,Silver Tempest,212,Rare Secret,Item
+,Gapejaw Bog,Silver Tempest,213,Rare Secret,Stadium
+,Leafy Camo Poncho,Silver Tempest,214,Rare Secret,Item
+,V Guard Energy,Silver Tempest,215,Rare Secret,Energy

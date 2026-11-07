@@ -1,0 +1,187 @@
+dexNumber,name,setName,setNumber,rarity,type
+102,Exeggcute,Brilliant Stars,001,Common,Grass
+103,Exeggutor,Brilliant Stars,002,Uncommon,Grass
+285,Shroomish,Brilliant Stars,003,Common,Grass
+286,Breloom,Brilliant Stars,004,Rare,Grass
+357,Tropius,Brilliant Stars,005,Uncommon,Grass
+387,Turtwig,Brilliant Stars,006,Common,Grass
+388,Grotle,Brilliant Stars,007,Uncommon,Grass
+389,Torterra,Brilliant Stars,008,Rare Holo,Grass
+412,Burmy,Brilliant Stars,009,Common,Grass
+413,Wormadam,Brilliant Stars,010,Rare,Grass
+414,Mothim,Brilliant Stars,011,Rare,Grass
+420,Cherubi,Brilliant Stars,012,Common,Grass
+492,Shaymin,Brilliant Stars,013,Ultra-Rare Rare,Grass
+492,Shaymin,Brilliant Stars,014,Rare VSTAR,Grass
+588,Karrablast,Brilliant Stars,015,Common,Grass
+893,Zarude,Brilliant Stars,016,Ultra-Rare Rare,Grass
+6,Charizard,Brilliant Stars,017,Ultra-Rare Rare,Fire
+6,Charizard,Brilliant Stars,018,Rare VSTAR,Fire
+126,Magmar,Brilliant Stars,019,Common,Fire
+467,Magmortar,Brilliant Stars,020,Rare,Fire
+146,Moltres,Brilliant Stars,021,Rare Holo,Fire
+244,Entei,Brilliant Stars,022,Ultra-Rare Rare,Fire
+324,Torkoal,Brilliant Stars,023,Uncommon,Fire
+390,Chimchar,Brilliant Stars,024,Common,Fire
+391,Monferno,Brilliant Stars,025,Uncommon,Fire
+392,Infernape,Brilliant Stars,026,Rare Holo,Fire
+514,Simisear,Brilliant Stars,027,Ultra-Rare Rare,Fire
+99,Kingler,Brilliant Stars,028,Ultra-Rare Rare,Water
+99,Kingler,Brilliant Stars,029,Rare VMAX,Water
+120,Staryu,Brilliant Stars,030,Common,Water
+131,Lapras,Brilliant Stars,031,Rare,Water
+341,Corphish,Brilliant Stars,032,Common,Water
+342,Crawdaunt,Brilliant Stars,033,Uncommon,Water
+361,Snorunt,Brilliant Stars,034,Common,Water
+393,Piplup,Brilliant Stars,035,Common,Water
+394,Prinplup,Brilliant Stars,036,Uncommon,Water
+395,Empoleon,Brilliant Stars,037,Rare Holo,Water
+418,Buizel,Brilliant Stars,038,Common,Water
+419,Floatzel,Brilliant Stars,039,Uncommon,Water
+457,Lumineon,Brilliant Stars,040,Ultra-Rare Rare,Water
+490,Manaphy,Brilliant Stars,041,Rare,Water
+613,Cubchoo,Brilliant Stars,042,Common,Water
+614,Beartic,Brilliant Stars,043,Uncommon,Water
+875,Eiscue,Brilliant Stars,044,Rare,Water
+26,Raichu,Brilliant Stars,045,Ultra-Rare Rare,Lightning
+125,Electabuzz,Brilliant Stars,046,Common,Lightning
+466,Electivire,Brilliant Stars,047,Rare,Lightning
+243,Raikou,Brilliant Stars,048,Ultra-Rare Rare,Lightning
+403,Shinx,Brilliant Stars,049,Common,Lightning
+404,Luxio,Brilliant Stars,050,Uncommon,Lightning
+405,Luxray,Brilliant Stars,051,Rare,Lightning
+417,Pachirisu,Brilliant Stars,052,Uncommon,Lightning
+35,Clefairy,Brilliant Stars,053,Common,Psychic
+36,Clefable,Brilliant Stars,054,Rare,Psychic
+121,Starmie,Brilliant Stars,055,Uncommon,Psychic
+150,Mewtwo,Brilliant Stars,056,Rare,Psychic
+210,Granbull,Brilliant Stars,057,Ultra-Rare Rare,Psychic
+343,Baltoy,Brilliant Stars,058,Common,Psychic
+344,Claydol,Brilliant Stars,059,Uncommon,Psychic
+355,Duskull,Brilliant Stars,060,Common,Psychic
+356,Dusclops,Brilliant Stars,061,Uncommon,Psychic
+477,Dusknoir,Brilliant Stars,062,Rare Holo,Psychic
+358,Chimecho,Brilliant Stars,063,Common,Psychic
+547,Whimsicott,Brilliant Stars,064,Ultra-Rare Rare,Psychic
+547,Whimsicott,Brilliant Stars,065,Rare VSTAR,Psychic
+561,Sigilyph,Brilliant Stars,066,Uncommon,Psychic
+702,Dedenne,Brilliant Stars,067,Common,Psychic
+778,Mimikyu,Brilliant Stars,068,Ultra-Rare Rare,Psychic
+778,Mimikyu,Brilliant Stars,069,Rare VMAX,Psychic
+868,Milcery,Brilliant Stars,070,Common,Psychic
+869,Alcremie,Brilliant Stars,071,Rare,Psychic
+237,Hitmontop,Brilliant Stars,072,Uncommon,Fighting
+299,Nosepass,Brilliant Stars,073,Common,Fighting
+328,Trapinch,Brilliant Stars,074,Common,Fighting
+329,Vibrava,Brilliant Stars,075,Uncommon,Fighting
+330,Flygon,Brilliant Stars,076,Rare,Fighting
+413,Wormadam,Brilliant Stars,077,Rare,Fighting
+447,Riolu,Brilliant Stars,078,Common,Fighting
+448,Lucario,Brilliant Stars,079,Rare Holo,Fighting
+538,Throh,Brilliant Stars,080,Common,Fighting
+539,Sawk,Brilliant Stars,081,Common,Fighting
+622,Golett,Brilliant Stars,082,Common,Fighting
+623,Golurk,Brilliant Stars,083,Rare,Fighting
+88,Grimer,Brilliant Stars,084,Common,Darkness
+89,Muk,Brilliant Stars,085,Rare,Darkness
+215,Sneasel,Brilliant Stars,086,Common,Darkness
+461,Weavile,Brilliant Stars,087,Uncommon,Darkness
+430,Honchkrow,Brilliant Stars,088,Ultra-Rare Rare,Darkness
+442,Spiritomb,Brilliant Stars,089,Common,Darkness
+509,Purrloin,Brilliant Stars,090,Common,Darkness
+510,Liepard,Brilliant Stars,091,Rare,Darkness
+859,Impidimp,Brilliant Stars,092,Common,Darkness
+860,Morgrem,Brilliant Stars,093,Uncommon,Darkness
+861,Grimmsnarl,Brilliant Stars,094,Rare,Darkness
+877,Morpeko,Brilliant Stars,095,Ultra-Rare Rare,Darkness
+306,Aggron,Brilliant Stars,096,Ultra-Rare Rare,Metal
+306,Aggron,Brilliant Stars,097,Rare VMAX,Metal
+413,Wormadam,Brilliant Stars,098,Rare,Metal
+476,Probopass,Brilliant Stars,099,Uncommon,Metal
+485,Heatran,Brilliant Stars,100,Rare,Metal
+589,Escavalier,Brilliant Stars,101,Rare,Metal
+599,Klink,Brilliant Stars,102,Common,Metal
+600,Klang,Brilliant Stars,103,Uncommon,Metal
+601,Klinklang,Brilliant Stars,104,Rare,Metal
+889,Zamazenta,Brilliant Stars,105,Ultra-Rare Rare,Metal
+330,Flygon,Brilliant Stars,106,Ultra-Rare Rare,Dragon
+443,Gible,Brilliant Stars,107,Common,Dragon
+444,Gabite,Brilliant Stars,108,Uncommon,Dragon
+445,Garchomp,Brilliant Stars,109,Rare Holo,Dragon
+610,Axew,Brilliant Stars,110,Common,Dragon
+611,Fraxure,Brilliant Stars,111,Uncommon,Dragon
+612,Haxorus,Brilliant Stars,112,Rare,Dragon
+621,Druddigon,Brilliant Stars,113,Rare,Dragon
+882,Dracovish,Brilliant Stars,114,Ultra-Rare Rare,Dragon
+83,Farfetch'd,Brilliant Stars,115,Common,Colorless
+351,Castform,Brilliant Stars,116,Common,Colorless
+396,Starly,Brilliant Stars,117,Common,Colorless
+397,Staravia,Brilliant Stars,118,Uncommon,Colorless
+398,Staraptor,Brilliant Stars,119,Rare,Colorless
+399,Bidoof,Brilliant Stars,120,Common,Colorless
+400,Bibarel,Brilliant Stars,121,Rare Holo,Colorless
+493,Arceus,Brilliant Stars,122,Ultra-Rare Rare,Colorless
+493,Arceus,Brilliant Stars,123,Rare VSTAR,Colorless
+572,Minccino,Brilliant Stars,124,Common,Colorless
+573,Cinccino,Brilliant Stars,125,Uncommon,Colorless
+641,Tornadus,Brilliant Stars,126,Rare,Colorless
+701,Hawlucha,Brilliant Stars,127,Common,Colorless
+780,Drampa,Brilliant Stars,128,Ultra-Rare Rare,Colorless
+,Acerola's Premonition,Brilliant Stars,129,Uncommon,Supporter
+,Barry,Brilliant Stars,130,Uncommon,Supporter
+,Blunder Policy,Brilliant Stars,131,Uncommon,Item
+,Boss's Orders,Brilliant Stars,132,Rare Holo,Supporter
+,Café Master,Brilliant Stars,133,Uncommon,Supporter
+,Cheren's Care,Brilliant Stars,134,Uncommon,Supporter
+,Choice Belt,Brilliant Stars,135,Uncommon,Item
+,Cleansing Gloves,Brilliant Stars,136,Uncommon,Item
+,Collapsed Stadium,Brilliant Stars,137,Uncommon,Stadium
+,Cynthia's Ambition,Brilliant Stars,138,Uncommon,Supporter
+,Fresh Water Set,Brilliant Stars,139,Uncommon,Item
+,Friends in Galar,Brilliant Stars,140,Uncommon,Supporter
+,Gloria,Brilliant Stars,141,Uncommon,Supporter
+,Hunting Gloves,Brilliant Stars,142,Uncommon,Item
+,Kindler,Brilliant Stars,143,Uncommon,Supporter
+,Magma Basin,Brilliant Stars,144,Uncommon,Stadium
+,Marnie's Pride,Brilliant Stars,145,Uncommon,Supporter
+,Pot Helmet,Brilliant Stars,146,Uncommon,Item
+,Professor's Research,Brilliant Stars,147,Rare Holo,Supporter
+,Roseanne's Backup,Brilliant Stars,148,Uncommon,Supporter
+,Team Yell's Cheer,Brilliant Stars,149,Uncommon,Supporter
+,Ultra Ball,Brilliant Stars,150,Uncommon,Item
+,Double Turbo Energy,Brilliant Stars,151,Uncommon,Energy
+492,Shaymin,Brilliant Stars,152,Rare Ultra,Grass
+6,Charizard,Brilliant Stars,153,Rare Ultra,Fire
+6,Charizard,Brilliant Stars,154,Rare Ultra,Fire
+457,Lumineon,Brilliant Stars,155,Rare Ultra,Water
+457,Lumineon,Brilliant Stars,156,Rare Ultra,Water
+25,Pikachu,Brilliant Stars,157,Rare Ultra,Lightning
+26,Raichu,Brilliant Stars,158,Rare Ultra,Lightning
+210,Granbull,Brilliant Stars,159,Rare Ultra,Psychic
+547,Whimsicott,Brilliant Stars,160,Rare Ultra,Psychic
+430,Honchkrow,Brilliant Stars,161,Rare Ultra,Darkness
+430,Honchkrow,Brilliant Stars,162,Rare Ultra,Darkness
+889,Zamazenta,Brilliant Stars,163,Rare Ultra,Metal
+330,Flygon,Brilliant Stars,164,Rare Ultra,Dragon
+493,Arceus,Brilliant Stars,165,Rare Ultra,Colorless
+493,Arceus,Brilliant Stars,166,Rare Ultra,Colorless
+,Barry,Brilliant Stars,167,Rare Ultra,Supporter
+,Cheren's Care,Brilliant Stars,168,Rare Ultra,Supporter
+,Cynthia's Ambition,Brilliant Stars,169,Rare Ultra,Supporter
+,Kindler,Brilliant Stars,170,Rare Ultra,Supporter
+,Marnie's Pride,Brilliant Stars,171,Rare Ultra,Supporter
+,Roseanne's Backup,Brilliant Stars,172,Rare Ultra,Supporter
+492,Shaymin,Brilliant Stars,173,Rare Rainbow,Grass
+6,Charizard,Brilliant Stars,174,Rare Rainbow,Fire
+547,Whimsicott,Brilliant Stars,175,Rare Rainbow,Psychic
+493,Arceus,Brilliant Stars,176,Rare Rainbow,Colorless
+,Cheren's Care,Brilliant Stars,177,Rare Rainbow,Supporter
+,Cynthia's Ambition,Brilliant Stars,178,Rare Rainbow,Supporter
+,Kindler,Brilliant Stars,179,Rare Rainbow,Supporter
+,Roseanne's Backup,Brilliant Stars,180,Rare Rainbow,Supporter
+144,Galarian Articuno,Brilliant Stars,181,Rare Secret,Psychic
+145,Galarian Zapdos,Brilliant Stars,182,Rare Secret,Fighting
+146,Galarian Moltres,Brilliant Stars,183,Rare Secret,Darkness
+493,Arceus,Brilliant Stars,184,Rare Secret,Colorless
+,Magma Basin,Brilliant Stars,185,Rare Secret,Stadium
+,Ultra Ball,Brilliant Stars,186,Rare Secret,Item

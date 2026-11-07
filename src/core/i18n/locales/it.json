@@ -12,7 +12,8 @@
     "title": "TCG Pokédex",
     "subtitle": "Quali espansioni, dalla più recente alla più vecchia, coprono una carta per ogni Pokémon?",
     "settings": "Impostazioni",
-    "about": "Informazioni"
+    "about": "Informazioni",
+    "coverage": "Espansioni da collezionare"
   },
   "settings": {
     "title": "Impostazioni",
@@ -28,5 +29,44 @@
     "version": "Versione {{version}}",
     "platform": "Piattaforma: {{platform}}",
     "body": "Colleziona una carta di ogni Pokémon. TCG Pokédex scorre le espansioni dalla più recente alla più vecchia e ti dice quali ti servono."
+  },
+  "coverage": {
+    "title": "Espansioni da collezionare",
+    "notConfigured": "Nessun server configurato. Imposta EXPO_PUBLIC_API_URL in .env.local.",
+    "error": "Impossibile caricare le espansioni: {{message}}",
+    "summary_one": "{{covered}} Pokémon su {{total}} coperti con {{count}} espansione",
+    "summary_other": "{{covered}} Pokémon su {{total}} coperti con {{count}} espansioni",
+    "summary_many": "{{covered}} Pokémon su {{total}} coperti con {{count}} espansioni",
+    "explainer": "Le espansioni vanno dalla più recente alla più vecchia. Un’espansione è inclusa solo se aggiunge Pokémon che le più recenti non hanno.",
+    "released": "Uscita il {{date}}",
+    "newPokemon_one": "{{count}} Pokémon nuovo",
+    "newPokemon_other": "{{count}} Pokémon nuovi",
+    "newPokemon_many": "{{count}} Pokémon nuovi",
+    "missing_one": "{{count}} Pokémon non ancora in nessuna espansione",
+    "missing_other": "{{count}} Pokémon non ancora in nessuna espansione",
+    "missing_many": "{{count}} Pokémon non ancora in nessuna espansione",
+    "options": "Opzioni di visualizzazione",
+    "order": "Ordine",
+    "packOrder": "Per espansione",
+    "pokemonOrder": "Per Pokémon",
+    "generation": "Generazione {{gen}} · #{{from}}–#{{to}}",
+    "allPacks": "Tutte le espansioni",
+    "showPokemonList": "Elenco Pokémon",
+    "showPackList": "Elenco espansioni",
+    "searchPokemon": "Cerca Pokémon",
+    "notInPack": "Nessuna espansione",
+    "filteredBy": "Solo {{pack}}. Tocca per vedere tutto.",
+    "legend": "Contorno rarità:",
+    "rarity": {
+      "common": "Comune",
+      "uncommon": "Non comune",
+      "rare": "Rara",
+      "holo": "Holo",
+      "ultra": "Ultra (ex, V, VMAX, VSTAR)",
+      "illustration": "Illustrazione",
+      "shiny": "Radiosa / Straordinaria",
+      "rainbow": "Arcobaleno",
+      "secret": "Segreta / Iper"
+    }
   }
 }

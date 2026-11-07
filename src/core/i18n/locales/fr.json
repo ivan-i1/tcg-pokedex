@@ -12,7 +12,8 @@
     "title": "TCG Pokédex",
     "subtitle": "Quelles extensions, de la plus récente à la plus ancienne, couvrent une carte de chaque Pokémon ?",
     "settings": "Réglages",
-    "about": "À propos"
+    "about": "À propos",
+    "coverage": "Extensions à collectionner"
   },
   "settings": {
     "title": "Réglages",
@@ -28,5 +29,44 @@
     "version": "Version {{version}}",
     "platform": "Plateforme : {{platform}}",
     "body": "Collectionnez une carte de chaque Pokémon. TCG Pokédex parcourt les extensions de la plus récente à la plus ancienne et vous indique celles dont vous avez besoin."
+  },
+  "coverage": {
+    "title": "Extensions à collectionner",
+    "notConfigured": "Aucun serveur configuré. Définissez EXPO_PUBLIC_API_URL dans .env.local.",
+    "error": "Impossible de charger les extensions : {{message}}",
+    "summary_one": "{{covered}} Pokémon sur {{total}} couverts avec {{count}} extension",
+    "summary_other": "{{covered}} Pokémon sur {{total}} couverts avec {{count}} extensions",
+    "summary_many": "{{covered}} Pokémon sur {{total}} couverts avec {{count}} extensions",
+    "explainer": "Les extensions vont de la plus récente à la plus ancienne. Une extension n’est retenue que si elle ajoute des Pokémon absents des plus récentes.",
+    "released": "Sortie le {{date}}",
+    "newPokemon_one": "{{count}} nouveau Pokémon",
+    "newPokemon_other": "{{count}} nouveaux Pokémon",
+    "newPokemon_many": "{{count}} nouveaux Pokémon",
+    "missing_one": "{{count}} Pokémon dans aucune extension",
+    "missing_other": "{{count}} Pokémon dans aucune extension",
+    "missing_many": "{{count}} Pokémon dans aucune extension",
+    "options": "Options d'affichage",
+    "order": "Ordre",
+    "packOrder": "Par extension",
+    "pokemonOrder": "Par Pokémon",
+    "generation": "Génération {{gen}} · #{{from}}–#{{to}}",
+    "allPacks": "Toutes les extensions",
+    "showPokemonList": "Liste des Pokémon",
+    "showPackList": "Liste des extensions",
+    "searchPokemon": "Rechercher un Pokémon",
+    "notInPack": "Aucune extension",
+    "filteredBy": "Uniquement {{pack}}. Touchez pour tout afficher.",
+    "legend": "Contour de rareté :",
+    "rarity": {
+      "common": "Commune",
+      "uncommon": "Peu commune",
+      "rare": "Rare",
+      "holo": "Holo",
+      "ultra": "Ultra (ex, V, VMAX, VSTAR)",
+      "illustration": "Illustration",
+      "shiny": "Radieuse / Magnifique",
+      "rainbow": "Arc-en-ciel",
+      "secret": "Secrète / Hyper"
+    }
   }
 }

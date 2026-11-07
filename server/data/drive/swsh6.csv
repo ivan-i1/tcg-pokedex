@@ -1,0 +1,234 @@
+dexNumber,name,setName,setNumber,rarity,type
+13,Weedle,Chilling Reign,001,Common,Grass
+14,Kakuna,Chilling Reign,002,Uncommon,Grass
+15,Beedrill,Chilling Reign,003,Rare Holo,Grass
+165,Ledyba,Chilling Reign,004,Common,Grass
+166,Ledian,Chilling Reign,005,Uncommon,Grass
+214,Heracross,Chilling Reign,006,Common,Grass
+251,Celebi,Chilling Reign,007,Ultra-Rare Rare,Grass
+251,Celebi,Chilling Reign,008,Rare VMAX,Grass
+459,Snover,Chilling Reign,009,Common,Grass
+460,Abomasnow,Chilling Reign,010,Rare,Grass
+585,Deerling,Chilling Reign,011,Common,Grass
+586,Sawsbuck,Chilling Reign,012,Rare,Grass
+761,Bounsweet,Chilling Reign,013,Common,Grass
+762,Steenee,Chilling Reign,014,Uncommon,Grass
+763,Tsareena,Chilling Reign,015,Rare,Grass
+810,Grookey,Chilling Reign,016,Common,Grass
+811,Thwackey,Chilling Reign,017,Uncommon,Grass
+812,Rillaboom,Chilling Reign,018,Rare Holo,Grass
+893,Zarude,Chilling Reign,019,Rare Holo,Grass
+257,Blaziken,Chilling Reign,020,Ultra-Rare Rare,Fire
+257,Blaziken,Chilling Reign,021,Rare VMAX,Fire
+,Castform Sunny Form,Chilling Reign,022,Common,Fire
+636,Larvesta,Chilling Reign,023,Common,Fire
+637,Volcarona,Chilling Reign,024,Rare,Fire
+721,Volcanion,Chilling Reign,025,Ultra-Rare Rare,Fire
+813,Scorbunny,Chilling Reign,026,Common,Fire
+814,Raboot,Chilling Reign,027,Uncommon,Fire
+815,Cinderace,Chilling Reign,028,Rare Holo,Fire
+131,Lapras,Chilling Reign,029,Common,Water
+215,Sneasel,Chilling Reign,030,Common,Water
+461,Weavile,Chilling Reign,031,Rare Holo,Water
+225,Delibird,Chilling Reign,032,Common,Water
+,Castform Rainy Form,Chilling Reign,033,Common,Water
+,Castform Snowy Form,Chilling Reign,034,Common,Water
+361,Snorunt,Chilling Reign,035,Common,Water
+478,Froslass,Chilling Reign,036,Rare Holo,Water
+363,Spheal,Chilling Reign,037,Common,Water
+364,Sealeo,Chilling Reign,038,Uncommon,Water
+365,Walrein,Chilling Reign,039,Rare,Water
+788,Tapu Fini,Chilling Reign,040,Rare Holo,Water
+816,Sobble,Chilling Reign,041,Common,Water
+817,Drizzile,Chilling Reign,042,Uncommon,Water
+818,Inteleon,Chilling Reign,043,Rare Holo,Water
+,Rapid Strike Urshifu,Chilling Reign,044,Rare Holo,Water
+,Ice Rider Calyrex,Chilling Reign,045,Ultra-Rare Rare,Water
+,Ice Rider Calyrex,Chilling Reign,046,Rare VMAX,Water
+179,Mareep,Chilling Reign,047,Common,Lightning
+180,Flaaffy,Chilling Reign,048,Uncommon,Lightning
+181,Ampharos,Chilling Reign,049,Rare,Lightning
+522,Blitzle,Chilling Reign,050,Common,Lightning
+523,Zebstrika,Chilling Reign,051,Rare,Lightning
+642,Thundurus,Chilling Reign,052,Rare Holo,Lightning
+807,Zeraora,Chilling Reign,053,Ultra-Rare Rare,Lightning
+79,Galarian Slowpoke,Chilling Reign,054,Common,Psychic
+92,Gastly,Chilling Reign,055,Common,Psychic
+93,Haunter,Chilling Reign,056,Uncommon,Psychic
+94,Gengar,Chilling Reign,057,Rare Holo,Psychic
+144,Galarian Articuno,Chilling Reign,058,Ultra-Rare Rare,Psychic
+280,Ralts,Chilling Reign,059,Common,Psychic
+281,Kirlia,Chilling Reign,060,Uncommon,Psychic
+282,Gardevoir,Chilling Reign,061,Rare Holo,Psychic
+353,Shuppet,Chilling Reign,062,Common,Psychic
+354,Banette,Chilling Reign,063,Rare,Psychic
+488,Cresselia,Chilling Reign,064,Rare Holo,Psychic
+622,Golett,Chilling Reign,065,Common,Psychic
+623,Golurk,Chilling Reign,066,Rare,Psychic
+684,Swirlix,Chilling Reign,067,Common,Psychic
+685,Slurpuff,Chilling Reign,068,Rare,Psychic
+686,Inkay,Chilling Reign,069,Common,Psychic
+687,Malamar,Chilling Reign,070,Rare,Psychic
+856,Hatenna,Chilling Reign,071,Common,Psychic
+857,Hattrem,Chilling Reign,072,Uncommon,Psychic
+858,Hatterene,Chilling Reign,073,Rare Holo,Psychic
+,Shadow Rider Calyrex,Chilling Reign,074,Ultra-Rare Rare,Psychic
+,Shadow Rider Calyrex,Chilling Reign,075,Rare VMAX,Psychic
+50,Diglett,Chilling Reign,076,Common,Fighting
+51,Dugtrio,Chilling Reign,077,Rare,Fighting
+83,Galarian Farfetch'd,Chilling Reign,078,Common,Fighting
+865,Galarian Sirfetch'd,Chilling Reign,079,Rare,Fighting
+145,Galarian Zapdos,Chilling Reign,080,Ultra-Rare Rare,Fighting
+475,Gallade,Chilling Reign,081,Rare,Fighting
+562,Galarian Yamask,Chilling Reign,082,Common,Fighting
+867,Galarian Runerigus,Chilling Reign,083,Rare Holo,Fighting
+739,Crabrawler,Chilling Reign,084,Common,Fighting
+740,Crabominable,Chilling Reign,085,Uncommon,Fighting
+744,Rockruff,Chilling Reign,086,Common,Fighting
+745,Lycanroc,Chilling Reign,087,Rare Holo,Fighting
+766,Passimian,Chilling Reign,088,Rare,Fighting
+844,Sandaconda,Chilling Reign,089,Ultra-Rare Rare,Fighting
+844,Sandaconda,Chilling Reign,090,Rare VMAX,Fighting
+852,Clobbopus,Chilling Reign,091,Common,Fighting
+853,Grapploct,Chilling Reign,092,Rare Holo,Fighting
+891,Kubfu,Chilling Reign,093,Common,Fighting
+109,Koffing,Chilling Reign,094,Common,Darkness
+110,Weezing,Chilling Reign,095,Rare,Darkness
+110,Galarian Weezing,Chilling Reign,096,Rare,Darkness
+146,Galarian Moltres,Chilling Reign,097,Ultra-Rare Rare,Darkness
+199,Galarian Slowking,Chilling Reign,098,Rare Holo,Darkness
+199,Galarian Slowking,Chilling Reign,099,Ultra-Rare Rare,Darkness
+199,Galarian Slowking,Chilling Reign,100,Rare VMAX,Darkness
+211,Qwilfish,Chilling Reign,101,Common,Darkness
+336,Seviper,Chilling Reign,102,Rare,Darkness
+442,Spiritomb,Chilling Reign,103,Rare,Darkness
+510,Liepard,Chilling Reign,104,Ultra-Rare Rare,Darkness
+543,Venipede,Chilling Reign,105,Common,Darkness
+544,Whirlipede,Chilling Reign,106,Uncommon,Darkness
+545,Scolipede,Chilling Reign,107,Rare,Darkness
+,Single Strike Urshifu,Chilling Reign,108,Rare Holo,Darkness
+304,Aron,Chilling Reign,109,Common,Metal
+305,Lairon,Chilling Reign,110,Uncommon,Metal
+306,Aggron,Chilling Reign,111,Rare,Metal
+376,Metagross,Chilling Reign,112,Ultra-Rare Rare,Metal
+376,Metagross,Chilling Reign,113,Rare VMAX,Metal
+638,Cobalion,Chilling Reign,114,Rare Holo,Metal
+128,Tauros,Chilling Reign,115,Rare Holo,Colorless
+137,Porygon,Chilling Reign,116,Common,Colorless
+233,Porygon2,Chilling Reign,117,Uncommon,Colorless
+474,Porygon-Z,Chilling Reign,118,Rare Holo,Colorless
+242,Blissey,Chilling Reign,119,Ultra-Rare Rare,Colorless
+335,Zangoose,Chilling Reign,120,Rare,Colorless
+351,Castform,Chilling Reign,121,Common,Colorless
+352,Kecleon,Chilling Reign,122,Rare,Colorless
+492,Shaymin,Chilling Reign,123,Rare Holo,Colorless
+641,Tornadus,Chilling Reign,124,Ultra-Rare Rare,Colorless
+641,Tornadus,Chilling Reign,125,Rare VMAX,Colorless
+676,Furfrou,Chilling Reign,126,Common,Colorless
+819,Skwovet,Chilling Reign,127,Common,Colorless
+820,Greedent,Chilling Reign,128,Rare Holo,Colorless
+,Agatha,Chilling Reign,129,Uncommon,Supporter
+,Avery,Chilling Reign,130,Uncommon,Supporter
+,Brawly,Chilling Reign,131,Uncommon,Supporter
+,Caitlin,Chilling Reign,132,Uncommon,Supporter
+,Crushing Gloves,Chilling Reign,133,Uncommon,Item
+,Doctor,Chilling Reign,134,Uncommon,Supporter
+,Dyna Tree Hill,Chilling Reign,135,Uncommon,Stadium
+,Echoing Horn,Chilling Reign,136,Uncommon,Item
+,Expedition Uniform,Chilling Reign,137,Uncommon,Item
+,Fire-Resistant Gloves,Chilling Reign,138,Uncommon,Item
+,Flannery,Chilling Reign,139,Uncommon,Supporter
+,Fog Crystal,Chilling Reign,140,Uncommon,Item
+,Galarian Chestplate,Chilling Reign,141,Uncommon,Item
+,Honey,Chilling Reign,142,Uncommon,Supporter
+,Justified Gloves,Chilling Reign,143,Uncommon,Item
+,Karen's Conviction,Chilling Reign,144,Uncommon,Supporter
+,Klara,Chilling Reign,145,Uncommon,Supporter
+,Melony,Chilling Reign,146,Uncommon,Supporter
+,Old Cemetery,Chilling Reign,147,Uncommon,Stadium
+,Path to the Peak,Chilling Reign,148,Uncommon,Stadium
+,Peonia,Chilling Reign,149,Uncommon,Supporter
+,Peony,Chilling Reign,150,Uncommon,Supporter
+,Rapid Strike Scroll of the Skies,Chilling Reign,151,Uncommon,Item
+,Rugged Helmet,Chilling Reign,152,Uncommon,Item
+,Siebold,Chilling Reign,153,Uncommon,Supporter
+,Single Strike Scroll of Piercing,Chilling Reign,154,Uncommon,Item
+,Weeding Gloves,Chilling Reign,155,Uncommon,Item
+,Welcoming Lantern,Chilling Reign,156,Uncommon,Item
+,Impact Energy,Chilling Reign,157,Uncommon,Energy
+,Lucky Energy,Chilling Reign,158,Uncommon,Energy
+,Spiral Energy,Chilling Reign,159,Uncommon,Energy
+251,Celebi,Chilling Reign,160,Rare Ultra,Grass
+257,Blaziken,Chilling Reign,161,Rare Ultra,Fire
+721,Volcanion,Chilling Reign,162,Rare Ultra,Fire
+,Ice Rider Calyrex,Chilling Reign,163,Rare Ultra,Water
+,Ice Rider Calyrex,Chilling Reign,164,Rare Ultra,Water
+807,Zeraora,Chilling Reign,165,Rare Ultra,Lightning
+807,Zeraora,Chilling Reign,166,Rare Ultra,Lightning
+78,Galarian Rapidash,Chilling Reign,167,Rare Ultra,Psychic
+78,Galarian Rapidash,Chilling Reign,168,Rare Ultra,Psychic
+144,Galarian Articuno,Chilling Reign,169,Rare Ultra,Psychic
+144,Galarian Articuno,Chilling Reign,170,Rare Ultra,Psychic
+,Shadow Rider Calyrex,Chilling Reign,171,Rare Ultra,Psychic
+,Shadow Rider Calyrex,Chilling Reign,172,Rare Ultra,Psychic
+145,Galarian Zapdos,Chilling Reign,173,Rare Ultra,Fighting
+145,Galarian Zapdos,Chilling Reign,174,Rare Ultra,Fighting
+844,Sandaconda,Chilling Reign,175,Rare Ultra,Fighting
+146,Galarian Moltres,Chilling Reign,176,Rare Ultra,Darkness
+146,Galarian Moltres,Chilling Reign,177,Rare Ultra,Darkness
+199,Galarian Slowking,Chilling Reign,178,Rare Ultra,Darkness
+199,Galarian Slowking,Chilling Reign,179,Rare Ultra,Darkness
+510,Liepard,Chilling Reign,180,Rare Ultra,Darkness
+376,Metagross,Chilling Reign,181,Rare Ultra,Metal
+242,Blissey,Chilling Reign,182,Rare Ultra,Colorless
+242,Blissey,Chilling Reign,183,Rare Ultra,Colorless
+641,Tornadus,Chilling Reign,184,Rare Ultra,Colorless
+641,Tornadus,Chilling Reign,185,Rare Ultra,Colorless
+,Agatha,Chilling Reign,186,Rare Ultra,Supporter
+,Avery,Chilling Reign,187,Rare Ultra,Supporter
+,Brawly,Chilling Reign,188,Rare Ultra,Supporter
+,Caitlin,Chilling Reign,189,Rare Ultra,Supporter
+,Doctor,Chilling Reign,190,Rare Ultra,Supporter
+,Flannery,Chilling Reign,191,Rare Ultra,Supporter
+,Honey,Chilling Reign,192,Rare Ultra,Supporter
+,Karen's Conviction,Chilling Reign,193,Rare Ultra,Supporter
+,Klara,Chilling Reign,194,Rare Ultra,Supporter
+,Melony,Chilling Reign,195,Rare Ultra,Supporter
+,Peonia,Chilling Reign,196,Rare Ultra,Supporter
+,Peony,Chilling Reign,197,Rare Ultra,Supporter
+,Siebold,Chilling Reign,198,Rare Ultra,Supporter
+251,Celebi,Chilling Reign,199,Rare Rainbow,Grass
+257,Blaziken,Chilling Reign,200,Rare Rainbow,Fire
+257,Blaziken,Chilling Reign,201,Rare Secret,Fire
+,Ice Rider Calyrex,Chilling Reign,202,Rare Rainbow,Water
+,Ice Rider Calyrex,Chilling Reign,203,Rare Secret,Water
+,Shadow Rider Calyrex,Chilling Reign,204,Rare Rainbow,Psychic
+,Shadow Rider Calyrex,Chilling Reign,205,Rare Secret,Psychic
+844,Sandaconda,Chilling Reign,206,Rare Rainbow,Fighting
+199,Galarian Slowking,Chilling Reign,207,Rare Rainbow,Darkness
+376,Metagross,Chilling Reign,208,Rare Rainbow,Metal
+641,Tornadus,Chilling Reign,209,Rare Rainbow,Colorless
+,Agatha,Chilling Reign,210,Rare Rainbow,Supporter
+,Avery,Chilling Reign,211,Rare Rainbow,Supporter
+,Brawly,Chilling Reign,212,Rare Rainbow,Supporter
+,Caitlin,Chilling Reign,213,Rare Rainbow,Supporter
+,Doctor,Chilling Reign,214,Rare Rainbow,Supporter
+,Flannery,Chilling Reign,215,Rare Rainbow,Supporter
+,Karen's Conviction,Chilling Reign,216,Rare Rainbow,Supporter
+,Klara,Chilling Reign,217,Rare Rainbow,Supporter
+,Melony,Chilling Reign,218,Rare Rainbow,Supporter
+,Peonia,Chilling Reign,219,Rare Rainbow,Supporter
+,Peony,Chilling Reign,220,Rare Rainbow,Supporter
+,Siebold,Chilling Reign,221,Rare Rainbow,Supporter
+101,Electrode,Chilling Reign,222,Rare Secret,Lightning
+437,Bronzong,Chilling Reign,223,Rare Secret,Metal
+143,Snorlax,Chilling Reign,224,Rare Secret,Colorless
+,Echoing Horn,Chilling Reign,225,Rare Secret,Item
+,Fan of Waves,Chilling Reign,226,Rare Secret,Item
+,Fog Crystal,Chilling Reign,227,Rare Secret,Item
+,Rugged Helmet,Chilling Reign,228,Rare Secret,Item
+,Urn of Vitality,Chilling Reign,229,Rare Secret,Item
+,Welcoming Lantern,Chilling Reign,230,Rare Secret,Item
+,Water Energy,Chilling Reign,231,Rare Secret,Energy
+,Psychic Energy,Chilling Reign,232,Rare Secret,Energy
+,Fighting Energy,Chilling Reign,233,Rare Secret,Energy
