@@ -44,6 +44,29 @@
     "newPokemon_many": "{{count}} nouveaux Pokémon",
     "missing_one": "{{count}} Pokémon dans aucune extension",
     "missing_other": "{{count}} Pokémon dans aucune extension",
-    "missing_many": "{{count}} Pokémon dans aucune extension"
+    "missing_many": "{{count}} Pokémon dans aucune extension",
+    "options": "Options d'affichage",
+    "order": "Ordre",
+    "packOrder": "Par extension",
+    "pokemonOrder": "Par Pokémon",
+    "generation": "Génération {{gen}} · #{{from}}–#{{to}}",
+    "allPacks": "Toutes les extensions",
+    "showPokemonList": "Liste des Pokémon",
+    "showPackList": "Liste des extensions",
+    "searchPokemon": "Rechercher un Pokémon",
+    "notInPack": "Aucune extension",
+    "filteredBy": "Uniquement {{pack}}. Touchez pour tout afficher.",
+    "legend": "Contour de rareté :",
+    "rarity": {
+      "common": "Commune",
+      "uncommon": "Peu commune",
+      "rare": "Rare",
+      "holo": "Holo",
+      "ultra": "Ultra (ex, V, VMAX, VSTAR)",
+      "illustration": "Illustration",
+      "shiny": "Radieuse / Magnifique",
+      "rainbow": "Arc-en-ciel",
+      "secret": "Secrète / Hyper"
+    }
   }
 }

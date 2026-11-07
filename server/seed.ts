@@ -67,6 +67,7 @@ export function parseSetCsv(text: string, setId: string): Card[] {
   const iName = col('name');
   const iNum = col('setNumber', 'entryNumber');
   const iRarity = col('rarity');
+  const iType = col('type');
   const cards: Card[] = [];
   for (const r of rows) {
     const dex = (r[iDex] ?? '').trim();
@@ -78,6 +79,7 @@ export function parseSetCsv(text: string, setId: string): Card[] {
       name: (r[iName] ?? '').trim(),
       number,
       rarity: (r[iRarity] ?? '').trim(),
+      type: (r[iType] ?? '').trim(),
       dexNumbers: [Number(dex)],
       subtypes: [],
     });

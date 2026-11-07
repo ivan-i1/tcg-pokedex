@@ -41,7 +41,7 @@ describe('parseSetCsv', () => {
     const a = 'dexNumber,name,setName,setNumber,rarity,type\n283,Surskit,Paradox Rift,001,Common,Grass\n,Boss\'s Orders,Paradox Rift,172,Uncommon,\n';
     const b = 'dexNumber,name,set,entryNumber,rarity,type\n187,Hoppip,Paldea Evolved,001,Common,Grass\n';
     expect(parseSetCsv(a, 'sv04')).toEqual([
-      { id: 'sv04-001', setId: 'sv04', name: 'Surskit', number: '001', rarity: 'Common', dexNumbers: [283], subtypes: [] },
+      { id: 'sv04-001', setId: 'sv04', name: 'Surskit', number: '001', rarity: 'Common', type: 'Grass', dexNumbers: [283], subtypes: [] },
     ]);
     expect(parseSetCsv(b, 'sv02').map((c) => c.id)).toEqual(['sv02-001']);
   });
@@ -85,6 +85,21 @@ describe('api', () => {
       ],
       missing: [{ dex: 3, name: 'Venusaur' }],
     });
+  });
+
+  it('describes each new Pokémon by the lowest-numbered card that covers it', () => {
+    const multi = createApi(
+      buildDataset(
+        [{ id: 's', name: 'S', releaseDate: '2024-01-01', file: 's.csv' }],
+        () =>
+          'dexNumber,name,setName,setNumber,rarity,type\n' +
+          '25,Pikachu,S,201,Special Illustration Rare,Lightning\n' +
+          '25,Pikachu,S,063,Common,Lightning\n',
+        '"#0025","Pikachu"\n'
+      )
+    );
+    const body = multi('GET', '/v1/coverage').body as { picks: { newPokemon: unknown[] }[] };
+    expect(body.picks[0].newPokemon).toEqual([{ dex: 25, name: 'Pikachu', type: 'Lightning', rarity: 'Common', number: '063' }]);
   });
 
   it('lists sets newest first with card counts', () => {

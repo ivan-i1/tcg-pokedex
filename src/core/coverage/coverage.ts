@@ -34,6 +34,8 @@ export type Card = {
   /** Collector number within the set, e.g. "001". */
   number?: string;
   rarity?: string;
+  /** Energy type printed on the card: 'Grass', 'Lightning', … */
+  type?: string;
 };
 
 export type Pick = { set: CardSet; newDex: number[] };

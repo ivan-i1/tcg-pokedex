@@ -44,6 +44,29 @@
     "newPokemon_many": "{{count}} Pokémon novos",
     "missing_one": "{{count}} Pokémon ainda sem expansão",
     "missing_other": "{{count}} Pokémon ainda sem expansão",
-    "missing_many": "{{count}} Pokémon ainda sem expansão"
+    "missing_many": "{{count}} Pokémon ainda sem expansão",
+    "options": "Opções de exibição",
+    "order": "Ordem",
+    "packOrder": "Por expansão",
+    "pokemonOrder": "Por Pokémon",
+    "generation": "Geração {{gen}} · #{{from}}–#{{to}}",
+    "allPacks": "Todas as expansões",
+    "showPokemonList": "Lista de Pokémon",
+    "showPackList": "Lista de expansões",
+    "searchPokemon": "Buscar Pokémon",
+    "notInPack": "Sem expansão",
+    "filteredBy": "Apenas {{pack}}. Toque para ver tudo.",
+    "legend": "Contorno de raridade:",
+    "rarity": {
+      "common": "Comum",
+      "uncommon": "Incomum",
+      "rare": "Rara",
+      "holo": "Holo",
+      "ultra": "Ultra (ex, V, VMAX, VSTAR)",
+      "illustration": "Ilustração",
+      "shiny": "Radiante / Incrível",
+      "rainbow": "Arco-íris",
+      "secret": "Secreta / Hiper"
+    }
   }
 }

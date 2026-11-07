@@ -2,7 +2,7 @@
  * Read-only HTTP API over the dataset, as a pure router (method, url) -> response so it
  * can be tested without a socket. The coverage result is computed once at startup.
  */
-import { solveReverseRelease } from '../src/core/coverage/coverage.ts';
+import { cardCovers, solveReverseRelease, type Card } from '../src/core/coverage/coverage.ts';
 import type { RateLimiter } from './rateLimit.ts';
 import type { Dataset } from './seed.ts';
 
@@ -22,13 +22,31 @@ export function createApi(data: Dataset, options: { rateLimiter?: RateLimiter } 
   const names = new Map(data.species.map((s) => [s.dex, s.name]));
   const named = (dex: number) => ({ dex, name: names.get(dex) ?? `#${dex}` });
   const result = solveReverseRelease(data);
+
+  // The card that stands for a Pokémon in a set: the lowest collector number that covers
+  // it, which is normally the regular print rather than an alternate art or secret rare.
+  const speciesMap = new Map(data.species.map((s) => [s.dex, s]));
+  const bestCard = new Map<string, Card>();
+  const num = (c: Card) => Number.parseInt(c.number ?? '', 10);
+  for (const card of data.cards) {
+    for (const dex of cardCovers(card, speciesMap)) {
+      const key = `${card.setId}:${dex}`;
+      const cur = bestCard.get(key);
+      if (!cur || num(card) < num(cur)) bestCard.set(key, card);
+    }
+  }
+  const described = (setId: string, dex: number) => {
+    const c = bestCard.get(`${setId}:${dex}`);
+    return { ...named(dex), type: c?.type ?? '', rarity: c?.rarity ?? '', number: c?.number ?? '' };
+  };
+
   const coverage = {
     total: result.total,
     coveredCount: result.coveredCount,
     setCount: result.setCount,
     picks: result.picks.map((p) => ({
       set: { id: p.set.id, name: p.set.name, releaseDate: p.set.releaseDate },
-      newPokemon: p.newDex.map(named),
+      newPokemon: p.newDex.map((dex) => described(p.set.id, dex)),
     })),
     missing: result.missing.map(named),
   };
