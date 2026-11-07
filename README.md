@@ -66,7 +66,8 @@ Known gaps:
 |---|---|
 | `GET /health` | `{ "ok": true }` |
 | `GET /v1/sets` | Sets, newest first, with card counts |
-| `GET /v1/coverage` | `{ total, coveredCount, setCount, picks: [{ set, newPokemon }], missing }` |
+| `GET /v1/coverage` | `{ total, coveredCount, setCount, picks: [{ set, newPokemon: [{ dex, name, type, rarity, number }] }], missing }` |
+| any other `GET` | The web app, when `WEB_DIR` is set (unknown paths get `index.html`) |
 
 ```bash
 node server/main.ts        # local: http://localhost:18100 (PORT and HOST override)
@@ -79,7 +80,7 @@ node server/main.ts        # local: http://localhost:18100 (PORT and HOST overri
 | `https://escalenusserver.tailec6a2c.ts.net:10000` | **Anyone** (public) | Tailscale Funnel: `sudo tailscale funnel --bg --https=10000 http://127.0.0.1:18100` |
 | `https://escalenusserver.tailec6a2c.ts.net:8443` | Tailnet devices only | Caddy |
 
-**Rate limit:** each visitor gets 60 requests per minute (`RATE_LIMIT_PER_MIN`, 0 turns it off). Over the limit, the API answers `429` with `Retry-After`. `/health` and CORS preflight are never limited. The visitor's address comes from `X-Forwarded-For`, which both proxies overwrite with the real client address.
+**Rate limit:** each visitor gets 60 `/v1` requests per minute (`RATE_LIMIT_PER_MIN`, 0 turns it off). Over the limit, the API answers `429` with `Retry-After`. `/health`, CORS preflight and the web app's files are never limited. The visitor's address comes from `X-Forwarded-For`, which both proxies overwrite with the real client address.
 
 To redeploy:
 
@@ -114,6 +115,14 @@ npm run ios                # development build on the iOS Simulator (needs Xcode
 ```
 
 You need Node 20 or newer. Android needs JDK 17 and the Android SDK. iOS needs Xcode and CocoaPods.
+
+## Hosted web app
+
+The home server serves the web app and its API together at **https://escalenusserver.tailec6a2c.ts.net:10000**. That address is public through Tailscale Funnel, so any device can use it: home Wi-Fi, mobile data, or anyone you share it with.
+
+- `server/Dockerfile` builds the app (`expo export` with `EXPO_PUBLIC_API_URL=/`) in its first stage.
+- The Node server then serves those files next to the API.
+- Redeploying (see [Server](#server)) rebuilds the app too. On the 2015 MacBook that takes a few minutes, while the old container keeps serving.
 
 ## Installing as a web app (PWA)
 
