@@ -26,6 +26,22 @@ This favours the most recent sets. It does not find the smallest possible number
 
 **The seed data has no stage information**, so the evolution rule cannot apply yet: every card with a dex number counts.
 
+## The "Sets to collect" screen
+
+`src/app/coverage.tsx`, with its pure view logic in `src/features/coverage/model.ts`:
+
+- **View options** at the top switch between:
+  - **Pack order:** the answer, newest pack first.
+  - **Pokémon order:** every Pokémon by dex number, split by generation (Gen 1 #1–151 … Gen 9 #906–1025).
+
+  Later search refinements (for example including Mega Evolutions) belong in the same menu.
+- **Chips:** each Pokémon is a chip showing `#dex name`. It describes the lowest-numbered card that covers it in its pack.
+  - **Fill:** the card's energy type. Pokémon that no pack covers are gray with a dashed outline.
+  - **Outline:** the rarity group. Common is green, uncommon blue, rare red, rainbow white, and secret/hyper gold. Holo is purple; ultra (ex, V, VMAX, VSTAR) is pink; illustration rares are orange; radiant/amazing rares are cyan.
+- **Side panel** (left; a drawer below 900px width) shows the other axis:
+  - In Pack order it lists every Pokémon, searchable. Tapping one scrolls to the pack that covers it and highlights the chip.
+  - In Pokémon order it lists the packs. Tapping one shows only that pack's Pokémon.
+
 ## Data
 
 `server/data/` holds the seed, taken from the Google Drive folder "Pokemon TCG":
